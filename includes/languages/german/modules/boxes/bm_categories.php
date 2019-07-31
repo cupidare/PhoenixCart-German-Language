@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE', 'Admin-Panel Logins');
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION', 'Logt die Verwendung des Admin-Panel logins.');
-
+  define('MODULE_BOXES_CATEGORIES_TITLE', 'Kategorien');
+  define('MODULE_BOXES_CATEGORIES_DESCRIPTION', 'Kategorien anzeigen');
+  define('MODULE_BOXES_CATEGORIES_BOX_TITLE', 'Kategorien');

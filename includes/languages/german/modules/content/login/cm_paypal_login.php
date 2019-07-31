@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE', 'Admin-Panel Logins');
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION', 'Logt die Verwendung des Admin-Panel logins.');
+// language definitions have been moved to:
+// catalog/includes/apps/paypal/languages/english/modules/LOGIN/LOGIN.php
 

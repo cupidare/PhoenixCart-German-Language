@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE', 'Admin-Panel Logins');
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION', 'Logt die Verwendung des Admin-Panel logins.');
-
+  define('MODULE_BOXES_LANGUAGES_TITLE', 'Sprachen');
+  define('MODULE_BOXES_LANGUAGES_DESCRIPTION', 'Zeige alle Sprachen');
+  define('MODULE_BOXES_LANGUAGES_BOX_TITLE', 'Sprachen');
