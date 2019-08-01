@@ -56,7 +56,7 @@ define('HEADER_TITLE_TOP', '<i class="fas fa-home"></i><span class="sr-only"> St
 define('HEADER_TITLE_CATALOG', 'Katalog');
 
 // text for gender
-define('MALE', 'M<span class="hidden-xs">err</span>');
+define('MALE', 'H<span class="hidden-xs">err</span>');
 define('FEMALE', 'F<span class="hidden-xs">rau</span>');
 
 // checkout procedure text
@@ -199,7 +199,7 @@ define('FORM_REQUIRED_INFORMATION', '<span class="fas fa-asterisk text-danger"><
 define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><span class="fas fa-asterisk"></span></span>');
 
 // reviews
-define('REVIEWS_TEXT_RATED', 'Bewertet %s by <cite title="%s" itemprop="author">%s</cite>');
+define('REVIEWS_TEXT_RATED', 'Bewertet %s von <cite title="%s" itemprop="author">%s</cite>');
 define('REVIEWS_TEXT_AVERAGE', 'Die durchschnittliche Bewertung beruht auf <span itemprop="ratingCount">%s</span> Bewertung(en) %s');
 define('REVIEWS_TEXT_TITLE', 'Was sagen andere Nutzer...');
 
@@ -226,4 +226,4 @@ define('PRODUCT_REMOVED', '%s wurde aus dem Warenkorb entfernt');
 define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '');
 
 // noscript helper
-define('TEXT_NOSCRIPT', '<p><strong>JavaScript seems to be disabled in your browser.</strong></p><p>You must have JavaScript enabled in your browser to utilize the functionality of this website.<br><a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Click here for instructions on enabling javascript in your browser</a>.</p>');
+define('TEXT_NOSCRIPT', '<p><strong>JavaScript scheint nicht aktiviert zu sein.</strong></p><p>Bitte aktivieren Sie JavaScript, um den vollen Umfang dieser Seite nutzen zu können. <br><a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Hier</a> gibt es Informationen zum Aktivieren von Javascript in Ihrem Browser.</p>');
