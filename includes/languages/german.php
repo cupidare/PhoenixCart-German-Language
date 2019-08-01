@@ -118,6 +118,7 @@ define('ENTRY_TELEPHONE_NUMBER_TEXT', '');
 define('ENTRY_FAX_NUMBER', 'Telefaxnummer:');
 define('ENTRY_FAX_NUMBER_TEXT', '');
 define('ENTRY_NEWSLETTER', 'ich möchte einen Newsletter erhalten ');
+define('ENTRY_NEWSLETTER_TEXT', '');
 define('ENTRY_NEWSLETTER_YES', 'abonniert');
 define('ENTRY_NEWSLETTER_NO', 'nicht abonniert');
 define('ENTRY_NEWSLETTER_ERROR', '');
