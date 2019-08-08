@@ -15,4 +15,4 @@
 */
 
 define('MODULE_SECURITY_CHECK_GITHUB_TITLE', 'Github-Verzeichnis');
-define('MODULE_SECURITY_CHECK_GITHUB_DIRECTORY_EXISTS', 'Das Github-Verzeichnis existiert in : ' . DIR_FS_CATALOG . '.github. Sie sollten dieses Verzeichnis löschen.');
+define('MODULE_SECURITY_CHECK_GITHUB_DIRECTORY_EXISTS', 'Das Github-Verzeichnis existiert in : ' . DIR_FS_CATALOG . '.github. Sie sollten dieses Verzeichnis lÃ¶schen.');

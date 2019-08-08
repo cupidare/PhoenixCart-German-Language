@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('WARNING_SESSION_AUTO_START', 'session.auto_start is enabled - please disable this php feature in php.ini and restart the web server.');
+define('WARNING_SESSION_AUTO_START', 'session.auto_start is aktiviert - bitte deaktivieren Sie dieses php-Feature in php.ini und starten Sie den Webserver neu.');
 

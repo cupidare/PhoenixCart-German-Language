@@ -15,10 +15,10 @@
 */
 
 define('MODULE_ADMIN_CURRENCIES_FIXER_TITLE', 'Fixer');
-define('MODULE_ADMIN_CURRENCIES_FIXER_DESCRIPTION', 'Aktualisiert Währungen über die Fixer-API.<div class=\'secWarning\'>Benötigt einen API-Schlüssel von https://fixer.io</div>');
+define('MODULE_ADMIN_CURRENCIES_FIXER_DESCRIPTION', 'Aktualisiert WÃ¤hrungen Ã¼ber die Fixer-API.<div class=\'secWarning\'>BenÃ¶tigt einen API-SchlÃ¼ssel von https://fixer.io</div>');
 
 // good
-define('MODULE_ADMIN_CURRENCIES_FIXER_CURRENCIES_UPDATED', 'Der Wechselkurs für %s wurde erfolgreich via Fixer aktualisiert.');
+define('MODULE_ADMIN_CURRENCIES_FIXER_CURRENCIES_UPDATED', 'Der Wechselkurs fÃ¼r %s wurde erfolgreich via Fixer aktualisiert.');
 
 // error codes
 define('FIXER_ERROR_404', 'The requested resource does not exist.');
