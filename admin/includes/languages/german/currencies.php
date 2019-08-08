@@ -18,6 +18,7 @@ define('TABLE_HEADING_CURRENCY_VALUE', 'Wert');
 define('TABLE_HEADING_ACTION', 'Aktion');
 
 define('TEXT_INFO_EDIT_INTRO', 'Bitte führen Sie alle notwendigen Änderungen durch');
+define('TEXT_INFO_COMMON_CURRENCIES', '-- Verbreitete Währungen--');
 define('TEXT_INFO_CURRENCY_TITLE', 'Name:');
 define('TEXT_INFO_CURRENCY_CODE', 'Kürzel:');
 define('TEXT_INFO_CURRENCY_SYMBOL_LEFT', 'Symbol Links:');
