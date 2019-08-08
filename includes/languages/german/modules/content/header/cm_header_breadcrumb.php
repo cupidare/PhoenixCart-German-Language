@@ -15,5 +15,5 @@
 */
 
   define('MODULE_CONTENT_HEADER_BREADCRUMB_TITLE', 'Breadcrumb');
-  define('MODULE_CONTENT_HEADER_BREADCRUMB_DESCRIPTION', 'Adds a Breadrcumb Trail into the Header Area of your site.');
+  define('MODULE_CONTENT_HEADER_BREADCRUMB_DESCRIPTION', 'Fügt die Breadrcumb-Leiste in die Kopfzeile der Seite ein.');
   

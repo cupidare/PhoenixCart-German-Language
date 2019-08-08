@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2014 osCommerce
 
   Released under the GNU General Public License
 */
@@ -27,4 +27,4 @@
   define('MODULE_CONTENT_ACCOUNT_SAGE_PAY_CARDS_TEXT_NO_CARDS', '<p>No cards have been saved yet.</p>');
 
   define('MODULE_CONTENT_ACCOUNT_SAGE_PAY_CARDS_SUCCESS_DELETED', 'The card has been successfully deleted.');
-
+?>
