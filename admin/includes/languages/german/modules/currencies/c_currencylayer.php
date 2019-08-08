@@ -15,10 +15,10 @@
 */
 
 define('MODULE_ADMIN_CURRENCIES_CURRENCYLAYER_TITLE', 'Currency Layer');
-define('MODULE_ADMIN_CURRENCIES_CURRENCYLAYER_DESCRIPTION', 'Update Currencies via the CurrencyLayer API.<div class="secWarning">Requires an API key from https://currencylayer.com</div>');
+define('MODULE_ADMIN_CURRENCIES_CURRENCYLAYER_DESCRIPTION', 'Aktualisiert Währungen über die CurrencyLayer API.<div class="secWarning">Benötigt einen API-Schlüssel von https://currencylayer.com</div>');
 
 // good
-define('MODULE_ADMIN_CURRENCIES_CURRENCYLAYER_CURRENCIES_UPDATED', 'The exchange rate for %s was updated successfully via Currency Layer.');
+define('MODULE_ADMIN_CURRENCIES_CURRENCYLAYER_CURRENCIES_UPDATED', 'Der Wechselkurs für %s wurde erfolgreich via Currency Layer aktualisiert.');
 
 // error codes
 define('CURRENCYLAYER_ERROR_404', 'Requested a resource which does not exist.');

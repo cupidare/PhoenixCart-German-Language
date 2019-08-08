@@ -15,10 +15,10 @@
 */
 
 define('MODULE_ADMIN_CURRENCIES_EXCHANGERATESAPI_TITLE', 'Exchange Rates API');
-define('MODULE_ADMIN_CURRENCIES_EXCHANGERATESAPI_DESCRIPTION', 'Update Currencies via the Exchange Rates API.<div class=\'secWarning\'>Uses https://exchangeratesapi.io/ as a data source.</div>');
+define('MODULE_ADMIN_CURRENCIES_EXCHANGERATESAPI_DESCRIPTION', 'Aktualisiert Währungen über die Exchange-Rates-API.<div class=\'secWarning\'>Nutzt https://exchangeratesapi.io/ als Datenquelle (englisch).</div>');
 
 // good
-define('MODULE_ADMIN_CURRENCIES_EXCHANGERATESAPI_CURRENCIES_UPDATED', 'The exchange rate for %s was updated successfully via the Exchange Rates API.');
+define('MODULE_ADMIN_CURRENCIES_EXCHANGERATESAPI_CURRENCIES_UPDATED', 'Der Wechselkurs für %s wurde erfolgreich via Exchange-Rates-API aktualisiert.');
 
 // bad
 // no multi-lang capability for bad messages
