@@ -195,8 +195,8 @@ define('TEXT_VIEW_GRID', ' Raster');
 define('TEXT_SEARCH_PLACEHOLDER','Suche');
 
 // message for required inputs
-define('FORM_REQUIRED_INFORMATION', '<span class="fas fa-asterisk text-danger"></span> benötigte Informationen');
-define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><span class="fas fa-asterisk"></span></span>');
+define('FORM_REQUIRED_INFORMATION', '<i class="fas fa-asterisk text-danger"></i> benötigte Informationen');
+define('FORM_REQUIRED_INPUT', '<i class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></i>');
 
 // reviews
 define('REVIEWS_TEXT_RATED', 'Bewertet %s von <cite title="%s" itemprop="author">%s</cite>');
