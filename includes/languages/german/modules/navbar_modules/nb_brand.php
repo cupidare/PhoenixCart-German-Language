@@ -15,7 +15,7 @@
 */
 
   define('MODULE_NAVBAR_BRAND_TITLE', 'Marke');
-  define('MODULE_NAVBAR_BRAND_DESCRIPTION', 'Zeige die Marke in der Navigationsleiste.  <div class="secWarning">Dabei kann es sich um einen Link oder ein Bild handeln.<br><br>Für weitere Informationen bezüglich der Verwendung von Bildern, siehe <a target="_blank" href="https://getbootstrap.com/docs/4.1/components/navbar/#brand"><u>navbar/#brand</u></a></div>');
+  define('MODULE_NAVBAR_BRAND_DESCRIPTION', 'Zeige die Marke in der Navigationsleiste.  <div class="secWarning">Dabei kann es sich um einen Link oder ein Bild handeln.<br><br>FÃ¼r weitere Informationen bezÃ¼glich der Verwendung von Bildern, siehe <a target="_blank" href="https://getbootstrap.com/docs/4.1/components/navbar/#brand"><u>navbar/#brand</u></a></div>');
   
   define('MODULE_NAVBAR_BRAND_PUBLIC_TEXT', STORE_NAME);
   
