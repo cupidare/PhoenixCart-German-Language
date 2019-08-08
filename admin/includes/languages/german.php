@@ -302,7 +302,7 @@ define('SUCCESS_FILE_SAVED_SUCCESSFULLY', 'Erfolg : Datei erfolgreich gespeicher
 define('WARNING_NO_FILE_UPLOADED', 'Warnung: keine Datei hochgeladen.');
 
 // bootstrap helper
-define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '<p>Inhaltsbreite can 12 oder weniger pro Spalte betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% Breite.</p><p>Summe aller Spalten muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>');
+define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% Breite.</p><p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>');
 
 // seo helper
 define('PLACEHOLDER_COMMA_SEPARATION', 'Muss, durch, Komma, getrennt, werden');
