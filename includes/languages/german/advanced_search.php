@@ -16,7 +16,7 @@ define('NAVBAR_TITLE_2', 'Suchergebnisse');
 define('HEADING_TITLE_1', 'Ihre Suchkriterien');
 define('HEADING_TITLE_2', 'Artikel, welche den Suchkriterien entsprechen');
 
-define('HEADING_SEARCH_CRITERIA', 'Ihre Suchworte');
+define('HEADING_SEARCH_CRITERIA', 'Ihre Suchkriterien');
 
 define('TEXT_SEARCH_IN_DESCRIPTION', 'Auch in den Beschreibungen suchen');
 define('ENTRY_CATEGORIES', 'Kategorien:');
@@ -35,7 +35,7 @@ define('ENTRY_DATE_TO_TEXT', '');
 define('ENTRY_DATE', 'Datum');
 define('ENTRY_PRICE', 'Preis');
 
-define('TEXT_SEARCH_HELP_LINK', '<span class="fas fa-info-circle"></span>Hilfe zur erweiterten Suche');
+define('TEXT_SEARCH_HELP_LINK', '<i class="fas fa-info-circle"></i>Hilfe zur Suche');
 
 define('TEXT_ALL_CATEGORIES', 'Alle Kategorien');
 define('TEXT_ALL_MANUFACTURERS', 'Alle Hersteller');

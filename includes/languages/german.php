@@ -94,7 +94,7 @@ define('ENTRY_EMAIL_ADDRESS_CHECK_ERROR', 'Die eMail Adresse scheint nicht gült
 define('ENTRY_EMAIL_ADDRESS_ERROR_EXISTS', 'Die eMail Adresse ist bereits gespeichert - bitte melden Sie sich mit dieser Adresse an oder eröffnen Sie ein neues Konto mit einer anderen Adresse.');
 define('ENTRY_EMAIL_ADDRESS_TEXT', '');
 define('ENTRY_STREET_ADDRESS', 'Strasse/Hausnr.:');
-define('ENTRY_STREET_ADDRESS_ERROR', 'Die Strassenadresse sollte mindestens ' . ENTRY_STREET_ADDRESS_MIN_LENGTH . ' Zeichen enthalten.');
+define('ENTRY_STREET_ADDRESS_ERROR', 'Die Straße sollte mindestens ' . ENTRY_STREET_ADDRESS_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_STREET_ADDRESS_TEXT', '');
 define('ENTRY_SUBURB', 'Stadtteil:');
 define('ENTRY_SUBURB_TEXT', '');
@@ -102,7 +102,7 @@ define('ENTRY_POST_CODE', 'Postleitzahl:');
 define('ENTRY_POST_CODE_ERROR', 'Die Postleitzahl sollte mindestens ' . ENTRY_POSTCODE_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_POST_CODE_TEXT', '');
 define('ENTRY_CITY', 'Ort:');
-define('ENTRY_CITY_ERROR', 'Die Stadt sollte mindestens ' . ENTRY_CITY_MIN_LENGTH . ' Zeichen enthalten.');
+define('ENTRY_CITY_ERROR', 'Der Ort sollte mindestens ' . ENTRY_CITY_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_CITY_TEXT', '');
 define('ENTRY_NAME_TEXT', '');
 define('ENTRY_STATE', 'Bundesland:');
@@ -121,7 +121,6 @@ define('ENTRY_NEWSLETTER', 'ich möchte einen Newsletter erhalten ');
 define('ENTRY_NEWSLETTER_TEXT', '');
 define('ENTRY_NEWSLETTER_YES', 'abonniert');
 define('ENTRY_NEWSLETTER_NO', 'nicht abonniert');
-define('ENTRY_NEWSLETTER_ERROR', '');
 define('ENTRY_PASSWORD', 'Passwort:');
 define('ENTRY_PASSWORD_ERROR', 'Das Passwort sollte mindestens ' . ENTRY_PASSWORD_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_PASSWORD_ERROR_NOT_MATCHING', 'Beide eingegebenen Passwörter müssen identisch sein.');
@@ -228,3 +227,9 @@ define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '');
 
 // noscript helper
 define('TEXT_NOSCRIPT', '<p><strong>JavaScript scheint nicht aktiviert zu sein.</strong></p><p>Bitte aktivieren Sie JavaScript, um den vollen Umfang dieser Seite nutzen zu können. <br><a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Hier</a> gibt es Informationen zum Aktivieren von Javascript in Ihrem Browser.</p>');
+
+// sitewide is-product 
+define('IS_PRODUCT_SHOW_PRICE', '%s');
+define('IS_PRODUCT_SHOW_PRICE_SPECIAL', '<del>%s</del> <span class="text-danger">jetzt %s</span>');
+define('IS_PRODUCT_BUTTON_BUY', '<i class="fas fa-shopping-cart"></i>');
+define('IS_PRODUCT_BUTTON_VIEW', '<i class="fas fa-eye"></i> Anzeigen');
