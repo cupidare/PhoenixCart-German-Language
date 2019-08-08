@@ -15,7 +15,6 @@ define('NAVBAR_TITLE_2', 'Newsletter Abonnements');
 
 define('HEADING_TITLE', 'Newsletter Abonnements');
 
-define('MY_NEWSLETTERS_TITLE', 'Meine Newsletter Abonnements');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER', 'Allgmeiner Newsletter');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION', 'Beinhaltet allgemeine Nachrichten über unseren Shop, Informationen über neue Produkte, Sonderangebote und andere Informationen von allgemeinem Interesse.');
 

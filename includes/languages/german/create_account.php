@@ -20,7 +20,6 @@ define('EMAIL_SUBJECT', 'Willkommen bei' . STORE_NAME);
 define('EMAIL_GREET_MR', 'Sehr geehrter Herr %s,' . "\n\n");
 define('EMAIL_GREET_MS', 'Sehr geehrte Frau %s,' . "\n\n");
 define('EMAIL_GREET_NONE', 'Sehr geehrte/r %s' . "\n\n");
-//define('EMAIL_GREET_NONE', 'Sehr geehrte ' . stripslashes($_POST['firstname']) . ',' . "\n\n");
 define('EMAIL_WELCOME', 'Willkommen bei <strong>' . STORE_NAME . '</strong>.' . "\n\n");
 define('EMAIL_TEXT', 'Sie können jetzt unseren <strong>Online-Service</strong> nutzen. Der Service bietet unter anderem:' . "\n\n" . '<li><strong>Kundenwarenkorb</strong> - Jeder Artikel bleibt registriert bis Sie zur Kasse gehen, oder die Produkte aus dem Warenkorb entfernen.' . "\n" . '<li><strong>Adressbuch</strong> - Wir können jetzt die Produkte zu der von Ihnen ausgesuchten Adresse senden. Der perfekte Weg ein Geburtstagsgeschenk zu versenden.' . "\n" . '<li><strong>Vorherige Bestellungen</strong> - Sie können jederzeit Ihre vorherigen Bestellungen überprüfen.' . "\n" . '<li><strong>Meinungen über Produkte</strong> - Teilen Sie Ihre Meinung zu unseren Produkten mit anderen Kunden.' . "\n\n");
 define('EMAIL_CONTACT', 'Falls Sie Fragen zu unserem Kunden-Service haben, wenden Sie sich bitte an den Vertrieb: ' . STORE_OWNER_EMAIL_ADDRESS . '.' . "\n\n");
