@@ -15,5 +15,5 @@
 */
 
   define('MODULE_CONTENT_HEADER_MESSAGESTACK_TITLE', 'Message-Stack-Benachrichtigungen');
-  define('MODULE_CONTENT_HEADER_MESSAGESTACK_DESCRIPTION', 'Fügt Info-Benachrichtigungen in die Kopfzeile ein.');
+  define('MODULE_CONTENT_HEADER_MESSAGESTACK_DESCRIPTION', 'FÃ¼gt Info-Benachrichtigungen in die Kopfzeile ein.');
   

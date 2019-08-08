@@ -15,5 +15,5 @@
 */
 
   define('MODULE_CONTENT_HEADER_BREADCRUMB_TITLE', 'Breadcrumb');
-  define('MODULE_CONTENT_HEADER_BREADCRUMB_DESCRIPTION', 'Fügt die Breadrcumb-Leiste in die Kopfzeile der Seite ein.');
+  define('MODULE_CONTENT_HEADER_BREADCRUMB_DESCRIPTION', 'FÃ¼gt die Breadrcumb-Leiste in die Kopfzeile der Seite ein.');
   

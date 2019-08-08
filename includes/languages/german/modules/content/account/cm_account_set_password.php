@@ -11,7 +11,7 @@
 */
 
   define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_TITLE', 'Setze Nutzer-Passwort');
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_DESCRIPTION', 'Ersetze die Passwort-Ändern-Seite mit einer Setze-Passwort-Seite, wen kein lokales Nutzer-Passwort erstellt wurde.');
+  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_DESCRIPTION', 'Ersetze die Passwort-Ã„ndern-Seite mit einer Setze-Passwort-Seite, wen kein lokales Nutzer-Passwort erstellt wurde.');
 
   define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_LINK_TITLE', 'Setze Nutzer-Passwort.');
 

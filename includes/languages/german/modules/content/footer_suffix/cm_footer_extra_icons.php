@@ -15,7 +15,7 @@
 */
 
   define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE', 'Icons von Zahlarten');
-  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION', 'Fügt die Icons von Zahlarten in die Extra-Fußzeile der Seite ein');
+  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION', 'FÃ¼gt die Icons von Zahlarten in die Extra-FuÃŸzeile der Seite ein');
   
   define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT', '
   <p>

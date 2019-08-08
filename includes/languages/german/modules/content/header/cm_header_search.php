@@ -15,4 +15,4 @@
 */
 
   define('MODULE_CONTENT_HEADER_SEARCH_TITLE', 'Such-Box');
-  define('MODULE_CONTENT_HEADER_SEARCH_DESCRIPTION', 'Fügt ein Suchfeld in die Kopfzeile der Seite ein.');
+  define('MODULE_CONTENT_HEADER_SEARCH_DESCRIPTION', 'FÃ¼gt ein Suchfeld in die Kopfzeile der Seite ein.');
