@@ -5,8 +5,8 @@ OSCOM CE Phoenix
 
 
 === DEUTSCH ===
-Alle Dateien sind als utf-8 kodiert
-Alle Umlaute etc wurden ohne Maskierungszeichen gespeichert (ä anstelle of &auml;)
+Bitte beachten: Alle Dateien sind als utf-8 kodiert 
+Alle Umlaute etc werden ohne Maskierungszeichen gespeichert (ä anstelle of &auml;)
 
 INSTALLATION
 
@@ -28,7 +28,7 @@ Directory: german
 
 
 === ENGLISH ===
-All files are utf-8
+Please note: All files are coded as utf-8
 All characters are html-unescaped (ä instead of &auml;)
 
 INSTALLATION
