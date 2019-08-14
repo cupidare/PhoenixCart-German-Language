@@ -210,11 +210,12 @@ define('TABLE_HEADING_IMAGE', '');
 define('TABLE_HEADING_MODEL', 'Modell');
 define('TABLE_HEADING_PRODUCTS', 'Produktbezeichung');
 define('TABLE_HEADING_MANUFACTURER', 'Hersteller');
-define('TABLE_HEADING_QUANTITY', 'Menge');
+define('TABLE_HEADING_QUANTITY', 'Lager');
 define('TABLE_HEADING_PRICE', 'Preis');
 define('TABLE_HEADING_WEIGHT', 'Gewicht');
 define('TABLE_HEADING_BUY_NOW', 'jetzt kaufen');
-define('TABLE_HEADING_LATEST_ADDED', 'Neueste Produkte');
+define('TABLE_HEADING_LATEST_ADDED', 'hinzugefügt');
+define('TABLE_HEADING_ORDERED', 'beliebt');
 
 // product notifications
 define('PRODUCT_SUBSCRIBED', '%s wurde zu Ihren beobachteten Artikeln hinzugefügt');
@@ -233,3 +234,7 @@ define('IS_PRODUCT_SHOW_PRICE', '%s');
 define('IS_PRODUCT_SHOW_PRICE_SPECIAL', '<del>%s</del> <span class="text-danger">jetzt %s</span>');
 define('IS_PRODUCT_BUTTON_BUY', '<i class="fas fa-shopping-cart"></i>');
 define('IS_PRODUCT_BUTTON_VIEW', '<i class="fas fa-eye"></i> Anzeigen');
+// sitewide product listing
+define('LISTING_SORT_DOWN', '<i class="fas fa-level-down-alt text-primary"></i>');
+define('LISTING_SORT_UP', '<i class="fas fa-level-up-alt text-primary"></i>');
+define('LISTING_SORT_UNSELECTED', '<i class="fas fa-level-up-alt text-black-50"></i>');

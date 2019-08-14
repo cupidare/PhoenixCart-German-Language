@@ -18,8 +18,4 @@
   const MODULE_CONTENT_CARD_PRODUCTS_DESCRIPTION = 'Zeigt neue Produkte auf der Startseite.';
   
   const MODULE_CONTENT_CARD_PRODUCTS_HEADING     = 'Neue Produkte im %s';
-  
-  const MODULE_CONTENT_CARD_PRODUCTS_BUTTON_VIEW = '<i class="fas fa-eye"></i> Anschauen';
-  const MODULE_CONTENT_CARD_PRODUCTS_BUTTON_BUY  = '<i class="fas fa-shopping-cart"></i> in den Warenkorb';
-  
- 
+   
