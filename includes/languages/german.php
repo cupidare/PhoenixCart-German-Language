@@ -138,7 +138,6 @@ define('ENTRY_PASSWORD_NEW_ERROR_NOT_MATCHING', 'Die Passwort-Bestätigung muss 
 // constants for use in tep_prev_next_display function
 define('TEXT_RESULT_PAGE', 'Seiten:');
 define('TEXT_DISPLAY_NUMBER_OF_PRODUCTS', 'angezeigte Produkte: <b>%d</b> bis <b>%d</b> (von <b>%d</b> insgesamt)');
-define('TEXT_DISPLAY_NUMBER_OF_REVIEWS', 'angezeigte Meinungen: <b>%d</b> bis <b>%d</b> (von <b>%d</b> insgesamt)');
 
 define('PREVNEXT_TITLE_FIRST_PAGE', 'erste Seite');
 define('PREVNEXT_TITLE_PREVIOUS_PAGE', 'vorherige Seite');
@@ -164,7 +163,6 @@ define('IMAGE_BUTTON_LOGIN', 'Anmelden');
 define('IMAGE_BUTTON_IN_CART', 'In den Warenkorb');
 define('IMAGE_BUTTON_SEARCH', 'Suchen');
 define('IMAGE_BUTTON_UPDATE', 'Aktualisieren');
-define('IMAGE_BUTTON_WRITE_REVIEW', 'Bewertung schreiben');
 
 define('SMALL_IMAGE_BUTTON_DELETE', 'Löschen');
 define('SMALL_IMAGE_BUTTON_EDIT', 'Bearbeiten');
@@ -177,8 +175,6 @@ define('TEXT_SORT_PRODUCTS', 'Sortierung der Artikel ist ');
 define('TEXT_DESCENDINGLY', 'absteigend');
 define('TEXT_ASCENDINGLY', 'aufsteigend');
 define('TEXT_BY', ' von ');
-
-define('TEXT_NO_REVIEWS', 'Es liegen noch keine Bewertungen vor.');
 
 define('TEXT_UNKNOWN_TAX_RATE', 'Unbekannter Steuersatz');
 
@@ -197,11 +193,6 @@ define('TEXT_SEARCH_PLACEHOLDER','Suche');
 // message for required inputs
 define('FORM_REQUIRED_INFORMATION', '<i class="fas fa-asterisk text-danger"></i> benötigte Informationen');
 define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>');
-
-// reviews
-define('REVIEWS_TEXT_RATED', 'Bewertet %s von <cite title="%s" itemprop="author">%s</cite>');
-define('REVIEWS_TEXT_AVERAGE', 'Die durchschnittliche Bewertung beruht auf <span itemprop="ratingCount">%s</span> Bewertung(en) %s');
-define('REVIEWS_TEXT_TITLE', 'Was sagen andere Nutzer...');
 
 // grid/list
 define('TEXT_SORT_BY', 'Sortieren nach ');
