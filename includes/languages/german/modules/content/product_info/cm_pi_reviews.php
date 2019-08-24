@@ -17,5 +17,5 @@
   const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TITLE       = 'Produktbewertungen';
   const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_DESCRIPTION = 'Zeige die Produktbewertungen auf der product info Seite.';
   
-  const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TEXT_RATED  = 'Bewertet %s von <cite title="%s">%s</cite>';
-
+  const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TEXT_RATED  = 'Bewertet %1$s von <cite title="%2$s">%2$s</cite>';
+  const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TEXT_TITLE  = 'Was andere Nutzer sagen...';
