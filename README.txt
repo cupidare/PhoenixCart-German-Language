@@ -1,4 +1,6 @@
-﻿All credits to German language pack for BS_CE / by YePix
+V: 1.0.2.2.
+
+All credits to German language pack for BS_CE / by YePix
 
 compatibility / kompatibel 
 OSCOM CE Phoenix
