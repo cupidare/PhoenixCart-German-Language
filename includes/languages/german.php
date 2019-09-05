@@ -175,7 +175,7 @@ define('ICON_ARROW_RIGHT', 'Zeige mehr');
 define('TEXT_SORT_PRODUCTS', 'Sortierung der Artikel ist ');
 define('TEXT_DESCENDINGLY', 'absteigend');
 define('TEXT_ASCENDINGLY', 'aufsteigend');
-define('TEXT_BY', ' von ');
+define('TEXT_BY', ' nach ');
 
 define('TEXT_UNKNOWN_TAX_RATE', 'Unbekannter Steuersatz');
 
