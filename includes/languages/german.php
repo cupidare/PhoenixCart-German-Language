@@ -163,6 +163,7 @@ define('IMAGE_BUTTON_LOGIN', 'Anmelden');
 define('IMAGE_BUTTON_IN_CART', 'In den Warenkorb');
 define('IMAGE_BUTTON_SEARCH', 'Suchen');
 define('IMAGE_BUTTON_UPDATE', 'Aktualisieren');
+define('IMAGE_BUTTON_UPDATE_PREFERENCES', 'Einstellungen aktualisieren');
 
 define('SMALL_IMAGE_BUTTON_DELETE', 'Löschen');
 define('SMALL_IMAGE_BUTTON_EDIT', 'Bearbeiten');
