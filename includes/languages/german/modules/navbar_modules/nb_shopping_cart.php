@@ -15,9 +15,9 @@
 */
 
   define('MODULE_NAVBAR_SHOPPING_CART_TITLE', 'Warenkorb');
-  define('MODULE_NAVBAR_SHOPPING_CART_DESCRIPTION', 'Show Shopping Cart in Navbar');
+  define('MODULE_NAVBAR_SHOPPING_CART_DESCRIPTION', 'Zeigt den Warenkorb in der Navigationsleiste');
   
-  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i class="fas fa-shopping-cart fa-fw"></i> %s Artikel <span class="caret"></span>');
+  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i title="Warenkorb" class="fas fa-shopping-cart fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> %1$s Artikel</span> <span class="caret"></span>');
   define('MODULE_NAVBAR_SHOPPING_CART_NO_CONTENTS', '<i class="fas fa-shopping-cart fa-fw"></i> 0 Artikel');
   define('MODULE_NAVBAR_SHOPPING_CART_HAS_CONTENTS', '%s Artikel, %s');
   define('MODULE_NAVBAR_SHOPPING_CART_VIEW_CART', 'Zeige Warenkorb');

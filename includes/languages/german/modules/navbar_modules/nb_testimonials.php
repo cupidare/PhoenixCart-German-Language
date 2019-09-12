@@ -15,7 +15,6 @@
 */
 
   define('MODULE_NAVBAR_TESTIMONIALS_TITLE', 'Rezensionen'); 
-  define('MODULE_NAVBAR_TESTIMONIALS_DESCRIPTION', 'Show Testimonials Link in Navbar.');
+  define('MODULE_NAVBAR_TESTIMONIALS_DESCRIPTION', 'Zeigt Link zu Rezensionen in der Navigationsleiste an.');
   
-  define('MODULE_NAVBAR_TESTIMONIALS_PUBLIC_TEXT', '<a class="nav-link" href="' . tep_href_link('customer_testimonials.php') . '"><i class="far fa-fw fa-edit"></i> Rezensionen</a>');
-  
+  define('MODULE_NAVBAR_TESTIMONIALS_PUBLIC_TEXT', '<i title="Rezensionen" class="fas fa-fw fa-user-edit"></i><span class="d-inline d-sm-none d-md-inline"> Rezensionen</span>');  

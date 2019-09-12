@@ -17,7 +17,7 @@
   define('MODULE_NAVBAR_ACCOUNT_TITLE', 'Kundenkonto');
   define('MODULE_NAVBAR_ACCOUNT_DESCRIPTION', 'Zeigt Mein Kundenkonto in Navbar.');
   
-  define('MODULE_NAVBAR_ACCOUNT_LOGGED_OUT', '<i class="fas fa-user fa-fw"></i>Login<span class="caret"></span>');
+  define('MODULE_NAVBAR_ACCOUNT_LOGGED_OUT', '<i title="Mein Account"class="fas fa-user fa-fw"></i>Login<span class="caret"></span>');
   define('MODULE_NAVBAR_ACCOUNT_LOGGED_IN', '<i class="fas fa-user fa-fw"></i> %s <span class="caret"></span>');
   define('MODULE_NAVBAR_ACCOUNT_LOGIN', '<i class="fas fa-sign-in-alt fa-fw"></i> Einloggen');
   define('MODULE_NAVBAR_ACCOUNT_LOGOFF', '<i class="fas fa-sign-out-alt fa-fw"></i> Ausloggen');

@@ -15,7 +15,6 @@
 */
 
   define('MODULE_NAVBAR_NEW_PRODUCTS_TITLE', 'Neue Produkte');
-  define('MODULE_NAVBAR_NEW_PRODUCTS_DESCRIPTION', 'Show New Products Link in Navbar.');
+  define('MODULE_NAVBAR_NEW_PRODUCTS_DESCRIPTION', 'Zeigt Neue Produkte in der Navigationsleiste.');
   
-  define('MODULE_NAVBAR_NEW_PRODUCTS_PUBLIC_TEXT', '<i class="fas fa-certificate fa-fw"></i> Neue Produkte');
-  
+  define('MODULE_NAVBAR_NEW_PRODUCTS_PUBLIC_TEXT', '<i title="Neue Produkte" class="fas fa-list fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> Neue Produkte</span>');  
