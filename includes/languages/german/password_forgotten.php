@@ -25,3 +25,4 @@ define('EMAIL_PASSWORD_RESET_SUBJECT', STORE_NAME . ' - Neues Passwort');
 define('EMAIL_PASSWORD_RESET_BODY', 'Ein neues Passwort für Ihr Konto bei ' . STORE_NAME  . " wurde angefordert\n\n" . 'Folgen Sie diesem Link, um Ihr Passwort sicher zu ändern:' . "\n\n" . '%s' . "\n\n" . 'Dieser Link wird automatisch nach 24 Stunden, oder nachdem Ihr Passwort geändert wurde, verworfen.' . "\n\n" . 'Wenn Sie Hilfe mit einem unserer Online-Dienste benötigen, mailen Sie an: ' . STORE_OWNER_EMAIL_ADDRESS . '.' . "\n\n");
 
 define('ERROR_ACTION_RECORDER', ' Fehler: Ein Link zum Zurücksetzen des Passworts wurde bereits gesendet. Versuchen Sie es in %s Minuten.');
+define('IMAGE_BUTTON_RESET_PASSWORD', 'Passwort ändern');

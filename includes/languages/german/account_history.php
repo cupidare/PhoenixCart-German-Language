@@ -24,6 +24,8 @@ define('TEXT_ORDER_PRODUCTS', 'Artikel:');
 define('TEXT_ORDER_COST', 'Summe:');
 define('TEXT_VIEW_ORDER', 'Bestellung ansehen');
 
+define('BUTTON_VIEW_ORDER', '<i title="Bestellung anschauen" class="fas fa-eye"></i>');
+
 define('TEXT_NO_PURCHASES', 'Sie haben noch keine Bestellungen getätigt.');
 
 define('TEXT_DISPLAY_NUMBER_OF_ORDERS', 'Zeige <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> Bestellungen)');

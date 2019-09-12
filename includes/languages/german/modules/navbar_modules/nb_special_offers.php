@@ -17,5 +17,5 @@
   define('MODULE_NAVBAR_SPECIAL_OFFERS_TITLE', 'Angebote');
   define('MODULE_NAVBAR_SPECIAL_OFFERS_DESCRIPTION', 'Zeige Sonderangebot in der Navbar.');
   
-  define('MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT', '<a class="nav-link" href="' . tep_href_link('specials.php') . '"><i class="fas fa-fire"></i> Sonderangebote</a>');
+  define('MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT', '<i title="Sonderangebote" class="fas fa-fire"></i><span class="d-inline d-sm-none d-md-inline"> Sonderangebote</span>');
   

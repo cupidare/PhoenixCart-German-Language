@@ -17,4 +17,4 @@
   define('MODULE_NAVBAR_LANGUAGES_TITLE', 'Sprachen');
   define('MODULE_NAVBAR_LANGUAGES_DESCRIPTION', 'Show Languages in Navbar. <div class="secWarning">If you have just one Language in your shop, there is no point installing this module.</div>');
   
-  define('MODULE_NAVBAR_LANGUAGES_SELECTED_LANGUAGE', '<abbr title="gewählte Sprache">L:</abbr> Deutsch <span class="caret"></span>');
+  define('MODULE_NAVBAR_LANGUAGES_SELECTED_LANGUAGE', '<i title="gewählte Sprache: Deutsch" class="fas fa-comment-dots"></i><span class="d-inline d-sm-none d-md-inline"> Deutsch</span> <span class="caret"></span>');

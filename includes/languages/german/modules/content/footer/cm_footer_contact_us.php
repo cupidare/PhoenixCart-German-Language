@@ -20,3 +20,5 @@
   define('MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE', 'So nehmen Sie Zu uns Kontakt auf');
   define('MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK', 'Kontakt');
 
+  define('MODULE_CONTENT_FOOTER_CONTACT_US_PHONE', '<i class="fas fa-phone fa-fw mr-1" title="Telefon"></i>');
+  define('MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL', '<i class="fas fa-at fa-fw mr-1" title="E-Mail"></i>');
