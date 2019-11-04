@@ -14,12 +14,17 @@ define('HEADING_TITLE', 'Kategorien / Artikel');
 define('HEADING_TITLE_SEARCH', 'Suche: ');
 define('HEADING_TITLE_GOTO', 'Gehe zu:');
 
+define('SECTION_HEADING_GENERAL', 'Sprache - Besonderheiten');
+define('SECTION_HEADING_DATA', 'Produkte - Besonderheiten');
+define('SECTION_HEADING_IMAGES', 'Produktbilder');
+
 define('TABLE_HEADING_ID', 'ID');
 define('TABLE_HEADING_CATEGORIES_PRODUCTS', 'Kategorien / Artikel');
 define('TABLE_HEADING_ACTION', 'Aktion');
 define('TABLE_HEADING_STATUS', 'Status');
 
 define('TEXT_NEW_PRODUCT', 'Neuer Artikel in &quot;%s&quot;');
+define('TEXT_EXISTING_PRODUCT', 'Artikel bearbeiten in &quot;%s&quot;');
 define('TEXT_CATEGORIES', 'Kategorien:');
 define('TEXT_SUBCATEGORIES', 'Unterkategorien:');
 define('TEXT_PRODUCTS', 'Artikel:');

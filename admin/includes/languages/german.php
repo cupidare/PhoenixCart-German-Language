@@ -63,7 +63,6 @@ define('DOB_FORMAT_STRING', 'dd/mm/jjjj');
 define('BOX_HEADING_CONFIGURATION', 'Konfiguration');
 define('BOX_CONFIGURATION_MYSTORE', 'Mein Shop');
 define('BOX_CONFIGURATION_LOGGING', 'Login');
-define('BOX_CONFIGURATION_CACHE', 'Cache');
 define('BOX_CONFIGURATION_ADMINISTRATORS', 'Administratoren');
 define('BOX_CONFIGURATION_STORE_LOGO', 'Shop Logo');
 
@@ -105,8 +104,6 @@ define('BOX_REPORTS_ORDERS_TOTAL', 'Kunden-Bestellstatistik');
 define('BOX_HEADING_TOOLS', 'Hilfsprogramme');
 define('BOX_TOOLS_ACTION_RECORDER', 'Action Recorder');
 define('BOX_TOOLS_BACKUP', 'Datenbanksicherung');
-define('BOX_TOOLS_BANNER_MANAGER', 'Banner Manager');
-define('BOX_TOOLS_CACHE', 'Cache Steuerung');
 define('BOX_TOOLS_DEFINE_LANGUAGE', 'Sprachen definieren');
 define('BOX_TOOLS_MAIL', 'eMail versenden');
 define('BOX_TOOLS_NEWSLETTER_MANAGER', 'Rundschreiben Manager');
@@ -214,7 +211,6 @@ define('IMAGE_LOCK', 'Sperren');
 define('IMAGE_MODULE_INSTALL', 'Module Installieren');
 define('IMAGE_MODULE_REMOVE', 'Module Entfernen');
 define('IMAGE_MOVE', 'Verschieben');
-define('IMAGE_NEW_BANNER', 'Neuen Banner aufnehmen');
 define('IMAGE_NEW_CATEGORY', 'Neue Kategorie erstellen');
 define('IMAGE_NEW_COUNTRY', 'Neues Land aufnehmen');
 define('IMAGE_NEW_CURRENCY', 'Neue Währung einfügen');
@@ -265,7 +261,6 @@ define('TEXT_DISPLAY_NUMBER_OF_BANNERS', 'Angezeigt werden <strong>%d</strong> b
 define('TEXT_DISPLAY_NUMBER_OF_COUNTRIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Ländern)');
 define('TEXT_DISPLAY_NUMBER_OF_CUSTOMERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Kunden)');
 define('TEXT_DISPLAY_NUMBER_OF_CURRENCIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Währungen)');
-define('TEXT_DISPLAY_NUMBER_OF_ENTRIES','Angezeigt werden %d bis %d (von insgesamt %d Einträgen)');
 define('TEXT_DISPLAY_NUMBER_OF_LANGUAGES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Sprachen)');
 define('TEXT_DISPLAY_NUMBER_OF_MANUFACTURERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Herstellern)');
 define('TEXT_DISPLAY_NUMBER_OF_NEWSLETTERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Rundschreiben)');
@@ -286,10 +281,6 @@ define('PREVNEXT_BUTTON_NEXT', '&gt;&gt;');
 define('TEXT_DEFAULT', 'Standard');
 define('TEXT_SET_DEFAULT', 'als Standard definieren');
 define('TEXT_FIELD_REQUIRED', '&nbsp;<span class="fieldRequired">* erforderlich</span>');
-
-define('TEXT_CACHE_CATEGORIES', 'Kategorien Box');
-define('TEXT_CACHE_MANUFACTURERS', 'Hersteller Box');
-define('TEXT_CACHE_ALSO_PURCHASED', 'Modul für ebenfalls gekaufte Artikel');
 
 define('TEXT_NONE', '--keine--');
 define('TEXT_TOP', 'Top');
