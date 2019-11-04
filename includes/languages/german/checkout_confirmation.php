@@ -33,3 +33,5 @@ define('IMAGE_BUTTON_FINALISE_ORDER', 'Jetzt zahlungspflichtig bestellen');
 
 define('HEADING_QTY', 'Menge');
 
+define('LIST_PRODUCTS', 'Artikel');
+define('ORDER_DETAILS', 'Bestelldetails');

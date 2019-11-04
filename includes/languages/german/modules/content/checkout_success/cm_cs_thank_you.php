@@ -13,8 +13,9 @@
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_THANK_YOU_TITLE', 'Danke');
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_THANK_YOU_DESCRIPTION', 'Zeige den DANKE-Block auf der "checkout success" Seite.');
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SUCCESS', 'Ihr Bestellung ist ausgeführt worden.');
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SEE_ORDERS', 'Sie können den aktuellen Bestellstatus jederzeit in Ihrem Kundenkonto unter <a class="btn btn-success" role="button" href="%s">Bestellungen</a> einsehen.');
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_CONTACT_STORE_OWNER', 'Falls Sie Fragen haben steht Ihnen dafür unser <a class="btn btn-info" role="button" <a href="%s">Kontaktformular</a> zur Verfügung.');
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_THANKS_FOR_SHOPPING', '<strong>Vielen Dank für Ihren Einkauf!</strong>');
-
+  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SUCCESS', '<p class="font-weight-lighter mb-0"><b>Ihr Bestellung ist ausgeführt worden.</b></p>');
+  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SEE_ORDERS', '<a class="list-group-item list-group-item-action" href="%s"><span class="text-primary border-bottom border-primary"> Bestellstatus </span> hier können Sie jederzeit in Ihrem Kundenkonto unter einsehen.</a>');
+  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_CONTACT_STORE_OWNER', '<a class="list-group-item list-group-item-action" href="%s"><span class="text-primary border-bottom border-primary">Kontaktformular</span> stellen Sie Fragen zu Ihrer Bestellung.</a>');
+  
+  

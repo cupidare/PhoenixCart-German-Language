@@ -15,9 +15,9 @@
 */
 
   define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE', 'Icons von Zahlarten');
-  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION', 'Fügt die Icons von Zahlarten in die Extra-Fußzeile der Seite ein');
+  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION', 'Fügt die Icons von Zahlarten in die Extra-Fußzeile der Seite ein. <div class="secInfo">Verfügbare Icons gibt es hier: https://fontawesome.com/icons?d=gallery&s=brands&c=payments-shopping</div>');
   
-  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT', '
+/*  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT', '
   <p>
     <i class="far fa-credit-card fa-lg"></i>
     <i class="fab fa-cc-amex fa-lg"></i>
@@ -27,4 +27,5 @@
     <i class="fab fa-cc-stripe fa-lg"></i>
     <i class="fab fa-cc-visa fa-lg"></i>
   </p>');
-
+*/
+  define('MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT', '');
