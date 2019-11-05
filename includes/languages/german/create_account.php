@@ -16,7 +16,7 @@ define('HEADING_TITLE', 'Informationen zu Ihrem Kundenkonto');
 
 define('TEXT_ORIGIN_LOGIN', '<font color="#FF0000"><small><b>ACHTUNG:</b></font></small> Wenn Sie bereits ein Konto besitzen, so melden Sie sich bitte <a href="%s"><u><b>hier</b></u></a> an.');
 
-define('EMAIL_SUBJECT', 'Willkommen bei' . STORE_NAME);
+define('EMAIL_SUBJECT', 'Willkommen bei ' . STORE_NAME);
 define('EMAIL_GREET_MR', 'Sehr geehrter Herr %s,' . "\n\n");
 define('EMAIL_GREET_MS', 'Sehr geehrte Frau %s,' . "\n\n");
 define('EMAIL_GREET_NONE', 'Sehr geehrte/r %s' . "\n\n");
