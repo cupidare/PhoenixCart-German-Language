@@ -88,25 +88,25 @@ define('BOX_HEADING_REPORTS', 'Berichte');
 define('BOX_HEADING_TOOLS', 'Hilfsprogramme');
 
 // localizaion box text in includes/boxes/localization.php
-define('BOX_HEADING_LOCALIZATION', 'Sprachen/Währungen');
+define('BOX_HEADING_LOCALIZATION', 'Sprachen/WÃ¤hrungen');
 
 // javascript messages
-define('JS_ERROR', 'Während der Eingabe sind Fehler aufgetreten!\nBitte korrigieren Sie folgendes:\n\n');
+define('JS_ERROR', 'WÃ¤hrend der Eingabe sind Fehler aufgetreten!\nBitte korrigieren Sie folgendes:\n\n');
 
-define('JS_OPTIONS_VALUE_PRICE', '* Sie müssen diesem Wert einen Preis zuordnen\n');
-define('JS_OPTIONS_VALUE_PRICE_PREFIX', '* Sie müssen ein Vorzeichen für den Preis angeben (+/-)\n');
+define('JS_OPTIONS_VALUE_PRICE', '* Sie mÃ¼ssen diesem Wert einen Preis zuordnen\n');
+define('JS_OPTIONS_VALUE_PRICE_PREFIX', '* Sie mÃ¼ssen ein Vorzeichen fÃ¼r den Preis angeben (+/-)\n');
 
 define('JS_PRODUCTS_NAME', '* Der neue Artikel muss einen Namen haben\n');
 define('JS_PRODUCTS_DESCRIPTION', '* Der neue Artikel muss eine Beschreibung haben\n');
 define('JS_PRODUCTS_PRICE', '* Der neue Artikel muss einen Preis haben\n');
 define('JS_PRODUCTS_WEIGHT', '* Der neue Artikel muss eine Gewichtsangabe haben\n');
-define('JS_PRODUCTS_QUANTITY', '* Sie müssen dem neuen Artikel eine verfügbare Anzahl zuordnen\n');
-define('JS_PRODUCTS_MODEL', '* Sie müssen dem neuen Artikel eine Artikel-Nr. zuordnen\n');
-define('JS_PRODUCTS_IMAGE', '* Sie müssen dem Artikel ein Bild zuordnen\n');
+define('JS_PRODUCTS_QUANTITY', '* Sie mÃ¼ssen dem neuen Artikel eine verfÃ¼gbare Anzahl zuordnen\n');
+define('JS_PRODUCTS_MODEL', '* Sie mÃ¼ssen dem neuen Artikel eine Artikel-Nr. zuordnen\n');
+define('JS_PRODUCTS_IMAGE', '* Sie mÃ¼ssen dem Artikel ein Bild zuordnen\n');
 
-define('JS_SPECIALS_PRODUCTS_PRICE', '* Es muss ein neuer Preis für diesen Artikel festgelegt werden\n');
+define('JS_SPECIALS_PRODUCTS_PRICE', '* Es muss ein neuer Preis fÃ¼r diesen Artikel festgelegt werden\n');
 
-define('JS_GENDER', '* Die \'Anrede\' muss ausgewählt werden.\n');
+define('JS_GENDER', '* Die \'Anrede\' muss ausgewÃ¤hlt werden.\n');
 define('JS_FIRST_NAME', '* Der \'Vorname\' muss mindestens aus ' . ENTRY_FIRST_NAME_MIN_LENGTH . ' Zeichen bestehen.\n');
 define('JS_LAST_NAME', '* Der \'Nachname\' muss mindestens aus ' . ENTRY_LAST_NAME_MIN_LENGTH . ' Zeichen bestehen.\n');
 define('JS_DOB', '* Das \'Geburtsdatum\' muss folgendes Format haben: xx.xx.xxxx (Tag/Jahr/Monat).\n');
@@ -114,16 +114,16 @@ define('JS_EMAIL_ADDRESS', '* Die \'eMail-Adresse\' muss mindestens aus ' . ENTR
 define('JS_ADDRESS', '* Die \'Strasse\' muss mindestens aus ' . ENTRY_STREET_ADDRESS_MIN_LENGTH . ' Zeichen bestehen.\n');
 define('JS_POST_CODE', '* Die \'Postleitzahl\' muss mindestens aus ' . ENTRY_POSTCODE_MIN_LENGTH . ' Zeichen bestehen.\n');
 define('JS_CITY', '* Die \'Stadt\' muss mindestens aus ' . ENTRY_CITY_MIN_LENGTH . ' Zeichen bestehen.\n');
-define('JS_STATE', '* Das \'Bundesland\' muss ausgewählt werden.\n');
-define('JS_STATE_SELECT', '-- Wählen Sie oberhalb --');
-define('JS_ZONE', '* Das \'Bundesland\' muss aus der Liste für dieses Land ausgewählt werden.');
-define('JS_COUNTRY', '* Das \'Land\' muss ausgewählt werden.\n');
+define('JS_STATE', '* Das \'Bundesland\' muss ausgewÃ¤hlt werden.\n');
+define('JS_STATE_SELECT', '-- WÃ¤hlen Sie oberhalb --');
+define('JS_ZONE', '* Das \'Bundesland\' muss aus der Liste fÃ¼r dieses Land ausgewÃ¤hlt werden.');
+define('JS_COUNTRY', '* Das \'Land\' muss ausgewÃ¤hlt werden.\n');
 define('JS_TELEPHONE', '* Die \'Telefonnummer\' muss aus mindestens ' . ENTRY_TELEPHONE_MIN_LENGTH . ' Zeichen bestehen.\n');
-define('JS_PASSWORD', '* Das \'Passwort\' sowie die \'Passwortbestätigung\' müssen übereinstimmen und aus mindestens ' . ENTRY_PASSWORD_MIN_LENGTH . ' Zeichen bestehen.\n');
+define('JS_PASSWORD', '* Das \'Passwort\' sowie die \'PasswortbestÃ¤tigung\' mÃ¼ssen Ã¼bereinstimmen und aus mindestens ' . ENTRY_PASSWORD_MIN_LENGTH . ' Zeichen bestehen.\n');
 
 define('JS_ORDER_DOES_NOT_EXIST', 'Auftragsnummer %s existiert nicht!');
 
-define('CATEGORY_PERSONAL', 'Persönliche Daten');
+define('CATEGORY_PERSONAL', 'PersÃ¶nliche Daten');
 define('CATEGORY_ADDRESS', 'Adresse');
 define('CATEGORY_CONTACT', 'Kontakt');
 define('CATEGORY_COMPANY', 'Firma');
@@ -139,7 +139,7 @@ define('ENTRY_DATE_OF_BIRTH', 'Geburtsdatum:');
 define('ENTRY_DATE_OF_BIRTH_ERROR', '&nbsp;<span class="errorText">(z.B. 21/05/1970)</span>');
 define('ENTRY_EMAIL_ADDRESS', 'eMail Adresse:');
 define('ENTRY_EMAIL_ADDRESS_ERROR', '&nbsp;<span class="errorText">mindestens ' . ENTRY_EMAIL_ADDRESS_MIN_LENGTH . ' Buchstaben</span>');
-define('ENTRY_EMAIL_ADDRESS_CHECK_ERROR', '&nbsp;<span class="errorText">ungültige eMail-Adresse!</span>');
+define('ENTRY_EMAIL_ADDRESS_CHECK_ERROR', '&nbsp;<span class="errorText">ungÃ¼ltige eMail-Adresse!</span>');
 define('ENTRY_EMAIL_ADDRESS_ERROR_EXISTS', '&nbsp;<span class="errorText">Diese eMail-Adresse existiert schon!</span>');
 define('ENTRY_COMPANY', 'Firmenname:');
 define('ENTRY_STREET_ADDRESS', 'Strasse:');
@@ -162,14 +162,14 @@ define('ENTRY_NEWSLETTER_NO', 'nicht abonniert');
 
 // images
 define('IMAGE_ANI_SEND_EMAIL', 'eMail versenden');
-define('IMAGE_BACK', 'Zurück');
+define('IMAGE_BACK', 'ZurÃ¼ck');
 define('IMAGE_BACKUP', 'Datensicherung');
 define('IMAGE_CANCEL', 'Abbruch');
-define('IMAGE_CONFIRM', 'Bestätigen');
+define('IMAGE_CONFIRM', 'BestÃ¤tigen');
 define('IMAGE_COPY', 'Kopieren');
 define('IMAGE_COPY_TO', 'Kopieren nach');
 define('IMAGE_DETAILS', 'Details');
-define('IMAGE_DELETE', 'Löschen');
+define('IMAGE_DELETE', 'LÃ¶schen');
 define('IMAGE_EDIT', 'Bearbeiten');
 define('IMAGE_EMAIL', 'eMail versenden');
 define('IMAGE_EXPORT', 'Export');
@@ -178,14 +178,14 @@ define('IMAGE_ICON_STATUS_GREEN_LIGHT', 'aktivieren');
 define('IMAGE_ICON_STATUS_RED', 'inaktiv');
 define('IMAGE_ICON_STATUS_RED_LIGHT', 'deaktivieren');
 define('IMAGE_ICON_INFO', 'Information');
-define('IMAGE_INSERT', 'Einfügen');
+define('IMAGE_INSERT', 'EinfÃ¼gen');
 define('IMAGE_LOCK', 'Sperren');
 define('IMAGE_MODULE_INSTALL', 'Module Installieren');
 define('IMAGE_MODULE_REMOVE', 'Module Entfernen');
 define('IMAGE_MOVE', 'Verschieben');
 define('IMAGE_NEW_CATEGORY', 'Neue Kategorie erstellen');
 define('IMAGE_NEW_COUNTRY', 'Neues Land aufnehmen');
-define('IMAGE_NEW_CURRENCY', 'Neue Währung einfügen');
+define('IMAGE_NEW_CURRENCY', 'Neue WÃ¤hrung einfÃ¼gen');
 define('IMAGE_NEW_FILE', 'Neue Datei');
 define('IMAGE_NEW_FOLDER', 'Neues Verzeichnis');
 define('IMAGE_NEW_LANGUAGE', 'Neue Sprache anlegen');
@@ -194,16 +194,16 @@ define('IMAGE_NEW_PRODUCT', 'Neuen Artikel aufnehmen');
 define('IMAGE_NEW_TAX_CLASS', 'Neue Steuerklasse erstellen');
 define('IMAGE_NEW_TAX_RATE', 'Neuen Steuersatz anlegen');
 define('IMAGE_NEW_TAX_ZONE', 'Neue Steuerzone erstellen');
-define('IMAGE_NEW_ZONE', 'Neues Bundesland einfügen');
+define('IMAGE_NEW_ZONE', 'Neues Bundesland einfÃ¼gen');
 define('IMAGE_ORDERS', 'Bestellungen');
 define('IMAGE_ORDERS_INVOICE', 'Rechnung');
 define('IMAGE_ORDERS_PACKINGSLIP', 'Lieferschein');
 define('IMAGE_PREVIEW', 'Vorschau');
-define('IMAGE_RESET', 'Zurücksetzen');
-define('IMAGE_RESTORE', 'Zurücksichern');
+define('IMAGE_RESET', 'ZurÃ¼cksetzen');
+define('IMAGE_RESTORE', 'ZurÃ¼cksichern');
 define('IMAGE_SAVE', 'Speichern');
 define('IMAGE_SEARCH', 'Suchen');
-define('IMAGE_SELECT', 'Auswählen');
+define('IMAGE_SELECT', 'AuswÃ¤hlen');
 define('IMAGE_SEND', 'Versenden');
 define('IMAGE_SEND_EMAIL', 'eMail versenden');
 define('IMAGE_UNLOCK', 'Entsperren');
@@ -213,7 +213,7 @@ define('IMAGE_UPLOAD', 'Hochladen');
 
 define('ICON_CROSS', 'Falsch');
 define('ICON_CURRENT_FOLDER', 'aktueller Ordner');
-define('ICON_DELETE', 'Löschen');
+define('ICON_DELETE', 'LÃ¶schen');
 define('ICON_ERROR', 'Fehler');
 define('ICON_FILE', 'Datei');
 define('ICON_FILE_DOWNLOAD', 'Herunterladen');
@@ -230,9 +230,9 @@ define('ICON_WARNING', 'Warnung');
 // constants for use in tep_prev_next_display function
 define('TEXT_RESULT_PAGE', 'Seite %s von %d');
 define('TEXT_DISPLAY_NUMBER_OF_BANNERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bannern)');
-define('TEXT_DISPLAY_NUMBER_OF_COUNTRIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Ländern)');
+define('TEXT_DISPLAY_NUMBER_OF_COUNTRIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> LÃ¤ndern)');
 define('TEXT_DISPLAY_NUMBER_OF_CUSTOMERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Kunden)');
-define('TEXT_DISPLAY_NUMBER_OF_CURRENCIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Währungen)');
+define('TEXT_DISPLAY_NUMBER_OF_CURRENCIES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> WÃ¤hrungen)');
 define('TEXT_DISPLAY_NUMBER_OF_LANGUAGES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Sprachen)');
 define('TEXT_DISPLAY_NUMBER_OF_MANUFACTURERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Herstellern)');
 define('TEXT_DISPLAY_NUMBER_OF_NEWSLETTERS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Rundschreiben)');
@@ -244,8 +244,8 @@ define('TEXT_DISPLAY_NUMBER_OF_REVIEWS', 'Angezeigt werden <strong>%d</strong> b
 define('TEXT_DISPLAY_NUMBER_OF_SPECIALS', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Sonderangeboten)');
 define('TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuerklassen)');
 define('TEXT_DISPLAY_NUMBER_OF_TAX_ZONES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuerzonen)');
-define('TEXT_DISPLAY_NUMBER_OF_TAX_RATES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuersätzen)');
-define('TEXT_DISPLAY_NUMBER_OF_ZONES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bundesländern)');
+define('TEXT_DISPLAY_NUMBER_OF_TAX_RATES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> SteuersÃ¤tzen)');
+define('TEXT_DISPLAY_NUMBER_OF_ZONES', 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> BundeslÃ¤ndern)');
 
 define('PREVNEXT_BUTTON_PREV', '&lt;&lt;');
 define('PREVNEXT_BUTTON_NEXT', '&gt;&gt;');
@@ -260,7 +260,7 @@ define('TEXT_TOP', 'Top');
 define('ERROR_DESTINATION_DOES_NOT_EXIST', 'Fehler: Zielverzeichnis existiert nicht.');
 define('ERROR_DESTINATION_NOT_WRITEABLE', 'Fehler: Zielverzeichnis ist nicht beschreibbar.');
 define('ERROR_FILE_NOT_SAVED', 'Fehler: Datei nach hochladen nicht gespeichert.');
-define('ERROR_FILETYPE_NOT_ALLOWED', 'Fehler: Dateien von diesem Typ dürfen nicht hochgeladen werden.');
+define('ERROR_FILETYPE_NOT_ALLOWED', 'Fehler: Dateien von diesem Typ dÃ¼rfen nicht hochgeladen werden.');
 define('SUCCESS_FILE_SAVED_SUCCESSFULLY', 'Erfolg : Datei erfolgreich gespeichert.');
 define('WARNING_NO_FILE_UPLOADED', 'Warnung: keine Datei hochgeladen.');
 
