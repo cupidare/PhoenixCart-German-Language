@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_TAXES_COUNTRIES', 'Länder');
+  define('MODULES_ADMIN_MENU_TAXES_COUNTRIES', 'LÃ¤nder');

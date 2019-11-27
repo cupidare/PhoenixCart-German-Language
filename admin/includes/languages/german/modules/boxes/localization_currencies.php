@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_LOCALIZATION_CURRENCIES', 'Währungen');
+  define('MODULES_ADMIN_MENU_LOCALIZATION_CURRENCIES', 'WÃ¤hrungen');
