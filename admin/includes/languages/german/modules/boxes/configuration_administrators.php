@@ -5,9 +5,9 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_CATALOG_TESTIMONIALS', 'Rezensionen');
+  define('MODULES_ADMIN_MENU_CONFIGURATION_ADMINISTRATORS', 'Administratoren');
