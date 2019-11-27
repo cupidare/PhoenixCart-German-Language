@@ -17,6 +17,6 @@
   define('MODULE_CONTENT_TESTIMONIALS_LIST_TITLE', 'Liste mit Rezensionen');
   define('MODULE_CONTENT_TESTIMONIALS_LIST_DESCRIPTION', 'Zeigte eine Liste mit Rezensionen.');
   
-  define('MODULE_CONTENT_TESTIMONIALS_LIST_NO_TESTIMONIALS', 'Es sind keine Rezensionen verfügbar...');
+  define('MODULE_CONTENT_TESTIMONIALS_LIST_NO_TESTIMONIALS', 'Es sind keine Rezensionen verfÃ¼gbar...');
   
   define('MODULE_CONTENT_TESTIMONIALS_LIST_WRITERS_NAME_DATE', 'Geschrieben von %s, am %s.');
