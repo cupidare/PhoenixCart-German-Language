@@ -11,7 +11,7 @@
 */
 
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_TITLE', 'Neueste ZERTIFIZIERTE Add-Ons');
-define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DESCRIPTION', 'Zeige die neuesten Add-Ons für Phoenix-Club-Mitglieder');
+define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DESCRIPTION', 'Zeige die neuesten Add-Ons fÃ¼r Phoenix-Club-Mitglieder');
 
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_OWNER', 'von');
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_RATING', 'Bewertung');

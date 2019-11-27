@@ -12,8 +12,8 @@
 
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_TITLE', 'Versions Check');
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DESCRIPTION', 'Zeige die Version Check Resultate');
-define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DATE', 'Zuletzt geprüft');
-define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CHECK_NOW', 'Prüfe jetzt');
+define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DATE', 'Zuletzt geprÃ¼ft');
+define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CHECK_NOW', 'PrÃ¼fe jetzt');
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_NEVER', 'Nie');
 
-define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_UPDATE_AVAILABLE', '<i class="fas fa-exclamation-circle"></i> Es ist ein Update für OSCOM CE Phoenix verfügbar!');
+define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_UPDATE_AVAILABLE', '<i class="fas fa-exclamation-circle"></i> Es ist ein Update fÃ¼r OSCOM CE Phoenix verfÃ¼gbar!');
