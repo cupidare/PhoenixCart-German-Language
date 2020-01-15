@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -21,4 +21,4 @@ define('TABLE_HEADING_PAYMENT_METHOD', 'Zahlungsart');
 
 define('TEXT_ENTER_PAYMENT_INFORMATION', 'Zur Zeit bieten wir Ihnen nur eine Zahlungsart an.');
 
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'weiter mit Bestellung');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'weiter mit Bestellung');

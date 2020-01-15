@@ -104,7 +104,6 @@ define('ENTRY_POST_CODE_TEXT', '');
 define('ENTRY_CITY', 'Ort:');
 define('ENTRY_CITY_ERROR', 'Der Ort sollte mindestens ' . ENTRY_CITY_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_CITY_TEXT', '');
-define('ENTRY_NAME_TEXT', '');
 define('ENTRY_STATE', 'Bundesland:');
 define('ENTRY_STATE_ERROR', 'Das Bundesland sollte mindestens ' . ENTRY_STATE_MIN_LENGTH . ' Zeichen enthalten.');
 define('ENTRY_STATE_ERROR_SELECT', 'Bitte wählen Sie ein Bundesland aus der Liste.');

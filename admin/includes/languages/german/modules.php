@@ -5,13 +5,14 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
 
 define('TABLE_HEADING_MODULES', 'Module');
 define('TABLE_HEADING_SORT_ORDER', 'Reihenfolge');
+define('TABLE_HEADING_ENABLED', 'Aktiv');
 define('TABLE_HEADING_ACTION', 'Aktion');
 
 define('TEXT_INFO_VERSION', 'Version:');

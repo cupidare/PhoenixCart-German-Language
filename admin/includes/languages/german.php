@@ -47,11 +47,9 @@ define('CHARSET', 'utf-8');
 define('TITLE', 'OSCOM CE Phoenix Administration Tool');
 
 // header text in includes/header.php
-define('HEADER_TITLE_TOP', 'Administration');
-define('HEADER_TITLE_SUPPORT_SITE', '<span class="border-bottom border-primary">Supportseite</span>');
-define('HEADER_TITLE_ONLINE_CATALOG', '<span class="border-bottom border-primary">Shop</span>');
-define('HEADER_TITLE_ADMINISTRATION', '<span class="border-bottom border-primary">Admin</span>');
+define('HEADER_TITLE_ONLINE_CATALOG', '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-bottom border-primary">Ihr Shop</span>');
 define('HEADER_TITLE_PHOENIX_CLUB', '<span class="border-bottom border-primary">Phoenix Club</span>');
+define('HEADER_TITLE_CERTIFIED_ADDONS', '<span class="border-bottom border-primary">zertifizierter Addons</span>');
 define('HEADER_TITLE_LOGOFF', '<i class="fas fa-lock"></i> <span class="border-bottom border-danger"> %s, sicher ausloggen</span>');
 
 // text for gender
@@ -60,35 +58,6 @@ define('FEMALE', 'Frau');
 
 // text for date of birth example
 define('DOB_FORMAT_STRING', 'dd/mm/jjjj');
-
-// configuration box text in includes/boxes/configuration.php
-define('BOX_HEADING_CONFIGURATION', 'Konfiguration');
-define('BOX_CONFIGURATION_MYSTORE', 'Mein Shop');
-define('BOX_CONFIGURATION_LOGGING', 'Login');
-
-// modules box text in includes/boxes/modules.php
-define('BOX_HEADING_MODULES', 'Module');
-
-// categories box text in includes/boxes/catalog.php
-define('BOX_HEADING_CATALOG', 'Katalog');
-
-// customers box text in includes/boxes/customers.php
-define('BOX_HEADING_CUSTOMERS', 'Kunden');
-
-// orders box text in includes/boxes/orders.php
-define('BOX_HEADING_ORDERS', 'Bestellungen');
-
-// taxes box text in includes/boxes/taxes.php
-define('BOX_HEADING_LOCATION_AND_TAXES', 'Land / Steuer');
-
-// reports box text in includes/boxes/reports.php
-define('BOX_HEADING_REPORTS', 'Berichte');
-
-// tools text in includes/boxes/tools.php
-define('BOX_HEADING_TOOLS', 'Hilfsprogramme');
-
-// localizaion box text in includes/boxes/localization.php
-define('BOX_HEADING_LOCALIZATION', 'Sprachen/Währungen');
 
 // javascript messages
 define('JS_ERROR', 'Während der Eingabe sind Fehler aufgetreten!\nBitte korrigieren Sie folgendes:\n\n');

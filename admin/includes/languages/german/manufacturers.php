@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -20,9 +20,9 @@ define('TEXT_HEADING_EDIT_MANUFACTURER', 'Hersteller bearbeiten');
 define('TEXT_HEADING_DELETE_MANUFACTURER', 'Hersteller löschen');
 
 define('TEXT_MANUFACTURERS', 'Hersteller:');
-define('TEXT_DATE_ADDED', 'hinzugefügt am:');
-define('TEXT_LAST_MODIFIED', 'letzte Änderung am:');
-define('TEXT_PRODUCTS', 'Artikel:');
+define('TEXT_DATE_ADDED', 'hinzugefügt am: %s');
+define('TEXT_LAST_MODIFIED', 'letzte Änderung am: %s');
+define('TEXT_PRODUCTS', 'Artikel: %s');
 define('TEXT_IMAGE_NONEXISTENT', 'BILD NICHT VORHANDEN');
 
 define('TEXT_NEW_INTRO', 'Bitte geben Sie den neuen Hersteller mit allen relevanten Daten ein.');
@@ -50,3 +50,5 @@ define('TEXT_EDIT_MANUFACTURERS_SEO_KEYWORDS', 'Hersteller Metadaten (SEO):<br><
 
 const TEXT_MANUFACTURERS_SEO_TITLE = 'Herstellerseite Überschrift (SEO):<br><small>Ersetzt optional &lt;title&gt; Meta Element und Breadcrumb.<br>Beim Weglassen erscheint der Herstellername.</small>';
 const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Bearbeite Herstellerseite Überschrift (SEO):<br><small>Ersetzt optional das Hersteller &lt;title&gt; Meta Element und Breadcrumb.<br>Beim Weglassen erscheint der Herstellername.</small>';
+
+define('BUTTON_INSERT_NEW_MANUFACTURER', 'Neuer Hersteller');
