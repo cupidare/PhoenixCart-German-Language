@@ -5,10 +5,10 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_MODULES_CONTENT', 'Inhalt');
-
+  define('BOX_HEADING_LOCALIZATION', '<i class="fas fa-language fa-fw mr-1"></i>Sprachen/Währungen');
+  

@@ -20,3 +20,5 @@
   define('MODULE_CONTENT_TESTIMONIALS_LIST_NO_TESTIMONIALS', 'Es sind keine Rezensionen verfügbar...');
   
   define('MODULE_CONTENT_TESTIMONIALS_LIST_WRITERS_NAME_DATE', 'Geschrieben von %s, am %s.');
+  
+  define('MODULE_CONTENT_TESTIMONIALS_DISPLAY_NUMBER', 'Zeige <b>%s</b> bis <b>%s</b> (von <b>%s</b> Rezensionen)');

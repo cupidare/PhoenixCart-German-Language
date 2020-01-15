@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce CE Phoenix
 
   Released under the GNU General Public License
 */
@@ -29,8 +29,6 @@ define('ENTRY_DATE_TO', 'hinzugefügt bis:');
 
 define('ENTRY_PRICE_FROM_TEXT', '');
 define('ENTRY_PRICE_TO_TEXT', '');
-define('ENTRY_DATE_FROM_TEXT', '');
-define('ENTRY_DATE_TO_TEXT', '');
 
 define('ENTRY_DATE', 'Datum');
 define('ENTRY_PRICE', 'Preis');
