@@ -12,9 +12,10 @@
 
 define('HEADING_TITLE', 'Rundschreiben Verwaltung');
 
-define('TABLE_HEADING_NEWSLETTERS', 'Rundschreiben');
-define('TABLE_HEADING_SIZE', 'Grösse');
-define('TABLE_HEADING_MODULE', 'Module');
+define('TABLE_HEADING_NEWSLETTERS', 'Name');
+define('TABLE_HEADING_DATE_ADDED', 'hinzugefügt am');
+define('TABLE_HEADING_SIZE', 'Größe');
+define('TABLE_HEADING_MODULE', 'Typ');
 define('TABLE_HEADING_SENT', 'Gesendet');
 define('TABLE_HEADING_STATUS', 'Status');
 define('TABLE_HEADING_ACTION', 'Aktion');
@@ -23,8 +24,8 @@ define('TEXT_NEWSLETTER_MODULE', 'Module:');
 define('TEXT_NEWSLETTER_TITLE', 'Titel des Rundschreibens:');
 define('TEXT_NEWSLETTER_CONTENT', 'Inhalt:');
 
-define('TEXT_NEWSLETTER_DATE_ADDED', 'hinzugefügt am:');
-define('TEXT_NEWSLETTER_DATE_SENT', 'Datum gesendet:');
+define('TEXT_NEWSLETTER_DATE_ADDED', 'hinzugefügt am: %s');
+define('TEXT_NEWSLETTER_DATE_SENT', 'Datum gesendet: %s');
 
 define('TEXT_INFO_DELETE_INTRO', 'Sind Sie sicher, dass Sie dieses Rundschreiben löschen möchten?');
 
@@ -38,3 +39,5 @@ define('ERROR_EDIT_UNLOCKED_NEWSLETTER', 'Fehler: Bitte sperren Sie das Rundschr
 define('ERROR_SEND_UNLOCKED_NEWSLETTER', 'Fehler: Bitte sperren Sie das Rundschreiben bevor Sie es versenden.');
 
 define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', 'Error: Modul existiert nicht');
+define('TEXT_TITLE', 'Überschrift:');
+define('TEXT_CONTENT', 'Inhalt:');

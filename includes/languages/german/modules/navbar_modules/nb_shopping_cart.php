@@ -17,10 +17,11 @@
   define('MODULE_NAVBAR_SHOPPING_CART_TITLE', 'Warenkorb');
   define('MODULE_NAVBAR_SHOPPING_CART_DESCRIPTION', 'Zeigt den Warenkorb in der Navigationsleiste');
   
-  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i title="Warenkorb" class="fas fa-shopping-cart fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> %1$s Artikel</span> <span class="caret"></span>');
+  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i title="Warenkorb" class="fas fa-shopping-cart fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> <span class="cart-count">%1$s</span> Artikel</span> <span class="caret"></span>');
   define('MODULE_NAVBAR_SHOPPING_CART_NO_CONTENTS', '<i class="fas fa-shopping-cart fa-fw"></i> 0 Artikel');
-  define('MODULE_NAVBAR_SHOPPING_CART_HAS_CONTENTS', '%s Artikel, %s');
+  define('MODULE_NAVBAR_SHOPPING_CART_HAS_CONTENTS', '<span class="cart-count">%s</span> Artikel, <span class="cart-value">%s</span>');
   define('MODULE_NAVBAR_SHOPPING_CART_VIEW_CART', 'Zeige Warenkorb');
   define('MODULE_NAVBAR_SHOPPING_CART_CHECKOUT', '<i class="fas fa-angle-right fa-fw"></i> Kasse');
   
   define('MODULE_NAVBAR_SHOPPING_CART_PRODUCT', '<a class="dropdown-item" href="' . tep_href_link('product_info.php', 'products_id=%s') . '">%s x %s</a>');
+  
