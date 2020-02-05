@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('TEXT_COUNT_CUSTOMERS', 'Kunden, die Newsletter empfangen: %s');
+define('TEXT_COUNT_CUSTOMERS', 'Kunden, die diese Nachricht empfangen: %s');
 define('TEXT_PRODUCTS', 'Artikel');
 define('TEXT_SELECTED_PRODUCTS', 'Ausgewählte Artikel');
 
