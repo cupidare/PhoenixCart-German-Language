@@ -1,4 +1,4 @@
-V: 1.0.4.4
+V: 1.0.5.0
 
 All credits to German language pack for BS_CE / by YePix
 
