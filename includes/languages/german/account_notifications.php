@@ -5,12 +5,12 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2003 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Ihr Konto');
+define('NAVBAR_TITLE_1', 'Mein Account');
 define('NAVBAR_TITLE_2', 'Produktbenachrichtungen');
 
 define('HEADING_TITLE', 'Produktbenachrichtigungen');

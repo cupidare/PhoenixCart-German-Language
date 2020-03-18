@@ -52,3 +52,4 @@ const TEXT_MANUFACTURERS_SEO_TITLE = 'Herstellerseite Überschrift (SEO):<br><sm
 const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Bearbeite Herstellerseite Überschrift (SEO):<br><small>Ersetzt optional das Hersteller &lt;title&gt; Meta Element und Breadcrumb.<br>Beim Weglassen erscheint der Herstellername.</small>';
 
 define('BUTTON_INSERT_NEW_MANUFACTURER', 'Neuer Hersteller');
+define('TEXT_MANUFACTURERS_IMAGE_LABEL', 'Hersteller auswählen');

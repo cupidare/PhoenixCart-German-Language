@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2003 osCommerce
 
   Released under the GNU General Public License
 */
@@ -22,4 +22,6 @@ define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Adressbucheinträge');
 define('TABLE_HEADING_NEW_SHIPPING_ADDRESS', 'Neue Versandadresse');
 define('TEXT_CREATE_NEW_SHIPPING_ADDRESS', 'Bitte nutzen Sie dieses Formular, um eine neue Versandadresse für Ihre Bestellung zu erfassen.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'weiter mit Bestellung');
+define('BUTTON_SELECT_ADDRESS', 'Diese Adresse benutzen');
+define('BUTTON_ADD_NEW_ADDRESS', 'Hinzufügen und diese Adresse benutzen');
+
