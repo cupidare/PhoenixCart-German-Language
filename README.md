@@ -8,8 +8,10 @@
 
 
 === DEUTSCH ===  
-<p>Bitte beachten: Alle Dateien sind als utf-8 kodiert 
-Alle Umlaute etc werden ohne Maskierungszeichen gespeichert (ä anstelle of &amp;auml;)</p>
+<ul>
+  <li>Bitte beachten: Alle Dateien sind als utf-8 kodiert</li>
+  <li>Alle Umlaute etc werden ohne Maskierungszeichen gespeichert (ä anstelle of &amp;auml;)</li>
+</ul>
 
 > INSTALLATION
 
@@ -32,8 +34,10 @@ Alle Umlaute etc werden ohne Maskierungszeichen gespeichert (ä anstelle of &amp
 </ol></p>
 
 === ENGLISH === 
-<p>Please note: All files are coded as utf-8
-All characters are html-unescaped (ä instead of &amp;auml;)</p>
+<ul>
+  <li>Please note: All files are coded as utf-8</li>
+  <li>All characters are html-unescaped (ä instead of &amp;auml;)</li>
+</ul>
 
 > INSTALLATION
 
