@@ -1,4 +1,8 @@
+Deutsche Übersetzung der Sprachdateien für 
+https://github.com/gburton/CE-Phoenix/tree/1.0.5.5
+
 V: 1.0.5.5
+
 
 All credits to German language pack for BS_CE / by YePix
 
