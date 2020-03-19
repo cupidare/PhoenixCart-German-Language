@@ -5,7 +5,7 @@
       https://github.com/gburton/CE-Phoenix/tree/1.0.5.5</li>
   </ul>
 </p>
-
+<p><strong><i>Andere Versionen sind über das Pull-Down-Menü unter "Branch" auswählbar</i></strong></p>
 
 === DEUTSCH ===  
 <ul>
