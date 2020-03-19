@@ -7,25 +7,28 @@
 </p>
 
 
-
-
 === DEUTSCH ===  
 <p>Bitte beachten: Alle Dateien sind als utf-8 kodiert 
 Alle Umlaute etc werden ohne Maskierungszeichen gespeichert (ä anstelle of &amp;auml;)</p>
 
 > INSTALLATION
 
-<p><ol><li>Schritt<br>
-  Der Name vom Admin-Verzeichnis muss ggf angepasst werden
-  Der Inhalt des Ordners kann danach komplett hochgeladen werden</li>
+<p><ol>
+  <li>Schritt
+  <ul>
+    <li>Der Name vom Admin-Verzeichnis muss ggf angepasst werden</li>
+    <li>Der Inhalt des Ordners kann danach komplett hochgeladen werden</li>
+  </ul></li>
 
-  <li>Schritt<br>
-Login ins Admin-Panel.<br>
-Gehe zu Localization -> Languages -> New Language<br>
-Name: German<br>
-Code: de<br>
-Image: icon.gif<br>
-Directory: german</li>
+  <li>Schritt
+  <ul>
+    <li>Login ins Admin-Panel</li>
+    <li>Gehe zu Localization -> Languages -> New Language</li>
+    <li>Name: German</li>
+    <li>Code: de</li>
+    <li>Image: icon.gif</li>
+    <li>Directory: german</li>
+  </ul></li>
 </ol></p>
 
 === ENGLISH === 
@@ -34,17 +37,22 @@ All characters are html-unescaped (ä instead of &amp;auml;)</p>
 
 > INSTALLATION
 
-<p><ol><li>Step<br>
-Check the name of folder admin and change it if necessary.
-  Upload content of folder Upload into your catalog folder.</li>
+<p><ol>
+  <li>Step
+  <ul>
+    <li>Check the name of folder admin and change it if necessary.</li>
+    <li>Upload content of folder Upload into your catalog folder.</li>
+  </ul></li>
 
 <li>Step<br>
-Login into your Amdin-Panel<br>
-Go to Localization -> Languages -> New Language<br>
-Name: German<br>
-Code: de<br>
-Image: icon.gif<br>
-  Directory: german</li>
+  <ul>
+    <li>Login into your Amdin-Panel</li>
+    <li>Go to Localization -> Languages -> New Language</li>
+    <li>Name: German</li>
+    <li>Code: de</li>
+    <li>Image: icon.gif</li>
+    <li>  Directory: german</li>
+  </ul></li>
 </ol></p>
 
 <i>All credits to German language pack for BS_CE / by YePix</i>
