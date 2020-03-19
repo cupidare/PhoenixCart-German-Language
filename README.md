@@ -50,7 +50,7 @@
 
 <li>Step<br>
   <ul>
-    <li>Login into your Amdin-Panel</li>
+    <li>Login into your Admin-Panel</li>
     <li>Go to Localization -> Languages -> New Language</li>
     <li>Name: German</li>
     <li>Code: de</li>
