@@ -21,4 +21,4 @@ define('TABLE_HEADING_SHIPPING_METHOD', 'Versandart');
 define('TEXT_ENTER_SHIPPING_INFORMATION', 'Zur Zeit bieten wir Ihnen nur eine Versandart an.');
 define('ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS','An diese Adresse ist keine Zustellung möglich', 'Zustellung ist derzeit an die gewählte Adresse nicht möglich. Bitte wählen Sie eine andere Zustelladresse.'); 
 
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'weiter mit Bestellung');
+define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'weiter');
