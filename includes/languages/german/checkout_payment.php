@@ -21,4 +21,4 @@ define('TABLE_HEADING_PAYMENT_METHOD', 'Zahlungsart');
 
 define('TEXT_ENTER_PAYMENT_INFORMATION', 'Zur Zeit bieten wir Ihnen nur eine Zahlungsart an.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'weiter mit Bestellung');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Weiter');
