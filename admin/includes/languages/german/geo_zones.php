@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -35,11 +35,11 @@ define('TEXT_INFO_EDIT_SUB_ZONE_INTRO', 'Bitte führen Sie alle notwendigen änd
 define('TEXT_INFO_HEADING_DELETE_SUB_ZONE', 'Unterzone löschen');
 define('TEXT_INFO_DELETE_SUB_ZONE_INTRO', 'Sind Sie sicher, dass Sie diese Unterzone löschen wollen?');
 
-define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am:');
-define('TEXT_INFO_LAST_MODIFIED', 'letzte änderung:');
+define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am: %s');
+define('TEXT_INFO_LAST_MODIFIED', 'letzte änderung: %s');
 define('TEXT_INFO_ZONE_NAME', 'Name der Steuerzone:');
-define('TEXT_INFO_NUMBER_ZONES', 'Anzahl der Steuerzonen:');
-define('TEXT_INFO_ZONE_DESCRIPTION', 'Beschreibung:');
+define('TEXT_INFO_NUMBER_ZONES', 'Anzahl der Steuerzonen: %s');
+define('TEXT_INFO_ZONE_DESCRIPTION', 'Beschreibung: %s');
 define('TEXT_INFO_COUNTRY', 'Land:');
 define('TEXT_INFO_COUNTRY_ZONE', 'Bundesland:');
 define('TYPE_BELOW', 'Alle Bundesländer');

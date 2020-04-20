@@ -17,11 +17,15 @@ define('SUB_TITLE_REVIEW', 'Ihre Bewertung');
 
 define('SUB_TITLE_RATING', 'Bewertung');
 define('SUB_TITLE_REVIEW_TEXT', 'Ihre Bewertung...');
+define('SUB_TITLE_REVIEW_NICKNAME', 'Ihr Name');
+
+define('VERIFIED_BUYER', '%s [verifizierter Käufer]');
 
 define('TEXT_BAD', '%s (schlechteste)');
 define('TEXT_GOOD', '%s (beste)');
 
 define('TEXT_RATED', 'Diesen Artikel bewerten %s');
+
 define('IMAGE_BUTTON_ADD_REVIEW', 'Bewertung abschicken');
 
 define('TEXT_REVIEW_RECEIVED', 'Danke für die Bewertung, %s. Sie wurde erfolgreich übermittelt und erscheint in Kürze auf unserer Seite.');
