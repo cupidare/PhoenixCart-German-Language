@@ -25,6 +25,7 @@ define('TABLE_HEADING_STATUS', 'Status');
 
 define('TEXT_NEW_PRODUCT', 'Neuer Artikel in &quot;%s&quot;');
 define('TEXT_EXISTING_PRODUCT', 'Artikel bearbeiten in &quot;%s&quot;');
+
 define('TEXT_CATEGORIES', 'Kategorien:');
 define('TEXT_SUBCATEGORIES', 'Unterkategorien:');
 define('TEXT_PRODUCTS', 'Artikel:');
@@ -61,8 +62,7 @@ define('TEXT_INFO_HEADING_COPY_TO', 'Kopieren nach');
 define('TEXT_DELETE_CATEGORY_INTRO', 'Sind Sie sicher, dass Sie diese Kategorie löschen möchten?');
 define('TEXT_DELETE_PRODUCT_INTRO', 'Sind Sie sicher, dass Sie diesen Artikel löschen möchten?');
 
-define('TEXT_DELETE_WARNING_CHILDS', '<b>WARNUNG:</b> Es existieren noch %s (Unter-)Kategorien, die mit dieser Kategorie verbunden sind!');
-define('TEXT_DELETE_WARNING_PRODUCTS', '<b>WARNNG:</b> Es existieren noch %s Artikel, die mit dieser Kategorie verbunden sind!');
+define('TEXT_DELETE_WARNING', '<strong>WARNUNG:</strong> Es existieren noch Unterkategorien und/oder Produkte, die mit dieser Kategorie verbunden sind!');
 
 define('TEXT_MOVE_PRODUCTS_INTRO', 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <b>%s</b> verschieben möchten');
 define('TEXT_MOVE_CATEGORIES_INTRO', 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <b>%s</b> verschieben möchten');
@@ -89,7 +89,6 @@ define('TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT','Bildbeschreibung');
 define('TEXT_PRODUCTS_ADD_LARGE_IMAGE','weitere große Artikelbilder');
 define('TEXT_PRODUCTS_LARGE_IMAGE_DELETE_TITLE', 'Entfernen großes Produkt-Foto?');
 define('TEXT_PRODUCTS_LARGE_IMAGE_CONFIRM_DELETE', 'Bitte bestätigen Sie das Entfernen des großes Produkt-Foto.');
-
 define('TEXT_PRODUCTS_URL', 'Herstellerlink:');
 define('TEXT_PRODUCTS_URL_WITHOUT_HTTP', '<small>(ohne führendes http://)</small>');
 define('TEXT_PRODUCTS_PRICE_NET', 'Artikelpreis (Netto):');

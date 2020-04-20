@@ -140,6 +140,7 @@ const TEXT_SET_DEFAULT = 'als Standard definieren';
 
 const TEXT_NONE = '--keine--';
 const TEXT_TOP = 'Top';
+const TEXT_ALL = 'Alle';
 
 const ERROR_DESTINATION_DOES_NOT_EXIST = 'Fehler: Zielverzeichnis existiert nicht.';
 const ERROR_DESTINATION_NOT_WRITEABLE = 'Fehler: Zielverzeichnis ist nicht beschreibbar.';
