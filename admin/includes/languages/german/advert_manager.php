@@ -56,7 +56,7 @@ define('TEXT_ADVERT_STATUS_CHANGE', 'Status Änderung: %s');
 define('TEXT_INFO_DELETE_INTRO', 'Möchten Sie diese Werbung löschen?');
 define('TEXT_INFO_DELETE_IMAGE', 'Bild löschen');
 
-define('SUCCESS_IMAGE_INSERTED', <strong>Erfolg:</strong> Neue Werbung hinzgefügt.');
+define('SUCCESS_IMAGE_INSERTED', '<strong>Erfolg:</strong> Neue Werbung hinzgefügt.');
 define('SUCCESS_IMAGE_UPDATED', '<strong>Erfolg:</strong> Werbung wurde geändert.');
 define('SUCCESS_IMAGE_REMOVED', '<strong>Erfolg:</strong> Werbung wurde gelöscht.');
 define('SUCCESS_ADVERT_STATUS_UPDATED', '<strong>Erfolg:</strong> Status der Werbung geändert.');
