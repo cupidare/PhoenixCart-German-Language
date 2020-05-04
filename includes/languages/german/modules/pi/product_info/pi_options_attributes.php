@@ -11,7 +11,7 @@
 */
 
   const PI_OA_TITLE         = 'Optionen & Attribute';
-  const PI_OA_DESCRIPTION   = 'Zeigt Produktoptionen auf der Produktübersichts-Seite.<div class="secInfo">Dies ist ein Untermodul für das &pi;-System.</div>';
+  const PI_OA_DESCRIPTION   = 'Zeigt Produktoptionen auf der Produktübersichts-Seite.<div class="alert alert-info">Dies ist ein Untermodul für das &Pi;-System.</div>';
   
   const PI_OA_HEADING_TITLE = 'Zur Auswahl steht';
   

@@ -11,6 +11,6 @@
 */
 
   const PI_IMG_DISCLAIMER_TITLE       = 'Bild-Disclaimer';
-  const PI_IMG_DISCLAIMER_DESCRIPTION = 'Zeigt den Bild-Disclaimer auf der Produktübersichts-Seite.<div class="secInfo">Dies ist ein Untermodul für das &pi;-System.</div>';
+  const PI_IMG_DISCLAIMER_DESCRIPTION = 'Zeigt den Bild-Disclaimer auf der Produktübersichts-Seite.<div class="alert alert-info">Dies ist ein Untermodul für das &pi;-System.</div>';
   
   const PI_IMG_DISCLAIMER_TEXT = 'Das Produkt kann leicht vom Bild abweichen.';

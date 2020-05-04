@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
@@ -25,4 +25,4 @@ define('TEXT_GUEST', 'Gäste');
 define('TEXT_INFO_IDENTIFIER', 'Identifikator:');
 define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am: %s');
 
-define('SUCCESS_EXPIRED_ENTRIES', 'Success: %s abgelaufene Eintragungen entfernt.');
+define('SUCCESS_EXPIRED_ENTRIES', '<strong>Erfolg:</strong> %s abgelaufene Eintragungen entfernt.');

@@ -37,7 +37,8 @@ define('TEXT_INFO_HEADING_DELETE_CURRENCY', 'Währung löschen');
 define('TEXT_INFO_SET_AS_DEFAULT', TEXT_SET_DEFAULT . ' (manuelles Aktualisieren der Wechselkurse erforderlich.)');
 define('TEXT_INFO_CURRENCY_UPDATED', 'Die Verbrauchssteuer für %s (%s) wurde erfolgreich aktualisiert via %s.');
 
-define('ERROR_REMOVE_DEFAULT_CURRENCY', 'Fehler: Die Standardwährung darf nicht gelöscht werden. Bitte definieren Sie eine neue Standardwährung und wiederholen Sie den Vorgang.');
-define('ERROR_CURRENCY_INVALID', 'Error: Die Verbrauchssteuer für %s (%s) wurde nicht aktualisiert via %s. Ist es ein gültiger Währungcode?');
-define('WARNING_PRIMARY_SERVER_FAILED', 'Warnung: Der primäre Server (%s) scheiterte bei %s (%s) - teste sekundären Server.');
+define('ERROR_REMOVE_DEFAULT_CURRENCY', '<strong>Error:</strong> Die Standardwährung darf nicht gelöscht werden. Bitte definieren Sie eine neue Standardwährung und wiederholen Sie den Vorgang.');
+define('ERROR_CURRENCY_INVALID', '<strong>Error:</strong> Die Verbrauchssteuer für %s (%s) wurde nicht aktualisiert via %s. Ist es ein gültiger Währungcode?');
+define('WARNING_PRIMARY_SERVER_FAILED', '<strong>Warnung:</strong> Der primäre Server (%s) scheiterte bei %s (%s) - teste sekundären Server.');
+
 define('ERROR_INSTALL_CURRENCY_CONVERTER', 'Derzeit ist kein Währungsumrechner installiert.  <a class="alert-link font-weight-bold" href="' . tep_href_link('modules.php', 'set=currencies') . '">jetzt installieren</a>');

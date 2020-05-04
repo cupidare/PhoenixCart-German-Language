@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -32,12 +32,13 @@ define('TEXT_INFO_DELETE_INTRO', 'Sind Sie sicher, dass Sie dieses Rundschreiben
 define('TEXT_PLEASE_WAIT', 'Bitte warten Sie .. eMails werden gesendet ..<br><br>Bitte unterbrechen Sie diesen Prozess nicht!');
 define('TEXT_FINISHED_SENDING_EMAILS', 'eMails wurden versendet!');
 
-define('ERROR_NEWSLETTER_TITLE', 'Fehler: Ein Titel für das Rundschreiben ist erforderlich.');
-define('ERROR_NEWSLETTER_MODULE', 'Fehler: Das Newsletter Modul wird benötigt.');
-define('ERROR_REMOVE_UNLOCKED_NEWSLETTER', 'Fehler: Bitte sperren Sie das Rundschreiben bevor Sie es löschen.');
-define('ERROR_EDIT_UNLOCKED_NEWSLETTER', 'Fehler: Bitte sperren Sie das Rundschreiben bevor Sie es bearbeiten.');
-define('ERROR_SEND_UNLOCKED_NEWSLETTER', 'Fehler: Bitte sperren Sie das Rundschreiben bevor Sie es versenden.');
+define('ERROR_NEWSLETTER_TITLE', '<strong>Error:</strong> Ein Titel für das Rundschreiben ist erforderlich.');
+define('ERROR_NEWSLETTER_MODULE', '<strong>Error:</strong> Das Newsletter Modul wird benötigt.');
+define('ERROR_REMOVE_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bitte sperren Sie das Rundschreiben bevor Sie es löschen.');
+define('ERROR_EDIT_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bitte sperren Sie das Rundschreiben bevor Sie es bearbeiten.');
+define('ERROR_SEND_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bitte sperren Sie das Rundschreiben bevor Sie es versenden.');
 
-define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', 'Error: Modul existiert nicht');
+define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', '<strong>Error:</strong> Modul existiert nicht');
+
 define('TEXT_TITLE', 'Überschrift:');
 define('TEXT_CONTENT', 'Inhalt:');

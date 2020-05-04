@@ -142,12 +142,12 @@ const TEXT_NONE = '--keine--';
 const TEXT_TOP = 'Top';
 const TEXT_ALL = 'Alle';
 
-const ERROR_DESTINATION_DOES_NOT_EXIST = 'Fehler: Zielverzeichnis existiert nicht.';
-const ERROR_DESTINATION_NOT_WRITEABLE = 'Fehler: Zielverzeichnis ist nicht beschreibbar.';
-const ERROR_FILE_NOT_SAVED = 'Fehler: Datei nach hochladen nicht gespeichert.';
-const ERROR_FILETYPE_NOT_ALLOWED = 'Fehler: Dateien von diesem Typ dürfen nicht hochgeladen werden.';
-const SUCCESS_FILE_SAVED_SUCCESSFULLY = 'Erfolg : Datei erfolgreich gespeichert.';
-const WARNING_NO_FILE_UPLOADED = 'Warnung: keine Datei hochgeladen.';
+const ERROR_DESTINATION_DOES_NOT_EXIST = '<strong>Error:</strong> Zielverzeichnis existiert nicht.';
+const ERROR_DESTINATION_NOT_WRITEABLE = '<strong>Error:</strong> Zielverzeichnis ist nicht beschreibbar.';
+const ERROR_FILE_NOT_SAVED = '<strong>Error:</strong> Datei nach hochladen nicht gespeichert.';
+const ERROR_FILETYPE_NOT_ALLOWED = '<strong>Error:</strong> Dateien von diesem Typ dürfen nicht hochgeladen werden.';
+const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Erfolg:</strong> Datei erfolgreich gespeichert.';
+const WARNING_NO_FILE_UPLOADED = '<strong>Warnung:</strong> keine Datei hochgeladen.';
 
 // bootstrap helper
 const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% 
@@ -155,5 +155,7 @@ Breite.</p><p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen
 
 // seo helper
 const PLACEHOLDER_COMMA_SEPARATION = 'Muss, durch, Komma, getrennt, werden';
+
 // message for required inputs
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
+

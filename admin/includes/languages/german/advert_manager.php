@@ -56,18 +56,18 @@ define('TEXT_ADVERT_STATUS_CHANGE', 'Status Änderung: %s');
 define('TEXT_INFO_DELETE_INTRO', 'Möchten Sie diese Werbung löschen?');
 define('TEXT_INFO_DELETE_IMAGE', 'Bild löschen');
 
-define('SUCCESS_IMAGE_INSERTED', 'Erfolg: Neue Werbung hinzgefügt.');
-define('SUCCESS_IMAGE_UPDATED', 'Erfolg: Werbung wurde geändert.');
-define('SUCCESS_IMAGE_REMOVED', 'Erfolg: Werbung wurde gelöscht.');
-define('SUCCESS_ADVERT_STATUS_UPDATED', 'Erfolg: Status der Werbung geändert.');
+define('SUCCESS_IMAGE_INSERTED', <strong>Erfolg:</strong> Neue Werbung hinzgefügt.');
+define('SUCCESS_IMAGE_UPDATED', '<strong>Erfolg:</strong> Werbung wurde geändert.');
+define('SUCCESS_IMAGE_REMOVED', '<strong>Erfolg:</strong> Werbung wurde gelöscht.');
+define('SUCCESS_ADVERT_STATUS_UPDATED', '<strong>Erfolg:</strong> Status der Werbung geändert.');
 
-define('ERROR_ADVERT_TITLE_REQUIRED', 'Fehler: Überschrift benötigt.');
-define('ERROR_ADVERT_GROUP_REQUIRED', 'Fehler: Gruppe benötigt.');
-define('ERROR_IMAGE_DIRECTORY_DOES_NOT_EXIST', 'Fehler: Zielverzeichnis existiert nicht: %s');
-define('ERROR_IMAGE_DIRECTORY_NOT_WRITEABLE', 'Fehler: Zielverzeichnis ist nicht beschreibbar: %s');
-define('ERROR_IMAGE_DOES_NOT_EXIST', 'Fehler: Bild existiert nicht.');
-define('ERROR_IMAGE_IS_NOT_WRITEABLE', 'Fehler: Bild kann nicht gelöscht werden.');
-define('ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED', 'Fehler: Sie haben kein Bild oder Text hinzugefügt. Werbungen benötigen einen Text oder ein Bild.');
+define('ERROR_ADVERT_TITLE_REQUIRED', '<strong>Error:</strong> Überschrift benötigt.');
+define('ERROR_ADVERT_GROUP_REQUIRED', '<strong>Error:</strong> Gruppe benötigt.');
+define('ERROR_IMAGE_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> Zielverzeichnis existiert nicht: %s');
+define('ERROR_IMAGE_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> Zielverzeichnis ist nicht beschreibbar: %s');
+define('ERROR_IMAGE_DOES_NOT_EXIST', '<strong>Error:</strong> Bild existiert nicht.');
+define('ERROR_IMAGE_IS_NOT_WRITEABLE', '<strong>Error:</strong> Bild kann nicht gelöscht werden.');
+define('ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED', '<strong>Error:</strong> Sie haben kein Bild oder Text hinzugefügt. Werbungen benötigen einen Text oder ein Bild.');
 
 define('TEXT_DISPLAY_NUMBER_OF_ADVERTS', 'Zeige <b>%s</b> bis <b>%s</b> von <b>%s</b> Werbungen');
 define('IMAGE_NEW_ADVERT', 'Neue Werbung');
@@ -78,4 +78,4 @@ define('TEXT_ADVERT_INTERNAL_URL', '<i class="fas fa-link mr-1"></i> interner Li
 define('IMAGE_IMPORT_ADVERT', 'Versuche Banner Import');
 define('IMAGE_IMPORT_ADVERT_EXPLANATION', 'Dies wird Daten von den "banners" Datenbankeinträgen importieren. Eventuell müssen Sie die Daten anschließend noch anpassen, damit alles korrekt im 
 Carousel angezeigt werden kann...');
-define('SUCCESS_BANNERS_IMPORTED', 'Erfolg: Daten aus "banners" Datenbankeinträgen importiert!');
+define('SUCCESS_BANNERS_IMPORTED', '<strong>Erfolg:</strong> Daten aus "banners" Datenbankeinträgen importiert!');

@@ -26,4 +26,4 @@ define('TEXT_EDIT_NOTE', '<p class="lead">Definition editieren</p>
 
 define('TEXT_FILE_DOES_NOT_EXIST', 'Datei nicht vorhanden.');
 
-define('ERROR_FILE_NOT_WRITEABLE', 'Fehler: Die Datei ist schreibgeschützt. Bitte korrigieren Sie die Zugriffsrechte für: %s');
+define('ERROR_FILE_NOT_WRITEABLE', '<strong>Error:</strong> Die Datei ist schreibgeschützt. Bitte korrigieren Sie die Zugriffsrechte für: %s');

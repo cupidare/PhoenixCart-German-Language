@@ -20,6 +20,6 @@ define('HEADING_NEW_LOGO', 'neues Logo hochladen');
 define('TEXT_LOGO_IMAGE', 'Neues Logo');
 define('TEXT_FORMAT_AND_LOCATION', 'Das Shop-Logo muss im .png, .jpg, .gif oder .svg-Format vorliegen und ÜBERSCHREIBT das bestehende Logo');
 
-define('SUCCESS_LOGO_UPDATED', 'Erfolg: Das Shop-Logo wurde erfolgreich aktualisiert!');
+define('SUCCESS_LOGO_UPDATED', '<strong>Erfolg:</strong> Das Shop-Logo wurde erfolgreich aktualisiert!');
 
-define('ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE', 'Error: Das Bildverzeichnis kann nicht aktualisiert werden zu. (<a href="%s">klicken Sie hier um die Verzeichnis-Rechte(directory permissions) zu kontrollieren</a>)');
+define('ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> Das Bildverzeichnis kann nicht aktualisiert werden zu. (<a href="%s">klicken Sie hier um die Verzeichnis-Rechte(directory permissions) zu kontrollieren</a>)');
