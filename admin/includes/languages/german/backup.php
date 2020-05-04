@@ -39,7 +39,7 @@ define('TEXT_LAST_RESTORATION', 'Letzte Wiederherstellung:<br>%s');
 define('TEXT_FORGET', 'Abbrechen');
 
 define('ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> Das Sicherungsverzeichnis ist nicht vorhanden.');
-define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', <strong>Error:</strong> Das Sicherungsverzeichnis ist schreibgeschützt.');
+define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> Das Sicherungsverzeichnis ist schreibgeschützt.');
 define('ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE', '<strong>Error:</strong> Download Link nicht akzeptabel.');
 
 define('SUCCESS_LAST_RESTORE_CLEARED', '<strong>Erfolg:</strong> Das letzte Wiederherstellungdatum wurde gelöscht.');
