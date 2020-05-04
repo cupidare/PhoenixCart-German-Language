@@ -5,118 +5,122 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Kategorien / Artikel');
-define('HEADING_TITLE_SEARCH', 'Suche: ');
-define('HEADING_TITLE_GOTO', 'Gehe zu:');
+const HEADING_TITLE = 'Kategorien / Artikel';
+const HEADING_TITLE_SEARCH = 'Suche';
+const HEADING_TITLE_GOTO = 'Gehe zu';
 
-define('SECTION_HEADING_GENERAL', 'Sprache - Besonderheiten');
-define('SECTION_HEADING_DATA', 'Produkte - Besonderheiten');
-define('SECTION_HEADING_IMAGES', 'Produktbilder');
+const SECTION_HEADING_GENERAL = '<i class="fas fa-language fa-fw mr-1"></i>Sprachbesonderheiten';
+const SECTION_HEADING_DATA = '<i class="fas fa-box-open fa-fw mr-1"></i>Produktbesonderheiten';
+const SECTION_HEADING_IMAGES = '<i class="fas fa-images fa-fw mr-1"></i>Produktbilder';
 
-define('TABLE_HEADING_ID', 'ID');
-define('TABLE_HEADING_CATEGORIES_PRODUCTS', 'Kategorien / Artikel');
-define('TABLE_HEADING_ACTION', 'Aktion');
-define('TABLE_HEADING_STATUS', 'Status');
+const TABLE_HEADING_ID = 'ID';
+const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Kategorien / Artikel';
+const TABLE_HEADING_ACTION = 'Aktion';
+const TABLE_HEADING_STATUS = 'Status';
 
-define('TEXT_NEW_PRODUCT', 'Neuer Artikel in &quot;%s&quot;');
-define('TEXT_EXISTING_PRODUCT', 'Artikel bearbeiten in &quot;%s&quot;');
+const TEXT_NEW_PRODUCT = 'Neuer Artikel <small>in %s</small>';
+const TEXT_EXISTING_PRODUCT = 'Artikel bearbeiten <small>in %s</small>';
 
-define('TEXT_CATEGORIES', 'Kategorien:');
-define('TEXT_SUBCATEGORIES', 'Unterkategorien:');
-define('TEXT_PRODUCTS', 'Artikel:');
-define('TEXT_PRODUCTS_PRICE_INFO', 'Preis:');
-define('TEXT_PRODUCTS_TAX_CLASS', 'Steuerklasse:');
-define('TEXT_PRODUCTS_AVERAGE_RATING', 'durchschnittl. Bewertung:');
-define('TEXT_PRODUCTS_QUANTITY_INFO', 'Anzahl:');
-define('TEXT_DATE_ADDED', 'hinzugefügt am:');
-define('TEXT_DATE_AVAILABLE', 'Erscheinungsdatum:');
-define('TEXT_LAST_MODIFIED', 'letzte änderung:');
-define('TEXT_IMAGE_NONEXISTENT', 'BILD EXISTIERT NICHT');
-define('TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS', 'Bitte fügen Sie eine neue Kategorie oder einen Artikel ein.');
-define('TEXT_PRODUCT_MORE_INFORMATION', 'Für weitere Informationen, besuchen Sie bitte die <a href="http://%s" target="blank"><u>Homepage</u></a> des Herstellers.');
-define('TEXT_PRODUCT_DATE_ADDED', 'Diesen Artikel haben wir am %s in unseren Katalog aufgenommen.');
-define('TEXT_PRODUCT_DATE_AVAILABLE', 'Dieser Artikel ist erhältlich ab %s.');
+const TEXT_CATEGORIES = 'Kategorien';
+const TEXT_PRODUCTS = 'Artikel';
+const TEXT_PRODUCTS_PRICE_INFO = 'Preis';
+const TEXT_PRODUCTS_TAX_CLASS = 'Steuerklasse';
+const TEXT_PRODUCTS_AVERAGE_RATING = 'durchschnittl. Bewertung';
+const TEXT_PRODUCTS_QUANTITY_INFO = 'Anzahl';
+const TEXT_DATE_ADDED = 'hinzugefügt am';
+const TEXT_DATE_AVAILABLE = 'Erscheinungsdatum';
 
-define('TEXT_EDIT_INTRO', 'Bitte führen Sie alle notwendigen änderungen durch.');
-define('TEXT_EDIT_CATEGORIES_ID', 'Kategorie ID:');
-define('TEXT_EDIT_CATEGORIES_NAME', 'Kategorie Name:');
-define('TEXT_EDIT_CATEGORIES_IMAGE', 'Kategorie Bild:');
-define('TEXT_EDIT_SORT_ORDER', 'Sortierreihenfolge:');
+const TEXT_LAST_MODIFIED = 'letzte Änderung';
+const TEXT_IMAGE_NONEXISTENT = 'BILD EXISTIERT NICHT';
+const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS = 'Bitte fügen Sie eine neue Kategorie oder einen Artikel ein.';
+const TEXT_PRODUCT_DATE_ADDED = 'hinzugefügt am';
+const TEXT_PRODUCT_DATE_AVAILABLE = 'erhältlich ab';
 
-define('TEXT_INFO_COPY_TO_INTRO', 'Bitte wählen Sie eine neue Kategorie aus, in die Sie den Artikel kopieren möchten:');
-define('TEXT_INFO_CURRENT_CATEGORIES', 'aktuelle Kategorien:');
+const TEXT_EDIT_INTRO = 'Bitte führen Sie alle notwendigen Änderungen durch.';
+const TEXT_EDIT_CATEGORIES_NAME = 'Kategoriename';
+const TEXT_EDIT_CATEGORIES_IMAGE = 'Kategoriebild';
+const TEXT_EDIT_SORT_ORDER = 'Sortierreihenfolge';
 
-define('TEXT_INFO_HEADING_NEW_CATEGORY', 'Neue Kategorie');
-define('TEXT_INFO_HEADING_EDIT_CATEGORY', 'Kategorie bearbeiten');
-define('TEXT_INFO_HEADING_DELETE_CATEGORY', 'Kategorie löschen');
-define('TEXT_INFO_HEADING_MOVE_CATEGORY', 'Kategorie verschieben');
-define('TEXT_INFO_HEADING_DELETE_PRODUCT', 'Artikel löschen');
-define('TEXT_INFO_HEADING_MOVE_PRODUCT', 'Artikel verschieben');
-define('TEXT_INFO_HEADING_COPY_TO', 'Kopieren nach');
+const TEXT_INFO_COPY_TO_INTRO = 'Bitte wählen Sie eine neue Kategorie aus, in die Sie den Artikel kopieren möchten';
+const TEXT_INFO_CURRENT_CATEGORIES = 'Derzeitige Kategorien';
 
-define('TEXT_DELETE_CATEGORY_INTRO', 'Sind Sie sicher, dass Sie diese Kategorie löschen möchten?');
-define('TEXT_DELETE_PRODUCT_INTRO', 'Sind Sie sicher, dass Sie diesen Artikel löschen möchten?');
+const TEXT_INFO_HEADING_NEW_CATEGORY = 'Neue Kategorie';
+const TEXT_INFO_HEADING_EDIT_CATEGORY = 'Kategorie bearbeiten';
+const TEXT_INFO_HEADING_DELETE_CATEGORY = 'Kategorie löschen';
+const TEXT_INFO_HEADING_MOVE_CATEGORY = 'Kategorie verschieben';
+const TEXT_INFO_HEADING_DELETE_PRODUCT = 'Artikel löschen';
+const TEXT_INFO_HEADING_MOVE_PRODUCT = 'Artikel verschieben';
+const TEXT_INFO_HEADING_COPY_TO = 'Kopieren nach';
 
-define('TEXT_DELETE_WARNING', '<strong>WARNUNG:</strong> Es existieren noch Unterkategorien und/oder Produkte, die mit dieser Kategorie verbunden sind!');
+const TEXT_DELETE_CATEGORY_INTRO = 'Sind Sie sicher, dass Sie diese Kategorie löschen möchten?';
+const TEXT_DELETE_PRODUCT_INTRO = 'Sind Sie sicher, dass Sie diesen Artikel löschen möchten?';
 
-define('TEXT_MOVE_PRODUCTS_INTRO', 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <b>%s</b> verschieben möchten');
-define('TEXT_MOVE_CATEGORIES_INTRO', 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <b>%s</b> verschieben möchten');
-define('TEXT_MOVE', 'Verschiebe <b>%s</b> nach:');
+const TEXT_DELETE_WARNING = '<strong>WARNUNG:</strong> Es existieren noch Unterkategorien und/oder Produkte, die mit dieser Kategorie verbunden sind!';
 
-define('TEXT_NEW_CATEGORY_INTRO', 'Bitte geben Sie die neue Kategorie mit allen relevanten Daten ein.');
-define('TEXT_CATEGORIES_NAME', 'Kategorie Name:');
-define('TEXT_CATEGORIES_IMAGE', 'Kategorie Bild:');
-define('TEXT_SORT_ORDER', 'Sortierreihenfolge:');
+const TEXT_MOVE_PRODUCTS_INTRO = 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <strong>%s</strong> verschieben möchten';
+const TEXT_MOVE_CATEGORIES_INTRO = 'Bitte wählen Sie die übergordnete Kategorie, in die Sie <strong>%s</strong> verschieben möchten';
+const TEXT_MOVE = 'Verschiebe <strong>%s</strong> nach:';
 
-define('TEXT_PRODUCTS_STATUS', 'Produktstatus:');
-define('TEXT_PRODUCTS_DATE_AVAILABLE', 'Erscheinungsdatum:');
-define('TEXT_PRODUCT_AVAILABLE', 'auf Lager');
-define('TEXT_PRODUCT_NOT_AVAILABLE', 'nicht vorrätig');
-define('TEXT_PRODUCTS_MANUFACTURER', 'Artikel-Hersteller:');
-define('TEXT_PRODUCTS_NAME', 'Artikelname:');
-define('TEXT_PRODUCTS_DESCRIPTION', 'Artikelbeschreibung:');
-define('TEXT_PRODUCTS_QUANTITY', 'Artikelanzahl:');
-define('TEXT_PRODUCTS_MODEL', 'Artikel-Nr.:');
-define('TEXT_PRODUCTS_IMAGE', 'Artikelbild:');
-define('TEXT_PRODUCTS_MAIN_IMAGE','Artikelhauptbild');
-define('TEXT_PRODUCTS_LARGE_IMAGE','großes Artikelbild');
-define('TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT','Bildbeschreibung');
-define('TEXT_PRODUCTS_ADD_LARGE_IMAGE','weitere große Artikelbilder');
-define('TEXT_PRODUCTS_LARGE_IMAGE_DELETE_TITLE', 'Entfernen großes Produkt-Foto?');
-define('TEXT_PRODUCTS_LARGE_IMAGE_CONFIRM_DELETE', 'Bitte bestätigen Sie das Entfernen des großes Produkt-Foto.');
-define('TEXT_PRODUCTS_URL', 'Herstellerlink:');
-define('TEXT_PRODUCTS_URL_WITHOUT_HTTP', '<small>(ohne führendes http://)</small>');
-define('TEXT_PRODUCTS_PRICE_NET', 'Artikelpreis (Netto):');
-define('TEXT_PRODUCTS_PRICE_GROSS', 'Artikelpreis (Brutto):');
-define('TEXT_PRODUCTS_WEIGHT', 'Artikelgewicht:');
+const TEXT_NEW_CATEGORY_INTRO = 'Bitte geben Sie die neue Kategorie mit allen relevanten Daten ein';
+const TEXT_CATEGORIES_NAME = 'Kategoriename';
+const TEXT_CATEGORIES_IMAGE = 'Kategoriebild';
+const TEXT_SORT_ORDER = 'Sortierreihenfolge';
 
-define('EMPTY_CATEGORY', 'Leere Kategorie');
+const TEXT_PRODUCTS_STATUS = 'Produktstatus';
+const TEXT_PRODUCTS_DATE_AVAILABLE = 'Erscheinungsdatum';
+const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = 'DD.MM.YYYY';
+const TEXT_PRODUCT_AVAILABLE = 'auf Lager';
+const TEXT_PRODUCT_NOT_AVAILABLE = 'nicht vorrätig';
+const TEXT_PRODUCTS_MANUFACTURER = 'Artikel-Hersteller';
+const TEXT_PRODUCTS_NAME = 'Artikelname';
+const TEXT_PRODUCTS_DESCRIPTION = 'Artikelbeschreibung';
+const TEXT_PRODUCTS_QUANTITY = 'Artikelanzahl';
+const TEXT_PRODUCTS_MODEL = 'Artikel-Nr.';
+const TEXT_PRODUCTS_IMAGE = 'Artikelbild';
+const TEXT_PRODUCTS_MAIN_IMAGE = 'Artikelhauptbild';
+const TEXT_PRODUCTS_LARGE_IMAGE = 'großes Artikelbild';
+const TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT = 'Bildbeschreibung';
+const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus mr-2"></i>weiteres Galleriebbild';
+const TEXT_PRODUCTS_URL = 'Herstellerlink';
+const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'ohne führendes http:// oder https://';
+const TEXT_PRODUCTS_PRICE_NET = 'Artikelpreis (Netto)';
+const TEXT_PRODUCTS_PRICE_GROSS = 'Artikelpreis (Brutto)';
+const TEXT_PRODUCTS_WEIGHT = 'Artikelgewicht';
 
-define('TEXT_HOW_TO_COPY', 'Kopiermethode:');
-define('TEXT_COPY_AS_LINK', 'Produkt verlinken');
-define('TEXT_COPY_AS_DUPLICATE', 'Produkt duplizieren');
+const EMPTY_CATEGORY = 'Leere Kategorie';
 
-define('ERROR_CANNOT_LINK_TO_SAME_CATEGORY', 'Fehler: Produkte können nicht in der gleichen Kategorie verlinkt werden.');
-define('ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE', 'Fehler: Das Verzeichnis \'images\' im Katalogverzeichnis ist schreibgeschützt: ' . DIR_FS_CATALOG_IMAGES);
-define('ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST', 'Fehler: Das Verzeichnis \'images\' im Katalogverzeichnis ist nicht vorhanden: ' . DIR_FS_CATALOG_IMAGES);
-define('ERROR_CANNOT_MOVE_CATEGORY_TO_PARENT', 'Error: Kategorie kann nicht in Unterkategorie verschoben werden.');
+const TEXT_HOW_TO_COPY = 'Kopiermethode';
+const TEXT_COPY_AS_LINK = 'Produkt verlinken';
+const TEXT_COPY_AS_DUPLICATE = 'Produkt duplizieren';
 
-define('TEXT_CATEGORIES_DESCRIPTION', 'Category Description:<br><small>shows in category page</small>');
-define('TEXT_EDIT_CATEGORIES_DESCRIPTION', 'Edit the Category Description:');
+const ERROR_CANNOT_LINK_TO_SAME_CATEGORY = '<strong>Error:</strong> Produkte können nicht in der gleichen Kategorie verlinkt werden.';
+const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist schreibgeschützt: ' . DIR_FS_CATALOG_IMAGES;
+const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist nicht vorhanden: ' . DIR_FS_CATALOG_IMAGES;
+const ERROR_CANNOT_MOVE_CATEGORY_TO_PARENT = '<strong>Error:</strong> Kategorie kann nicht in Unterkategorie verschoben werden.';
 
-define('TEXT_CATEGORIES_SEO_DESCRIPTION', 'Category Meta Description for SEO:<br><small>Add a &lt;description&gt; Meta Element.</small>');
-define('TEXT_EDIT_CATEGORIES_SEO_DESCRIPTION', 'Edit the Category Meta Description for SEO:<br><small>Changes the &lt;description&gt; Meta Element.</small>');
-define('TEXT_CATEGORIES_SEO_KEYWORDS', 'Category Meta Keywords for SEO:<br><small>Add a &lt;keyword&gt; Meta Element.<br>Must be comma separated.</small>');
-define('TEXT_EDIT_CATEGORIES_SEO_KEYWORDS', 'Edit the Category Meta Keywords for SEO:<br><small>Changes the &lt;keyword&gt; Meta Element.<br>Must be comma separated.</small>');
+const TEXT_CATEGORIES_DESCRIPTION = 'Kategoriebeschreibung:<br><small>wird auf Kategorieseite angezeigt</small>';
+const TEXT_EDIT_CATEGORIES_DESCRIPTION = 'Kategoriebeschreibung bearbeiten';
+
+const TEXT_CATEGORIES_SEO_DESCRIPTION = 'Meta-Beschreibung der Kategorie für SEO:<br><small>Füge ein &lt;description&gt;-Meta-Element hinzu.</small>';
+const TEXT_EDIT_CATEGORIES_SEO_DESCRIPTION = 'Meta-Beschreibung der Kategorie für SEO bearbeiten:<br><small>Ändert das &lt;description&gt;-Meta-Element.</small>';
+const TEXT_CATEGORIES_SEO_KEYWORDS = 'Meta-Keywords der Kategorie für SEO:<br><small>Füge ein &lt;keyword&gt;-Meta-Element hinzu.<br>Muss durch Komma getrennt werden.</small>';
+const TEXT_EDIT_CATEGORIES_SEO_KEYWORDS = 'Meta-Keywords der Kategorie für SEO bearbeiten:<br><small>Ändert das &lt;keyword&gt;-Meta-Element.<br>Muss durch Komma getrennt werden.</small>';
  
-const TEXT_PRODUCTS_GTIN = 'Products <abbr title="GTIN must be stored as 14 Digits. Any GTIN smaller than this will be zero-padded per GTIN Specifications.">GTIN</abbr>:<br><small>1 of UPC, EAN, ISBN etc</small>';
-const TEXT_PRODUCTS_SEO_DESCRIPTION = 'Product Meta Description for SEO:<br><small>Add a &lt;description&gt; Meta Element.<br>HTML is not allowed.</small>';
-const TEXT_PRODUCTS_SEO_KEYWORDS = 'Product Meta Keywords for SEO:<br><small>Add a &lt;keyword&gt; Meta Element or Search Engine.<br>Must be comma separated. HTML is not allowed.</small>';
-const TEXT_PRODUCTS_SEO_TITLE = 'Products Title for SEO:<br><small>Replaces the product name in the &lt;title&gt; Meta Element<br>and optionally in the Breadcrumb Trail.<br>Leave blank to default to product name.</small>';
-const TEXT_CATEGORIES_SEO_TITLE = 'Category Title for SEO:<br><small>Replaces the category name in the &lt;title&gt; Meta Element.<br>Leave blank to default to category name.</small>';
-const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Edit the Category Title for SEO:<br><small>Replaces the category name in the &lt;title&gt; Meta Element<br>and optionally in the Breadcrumb Trail.<br>Leave blank to default to category name.</small>';
+const TEXT_PRODUCTS_GTIN = 'Produkt-GTIN';
+const TEXT_PRODUCTS_GTIN_HELP = 'GTIN muss 14 Stellen enthalten. Alle GTIN, die kürzer sind, werden durch Nullen ersetzt.';
+
+const TEXT_PRODUCTS_SEO_DESCRIPTION = 'Meta-Beschreibung des Produkts für SEO';
+const TEXT_PRODUCTS_SEO_DESCRIPTION_HELP = 'Füge ein &lt;description&gt;-Meta-Element hinzu. HTML wird nicht unterstützt.';
+const TEXT_PRODUCTS_SEO_KEYWORDS = 'Meta-Keywords des Produkts für SEO';
+const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Füge ein &lt;keyword&gt;-Meta-Element oder Suchmaschine hinzu. Muss durch Komma getrennt werden. HTML wird nicht unterstützt.';
+const TEXT_PRODUCTS_SEO_TITLE = 'Produktüberschrift für SEO';
+const TEXT_PRODUCTS_SEO_TITLE_HELP = 'Ersetzt den Artikelname im &lt;title&gt;-Meta-Element und optional im Breadcrumb.<br>Bei Nichtangabe wird der normale Artikelname verwendet.';
+const TEXT_CATEGORIES_SEO_TITLE = 'Kategoriename für SEO:<br><small>Ersetzt den Kategoriename im &lt;title&gt;-Meta-Element.<br>Bei Nichtangabe wird der normale Kategoriename verwendet.</small>';
+const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Kategoriename für SEO bearbeiten:<br><small>Ersetzt den Kategoriename im &lt;title&gt;-Meta-Element<br>und optional im Breadcrumb.<br>Bei Nichtangabe wird der normale Kategoriename verwendet.</small>';
+
+const TEXT_PRODUCTS_OTHER_IMAGES = 'Galleriebilder';

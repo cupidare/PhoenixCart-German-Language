@@ -1,27 +1,23 @@
 <?php
 /*
-  Copyright (c) 2018, G Burton
-  All rights reserved.
+  $Id$
 
-  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+  osCommerce, Open Source E-Commerce Solutions
+  http://www.oscommerce.com
 
-  1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+  Copyright (c) 2020 osCommerce
 
-  2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-
-  3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-
-  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  Released under the GNU General Public License
 */
 
   define('MODULE_NAVBAR_ACCOUNT_TITLE', 'Account');
   define('MODULE_NAVBAR_ACCOUNT_DESCRIPTION', 'zeigt Link zum Account in der Navbar');
   
-  define('MODULE_NAVBAR_ACCOUNT_LOGGED_OUT', '<i title="Mein Account" class="fas fa-user fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> Mein Account</span> <span class="caret"></span>');
+  define('MODULE_NAVBAR_ACCOUNT_LOGGED_OUT', '<i title="Mein Profil" class="fas fa-user fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> Mein Account</span> <span class="caret"></span>');
   define('MODULE_NAVBAR_ACCOUNT_LOGGED_IN', '<i class="fas fa-user fa-fw"></i> %s <span class="caret"></span>');
   define('MODULE_NAVBAR_ACCOUNT_LOGIN', '<i class="fas fa-sign-in-alt fa-fw"></i> Einloggen');
   define('MODULE_NAVBAR_ACCOUNT_LOGOFF', '<i class="fas fa-sign-out-alt fa-fw"></i> Ausloggen');
-  define('MODULE_NAVBAR_ACCOUNT', 'Mein Account');
+  define('MODULE_NAVBAR_ACCOUNT', 'Mein Profil');
   define('MODULE_NAVBAR_ACCOUNT_HISTORY', 'Meine Bestellungen');
   define('MODULE_NAVBAR_ACCOUNT_EDIT', 'Meine Daten');
   define('MODULE_NAVBAR_ACCOUNT_ADDRESS_BOOK', 'Mein Adressbuch');

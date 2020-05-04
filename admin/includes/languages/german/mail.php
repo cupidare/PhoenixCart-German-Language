@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'eMail an Kunden versenden';
+const HEADING_TITLE = 'E-Mail an Kunden versenden';
  
 const TEXT_CUSTOMER = 'Kunde';
 const TEXT_SUBJECT = 'Betreff';
@@ -22,5 +22,5 @@ const TEXT_SELECT_CUSTOMER = 'Kunden auswählen';
 const TEXT_ALL_CUSTOMERS = 'Alle Kunden';
 const TEXT_NEWSLETTER_CUSTOMERS = 'An alle Newsletter-Abonnenten';
 
-const NOTICE_EMAIL_SENT_TO = 'Hinweis: eMail wurde versendet an: %s';
-const ERROR_NO_CUSTOMER_SELECTED = 'Fehler: Es wurde kein Kunde ausgewählt.';
+const NOTICE_EMAIL_SENT_TO = '<strong>Hinweis:</strong> E-Mail wurde versendet an: %s';
+const ERROR_NO_CUSTOMER_SELECTED = '<strong>Error:</strong> Es wurde kein Kunde ausgewählt.';

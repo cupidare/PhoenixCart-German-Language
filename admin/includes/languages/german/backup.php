@@ -38,13 +38,13 @@ define('TEXT_BACKUP_DIRECTORY', 'Backup Verzeichnis:<br>%s');
 define('TEXT_LAST_RESTORATION', 'Letzte Wiederherstellung:<br>%s');
 define('TEXT_FORGET', 'Abbrechen');
 
-define('ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST', 'Fehler: Das Sicherungsverzeichnis ist nicht vorhanden.');
-define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', 'Fehler: Das Sicherungsverzeichnis ist schreibgeschützt.');
-define('ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE', 'Fehler: Download Link nicht akzeptabel.');
+define('ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> Das Sicherungsverzeichnis ist nicht vorhanden.');
+define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', <strong>Error:</strong> Das Sicherungsverzeichnis ist schreibgeschützt.');
+define('ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE', '<strong>Error:</strong> Download Link nicht akzeptabel.');
 
-define('SUCCESS_LAST_RESTORE_CLEARED', 'Erfolg: Das letzte Wiederherstellungdatum wurde gelöscht.');
-define('SUCCESS_DATABASE_SAVED', 'Erfolg: Die Datenbank wurde gesichert.');
-define('SUCCESS_DATABASE_RESTORED', 'Erfolg: Die Datenbank wurde wiederhergestellt.');
-define('SUCCESS_BACKUP_DELETED', 'Erfolg: Die Sicherungsdatei wurde gelöscht.');
+define('SUCCESS_LAST_RESTORE_CLEARED', '<strong>Erfolg:</strong> Das letzte Wiederherstellungdatum wurde gelöscht.');
+define('SUCCESS_DATABASE_SAVED', '<strong>Erfolg:</strong> Die Datenbank wurde gesichert.');
+define('SUCCESS_DATABASE_RESTORED', '<strong>Erfolg:</strong> Die Datenbank wurde wiederhergestellt.');
+define('SUCCESS_BACKUP_DELETED', '<strong>Erfolg:</strong> Die Sicherungsdatei wurde gelöscht.');
 
 define('TEXT_INFO_BACKUP_SIZE', '%s MB');
