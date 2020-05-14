@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', '&pi; Module');
+define('HEADING_TITLE', 'Module auf der Produktseite');
 
 define('TABLE_HEADING_MODULES', 'Module');
 define('TABLE_HEADING_GROUP', 'Gruppe');
