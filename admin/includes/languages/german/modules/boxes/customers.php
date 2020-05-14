@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_CUSTOMERS', '<i title="Customers" data-toggle="tooltip" data-placement="right" class="fas fa-users fa-fw mr-1"></i><span class="d-inline d-md-none">Kunden</span>');
+  define('BOX_HEADING_CUSTOMERS', '<i title="Kunden" data-toggle="tooltip" data-placement="right" class="fas fa-users fa-fw mr-1"></i><span class="d-inline d-md-none">Kunden</span>');
