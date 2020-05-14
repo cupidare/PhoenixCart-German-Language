@@ -29,3 +29,5 @@ const TEXT_INFO_DELETE_INTRO = 'Möchten Sie die Nutzerdatengruppe löschen?';
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Neue Nutzerdatengruppe';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Bearbeite Nutzerdatengruppe';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER_DATA_GROUP = 'Lösche Nutzerdatengruppe';
+const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Anzahl an Nutzerdatengruppen';
+
