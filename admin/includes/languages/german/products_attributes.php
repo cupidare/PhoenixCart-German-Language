@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2002 osCommerce
 
   Released under the GNU General Public License
 */
@@ -32,3 +32,5 @@ define('TEXT_WARNING_OF_DELETE', 'Mit dieser Option sind Artikel, sowie Optionsm
 define('TEXT_OK_TO_DELETE', 'Mit dieser Option sind keine Artikel, sowie Optionsmerkmale verbunden - Sie kann gelöscht werden.');
 define('TEXT_OPTION_ID', 'Options ID');
 define('TEXT_OPTION_NAME', 'Optionsname');
+
+const PLEASE_SELECT_OPTION = '--- Bitte auswählen ---';
