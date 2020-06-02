@@ -25,13 +25,18 @@
   <li>Schritt
   <ul>
     <li>Login ins Admin-Panel</li>
-    <li>Gehe zu Localization -> Languages -> New Language</li>
-    <li>Name: German</li>
-    <li>Code: de</li>
-    <li>Image: icon.gif</li>
-    <li>Directory: german</li>
-  </ul></li>
-</ol></p>
+    <li>Gehe zu Localization -> Languages </li>
+    <li> roter Button -> New Language (im Header der 5. Button)
+    <ul><li>   Name: German</li>
+    <li>   Code: de</li>
+    <li>   Image: icon.gif</li>
+    <li>   Directory: german</li>
+    <li>   optional: Set as default </li>
+      </ul></ul></li>
+  
+</ol>  
+<strong>Es wird dringend empfohlen, den Browsercache zu leeren und sich neu einzuloggen.</strong>
+</p>
 
 === ENGLISH === 
 <ul>
