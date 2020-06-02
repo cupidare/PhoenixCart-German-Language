@@ -29,7 +29,6 @@ define('TEXT_INFO_DELETE_REVIEW_INTRO', 'Sind Sie sicher, dass Sie diese Bewertu
 
 define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am: %s');
 define('TEXT_INFO_LAST_MODIFIED', 'letzte änderung: %s');
-define('TEXT_IMAGE_NONEXISTENT', 'BILD EXISTIERT NICHT');
 define('TEXT_INFO_REVIEW_AUTHOR', 'geschrieben von: %s');
 define('TEXT_INFO_REVIEW_RATING', 'Bewertung: %s');
 define('TEXT_INFO_REVIEW_READ', 'gelesen : %s');
