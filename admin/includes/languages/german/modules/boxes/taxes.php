@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_LOCATION_AND_TAXES', '<i title="Land / Steuer" data-toggle="tooltip" data-placement="right" class="fas fa-comments-dollar fa-fw mr-1"></i><span class="d-inline d-md-none">Land / Steuer</span>');
+  define('BOX_HEADING_LOCATION_AND_TAXES', '<i title="Land / Steuer" data-toggle="tooltip" data-placement="right" class="fas fa-comments-dollar fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Land / Steuer</span>');
   

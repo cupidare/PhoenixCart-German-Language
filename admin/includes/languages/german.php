@@ -132,8 +132,7 @@ const TEXT_DISPLAY_NUMBER_OF_TAX_ZONES = 'Angezeigt werden <strong>%d</strong> b
 const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuersätzen)';
 const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bundesländern)';
 
-const PREVNEXT_BUTTON_PREV = '&lt;&lt;';
-const PREVNEXT_BUTTON_NEXT = '&gt;&gt;';
+const SPLIT_PAGES = 'Seite auswählen';
 
 const TEXT_DEFAULT = 'Standard';
 const TEXT_SET_DEFAULT = 'als Standard definieren';
@@ -150,8 +149,7 @@ const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Erfolg:</strong> Datei erfolgre
 const WARNING_NO_FILE_UPLOADED = '<strong>Warnung:</strong> keine Datei hochgeladen.';
 
 // bootstrap helper
-const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% 
-Breite.</p><p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>';
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% Breite.</p><p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>';
 
 // seo helper
 const PLACEHOLDER_COMMA_SEPARATION = 'Muss, durch, Komma, getrennt, werden';

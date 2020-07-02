@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_PAYPAL_HEADING', '<i title="PayPal" data-toggle="tooltip" data-placement="right" class="fab fa-paypal fa-fw mr-1"></i><span class="d-inline d-md-none">PayPal</span>');
+  define('MODULES_ADMIN_MENU_PAYPAL_HEADING', '<i title="PayPal" data-toggle="tooltip" data-placement="right" class="fab fa-paypal fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">PayPal</span>');
 
   define('MODULES_ADMIN_MENU_PAYPAL_BALANCE', 'Kontostand');
   define('MODULES_ADMIN_MENU_PAYPAL_CONFIGURE', 'Konfigurieren');

@@ -45,8 +45,6 @@ define('TEXT_EDIT_MANUFACTURERS_DESCRIPTION', 'Bearbeite die Hersteller-Beschrei
 
 define('TEXT_MANUFACTURERS_SEO_DESCRIPTION', 'Hersteller Metadaten (SEO):<br><small>Ergänze &lt;description&gt; Meta Element.</small>');
 define('TEXT_EDIT_MANUFACTURERS_SEO_DESCRIPTION', 'Hersteller Metadaten (SEO):<br><small>Bearbeite &lt;description&gt; Meta Element.</small>');
-define('TEXT_MANUFACTURERS_SEO_KEYWORDS', 'Hersteller Metadaten (SEO):<br><small>Ergänze &lt;keyword&gt; Meta Element.<br>Must be comma separated.</small>');
-define('TEXT_EDIT_MANUFACTURERS_SEO_KEYWORDS', 'Hersteller Metadaten (SEO):<br><small>Bearbeite &lt;keyword&gt; Meta Element.<br>Must be comma separated.</small>');
 
 const TEXT_MANUFACTURERS_SEO_TITLE = 'Herstellerseite Überschrift (SEO):<br><small>Ersetzt optional &lt;title&gt; Meta Element und Breadcrumb.<br>Beim Weglassen erscheint der Herstellername.</small>';
 const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Bearbeite Herstellerseite Überschrift (SEO):<br><small>Ersetzt optional das Hersteller &lt;title&gt; Meta Element und Breadcrumb.<br>Beim Weglassen erscheint der Herstellername.</small>';
