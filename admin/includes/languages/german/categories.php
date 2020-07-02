@@ -108,16 +108,14 @@ const TEXT_EDIT_CATEGORIES_DESCRIPTION = 'Kategoriebeschreibung bearbeiten';
 
 const TEXT_CATEGORIES_SEO_DESCRIPTION = 'Meta-Beschreibung der Kategorie für SEO:<br><small>Füge ein &lt;description&gt;-Meta-Element hinzu.</small>';
 const TEXT_EDIT_CATEGORIES_SEO_DESCRIPTION = 'Meta-Beschreibung der Kategorie für SEO bearbeiten:<br><small>Ändert das &lt;description&gt;-Meta-Element.</small>';
-const TEXT_CATEGORIES_SEO_KEYWORDS = 'Meta-Keywords der Kategorie für SEO:<br><small>Füge ein &lt;keyword&gt;-Meta-Element hinzu.<br>Muss durch Komma getrennt werden.</small>';
-const TEXT_EDIT_CATEGORIES_SEO_KEYWORDS = 'Meta-Keywords der Kategorie für SEO bearbeiten:<br><small>Ändert das &lt;keyword&gt;-Meta-Element.<br>Muss durch Komma getrennt werden.</small>';
  
 const TEXT_PRODUCTS_GTIN = 'Produkt-GTIN';
 const TEXT_PRODUCTS_GTIN_HELP = 'GTIN muss 14 Stellen enthalten. Alle GTIN, die kürzer sind, werden durch Nullen ersetzt.';
 
 const TEXT_PRODUCTS_SEO_DESCRIPTION = 'Meta-Beschreibung des Produkts für SEO';
 const TEXT_PRODUCTS_SEO_DESCRIPTION_HELP = 'Füge ein &lt;description&gt;-Meta-Element hinzu. HTML wird nicht unterstützt.';
-const TEXT_PRODUCTS_SEO_KEYWORDS = 'Meta-Keywords des Produkts für SEO';
-const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Füge ein &lt;keyword&gt;-Meta-Element oder Suchmaschine hinzu. Muss durch Komma getrennt werden. HTML wird nicht unterstützt.';
+const TEXT_PRODUCTS_SEO_KEYWORDS = 'Keywords des Produkts';
+const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Hilft Keyword-Suchmaschinen. Muss durch Komma getrennt werden. HTML wird nicht unterstützt.';
 const TEXT_PRODUCTS_SEO_TITLE = 'Produktüberschrift für SEO';
 const TEXT_PRODUCTS_SEO_TITLE_HELP = 'Ersetzt den Artikelname im &lt;title&gt;-Meta-Element und optional im Breadcrumb.<br>Bei Nichtangabe wird der normale Artikelname verwendet.';
 const TEXT_CATEGORIES_SEO_TITLE = 'Kategoriename für SEO:<br><small>Ersetzt den Kategoriename im &lt;title&gt;-Meta-Element.<br>Bei Nichtangabe wird der normale Kategoriename verwendet.</small>';

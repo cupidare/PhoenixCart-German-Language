@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_LOCALIZATION', '<i title="Sprachen/Währungen" data-toggle="tooltip" data-placement="right" class="fas fa-language fa-fw mr-1"></i><span class="d-inline d-md-none">Sprachen/Währungen</span>');
+  define('BOX_HEADING_LOCALIZATION', '<i title="Sprachen/Währungen" data-toggle="tooltip" data-placement="right" class="fas fa-language fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Sprachen/Währungen</span>');
   
