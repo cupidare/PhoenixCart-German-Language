@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_TITLE', 'Admin HTTP Authentication');
-define('MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_ERROR', 'HTTP Authentication has not been set up for the osCommerce Administration Tool - please set this up in your web server configuration to further protect the Administration Tool from unauthorized access.');
-
+define('MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_TITLE', 'Admin HTTP-Authentifizierung');
+define('MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_ERROR', 'Es wurde keine HTTP-Authentifizierung für das osCommerce Administration Tool konfiguriert - Bitte führen Sie die nötigen Änderungen an Ihrem Webserver durch, um sich vor unauthorisiertem Zugriff zu schützen.');
