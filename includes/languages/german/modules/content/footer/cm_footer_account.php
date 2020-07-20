@@ -13,7 +13,7 @@
   define('MODULE_CONTENT_FOOTER_ACCOUNT_TITLE', 'Accountlinks');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_DESCRIPTION', 'Fügt Accountlinks in den Footer-Bereich der Seite ein');
 
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_HEADING_TITLE', 'Benutzerdienste');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_HEADING_TITLE', 'Kundenportal');
 
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ACCOUNT', 'Mein Profil');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ADDRESS_BOOK', 'Mein Adressbuch');
