@@ -24,3 +24,4 @@ const TEXT_NEWSLETTER_CUSTOMERS = 'An alle Newsletter-Abonnenten';
 
 const NOTICE_EMAIL_SENT_TO = '<strong>Hinweis:</strong> E-Mail wurde versendet an: %s';
 const ERROR_NO_CUSTOMER_SELECTED = '<strong>Error:</strong> Es wurde kein Kunde ausgewählt.';
+const ERROR_INVALID_EMAIL = '<strong>Fehler:</strong> "%s" ist keine gültige E-Mail-Adresse.';

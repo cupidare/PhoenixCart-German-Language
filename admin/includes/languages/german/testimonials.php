@@ -10,33 +10,35 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Testimonials');
+const HEADING_TITLE = 'Testimonials';
 
-define('TABLE_HEADING_CUSTOMER_ID', 'Nutzer ID');
-define('TABLE_HEADING_CUSTOMER_NAME', 'Nutzer Name');
-define('TABLE_HEADING_DATE_ADDED', 'erstellt am ');
-define('TABLE_HEADING_ACTION', 'Aktion');
-define('TABLE_HEADING_STATUS', 'Status');
+const TABLE_HEADING_CUSTOMER_ID = 'Nutzer ID';
+const TABLE_HEADING_CUSTOMER_NAME = 'Nutzer Name';
+const TABLE_HEADING_DATE_ADDED = 'erstellt am ';
+const TABLE_HEADING_ACTION = 'Aktion';
+const TABLE_HEADING_STATUS = 'Status';
 
-define('ENTRY_FROM_NICKNAME', 'Name/Spitzname');
-define('ENTRY_FROM', 'Vom');
-define('ENTRY_DATE', 'Date');
-define('ENTRY_TESTIMONIAL', 'Bewertung');
+const ENTRY_FROM_NICKNAME = 'Name/Spitzname';
+const ENTRY_FROM = 'Vom';
+const ENTRY_DATE = 'Date';
+const ENTRY_TESTIMONIAL = 'Bewertung';
 
-define('TEXT_INFO_DELETE_TESTIMONIAL_INTRO', 'Wollen Sie diese Rezension löschen?');
+const TEXT_INFO_DELETE_TESTIMONIAL_INTRO = 'Wollen Sie diese Rezension löschen?';
 
-define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am: %s');
-define('TEXT_INFO_LAST_MODIFIED', 'zuletzt geändert: %s');
+const TEXT_INFO_DATE_ADDED = 'hinzugefügt am: %s';
+const TEXT_INFO_LAST_MODIFIED = 'zuletzt geändert: %s';
 
-define('TEXT_INFO_TESTIMONIAL_AUTHOR', 'Autor: %s');
-define('TEXT_INFO_TESTIMONIAL_SIZE', 'Größe: %s words');
-define('TEXT_INFO_TESTIMONIAL_STATUS', 'Rezensionsstatus');
+const TEXT_INFO_TESTIMONIAL_AUTHOR = 'Autor: %s';
+const TEXT_INFO_TESTIMONIAL_SIZE = 'Größe: %s words';
+const TEXT_INFO_TESTIMONIAL_STATUS = 'Rezensionsstatus';
 
-define('TEXT_TESTIMONIAL_PUBLISHED', 'veröffentlicht');
-define('TEXT_TESTIMONIAL_NOT_PUBLISHED', 'nicht veröffentlicht');
+const TEXT_TESTIMONIAL_PUBLISHED = 'veröffentlicht';
+const TEXT_TESTIMONIAL_NOT_PUBLISHED = 'nicht veröffentlicht';
 
-define('TEXT_INFO_HEADING_DELETE_TESTIMONIAL', 'Rezension löschen');
+const TEXT_INFO_HEADING_DELETE_TESTIMONIAL = 'Rezension löschen';
 
-define('TEXT_DISPLAY_NUMBER_OF_TESTIMONIALS', 'Zeige <b>%s</b> bis <b>%s</b> (von <strong>%s</strong> Rezensionen)');
+const TEXT_DISPLAY_NUMBER_OF_TESTIMONIALS = 'Zeige <b>%s</b> bis <b>%s</b> (von <strong>%s</strong> Rezensionen)';
 
-define('IMAGE_BUTTON_ADD_TESTIMONIAL', 'Rezension hinzufügen');
+const IMAGE_BUTTON_ADD_TESTIMONIAL = 'Rezension hinzufügen';
+
+const ENTRY_TESTIMONIAL_HTML_DISPLAYED = 'HTML wird innerhalb der Rezensionen angezeigt.';
