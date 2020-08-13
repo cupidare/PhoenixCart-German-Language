@@ -99,8 +99,8 @@ const TEXT_COPY_AS_LINK = 'Produkt verlinken';
 const TEXT_COPY_AS_DUPLICATE = 'Produkt duplizieren';
 
 const ERROR_CANNOT_LINK_TO_SAME_CATEGORY = '<strong>Error:</strong> Produkte können nicht in der gleichen Kategorie verlinkt werden.';
-const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist schreibgeschützt: ' . DIR_FS_CATALOG_IMAGES;
-const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist nicht vorhanden: ' . DIR_FS_CATALOG_IMAGES;
+const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist schreibgeschützt:  %s';
+const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> Das Verzeichnis \'images\' im Katalogverzeichnis ist nicht vorhanden:  %s';
 const ERROR_CANNOT_MOVE_CATEGORY_TO_PARENT = '<strong>Error:</strong> Kategorie kann nicht in Unterkategorie verschoben werden.';
 
 const TEXT_CATEGORIES_DESCRIPTION = 'Kategoriebeschreibung:<br><small>wird auf Kategorieseite angezeigt</small>';
