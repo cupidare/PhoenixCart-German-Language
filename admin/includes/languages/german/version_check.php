@@ -20,6 +20,6 @@ define('TEXT_RELEASE_LINK', 'Zeige Releaseinformationen');
 
 define('TITLE_INSTALLED_VERSION', 'Installierte Version:');
 
-define('VERSION_RUNNING_LATEST', 'Sie haben die neueste Version von OSCOM CE Phoenix installiert.');
-define('VERSION_UPGRADES_AVAILABLE', 'Eine neue Version ist zum Download verfügbar! (OSCOM CE Phoenix v%s)<hr><a class="alert-link" target="_blank" href="https://forums.oscommerce.com/topic/494774-certified-service-providers-development-hosting-themes-and-more/">Zertifizierte Entwickler</a> und detailierte "<a class="alert-link" target="_blank" href="https://forums.oscommerce.com/tags/phoenix%%20update/"> Anleitungen </a>" sind im Phoenix Club verfügbar.');
-define('ERROR_COULD_NOT_CONNECT', 'Konnte nicht auf die osCommerce Webseite zugreifen, um auf neuen Versionen zu überprüfen.');
+define('VERSION_RUNNING_LATEST', 'Sie haben die neueste Version von CE Phoenix installiert.');
+define('VERSION_UPGRADES_AVAILABLE', 'Eine neue Version ist zum Download verfügbar! (CE Phoenix v%s)<hr><a class="alert-link" target="_blank" href="https://forums.oscommerce.com/topic/494774-certified-service-providers-development-hosting-themes-and-more/">Zertifizierte Entwickler</a> und detailierte "<a class="alert-link" target="_blank" href="https://forums.oscommerce.com/tags/phoenix%%20update/"> Anleitungen </a>" sind im Phoenix Club verfügbar.');
+define('ERROR_COULD_NOT_CONNECT', 'Konnte nicht auf die CE Phoenix Webseite zugreifen, um auf neuen Versionen zu überprüfen.');
