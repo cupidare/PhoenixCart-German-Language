@@ -23,3 +23,4 @@ const TEXT_MODULE_DIRECTORY=  'Modul-Verzeichnis:';
 const ERROR_MODULE_UNMET_REQUIREMENT = 'Bei diesem Modul fehlt eine Abhängigkeit.';
 const ERROR_MODULE_HAS_DEPENDENTS = 'Andere Module benötigen dieses Modul.';
 
+const WARNING_INVALID_USE_FUNCTION = 'Die use-function (%s) für "%s" ist ungültig.';

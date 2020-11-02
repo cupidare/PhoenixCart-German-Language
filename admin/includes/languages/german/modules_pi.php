@@ -10,18 +10,20 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Module auf der Produktseite');
+const HEADING_TITLE = '&pi;-Module (Module auf der Produktseite)';
 
-define('TABLE_HEADING_MODULES', 'Module');
-define('TABLE_HEADING_GROUP', 'Gruppe');
-define('TABLE_HEADING_SORT_ORDER', 'Sortierreihenfolge');
-define('TABLE_HEADING_ENABLED', 'Aktiviert');
-define('TABLE_HEADING_ACTION', 'Aktion');
-define('TABLE_HEADING_WIDTH', 'Breite');
+const TABLE_HEADING_MODULES = 'Module';
+const TABLE_HEADING_GROUP = 'Gruppe';
+const TABLE_HEADING_SORT_ORDER = 'Sortierreihenfolge';
+const TABLE_HEADING_ENABLED = 'Aktiviert';
+const TABLE_HEADING_ACTION = 'Aktion';
+const TABLE_HEADING_WIDTH = 'Breite';
 
-define('TEXT_INFO_VERSION', 'Version:');
-define('TEXT_INFO_ONLINE_STATUS', 'online status');
-define('TEXT_INFO_API_VERSION', 'API Version:');
+const TEXT_INFO_VERSION = 'Version:';
+const TEXT_INFO_ONLINE_STATUS = 'online status';
+const TEXT_INFO_API_VERSION = 'API Version:';
 
-define('TEXT_MODULE_DIRECTORY', 'Modul-Verzeichnis:');
-define('SORT_ORDER_WARNING', 'Alle Zahlen der Sortierung <u>müssen einzigartig sein</u>.<br>Gruppen, die keine aktiven Module enthalten, werden nicht angezeigt.');
+const TEXT_MODULE_DIRECTORY = 'Modul-Verzeichnis:';
+const SORT_ORDER_WARNING = 'Alle Zahlen der Sortierung <u>müssen einzigartig sein</u>.<br>Gruppen, die keine aktiven Module enthalten, werden nicht angezeigt.';
+
+const WARNING_INVALID_USE_FUNCTION = 'Die use-Funktion (%s) für "%s" ist ungültig.';
