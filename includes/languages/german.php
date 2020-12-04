@@ -141,7 +141,7 @@ const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '';
 const TEXT_NOSCRIPT = <<<'EOT'
 <p><strong>JavaScript scheint nicht aktiviert zu sein.</strong></p>
 <p>Bitte aktivieren Sie JavaScript, um den vollen Umfang dieser Seite nutzen zu können. <br>
-<a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Hier</a> gibt es Informationen zum Aktivieren von Javascript in Ihrem Browser.</p>
+<a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer">Hier</a> gibt es Informationen zum Aktivieren von Javascript in Ihrem Browser.</p>
 EOT;
 
 // sitewide is-product

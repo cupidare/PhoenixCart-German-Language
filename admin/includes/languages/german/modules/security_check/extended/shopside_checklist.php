@@ -15,5 +15,5 @@
 */
 
 define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_TITLE', 'Checkliste');
-define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_MESSAGE', 'Beachten Sie bitte die <a target="_blank" rel="noopener" href="https://github.com/gburton/Responsive-osCommerce#user-checklist"><u>Checkliste</u></a> für allgemeine Schritte, die Sie beachten sollten <strong>(englisch)</strong>.');
+define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_MESSAGE', 'Beachten Sie bitte die <a target="_blank" rel="noreferrer" href="https://github.com/gburton/Responsive-osCommerce#user-checklist"><u>Checkliste</u></a> für allgemeine Schritte, die Sie beachten sollten <strong>(englisch)</strong>.');
 
