@@ -18,7 +18,7 @@ define('TABLE_HEADING_LAST_MODIFIED','letzte Änderung');
 
 define('TEXT_EDIT_NOTE', '<p class="lead">Definition editieren</p>
 
-<p>Jede Definition wird folgendermaßen in php definiert <a href="http://www.php.net/define" target="_blank">define()</a>:</p>
+<p>Jede Definition wird folgendermaßen in php definiert <a href="http://www.php.net/define" target="_blank" rel="noreferrer">define()</a> Funktion nach folgendem Schema:</p>
 
 <p><pre>define(\'TEXT_MAIN\', \'<span style="background-color: #FFFF99;">Dieser Text kann editiert werden. Es ist wirklich einfach!</span>\');</pre></p>
 

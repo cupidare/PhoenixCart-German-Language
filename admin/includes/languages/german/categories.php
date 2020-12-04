@@ -24,7 +24,7 @@ const TABLE_HEADING_ACTION = 'Aktion';
 const TABLE_HEADING_STATUS = 'Status';
 
 const TEXT_NEW_PRODUCT = 'Neuer Artikel <small>in %s</small>';
-const TEXT_EXISTING_PRODUCT = 'Artikel bearbeiten <small>in %s</small>';
+const TEXT_EXISTING_PRODUCT = 'Bearbeite %s <small>in %s</small>';
 
 const TEXT_CATEGORIES = 'Kategorien';
 const TEXT_PRODUCTS = 'Artikel';
