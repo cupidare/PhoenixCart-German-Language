@@ -3,14 +3,16 @@
   $Id$
 
   osCommerce, Open Source E-Commerce Solutions
-  https://www.oscommerce.com
+  http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Allgemeine GeschÃ¤ftsbedingungen');
-define('HEADING_TITLE', 'Allgemeine GeschÃ¤ftsbedingungen');
+const NAVBAR_TITLE = 'Allgemeine Geschäftsbedingungen';
 
-define('TEXT_INFORMATION', 'FÃ¼gen Sie in includes/languages/german/conditions.php die AGB ein.');
+/*
+Der Titel und der Text dieser Seite können im Info-Seiten-Manager geändert werden.
+Admin > Werkzeuge > Info-Seiten
+*/
