@@ -24,4 +24,4 @@ const TEXT_INFO_API_VERSION = 'API Version:';
 
 const TEXT_MODULE_DIRECTORY = 'Modul Verzeichnis:';
 
-const WARNING_INVALID_USE_FUNCTION = 'Die use-Funktion (%s) für "%s" ist ungültig.';
+const WARNING_INVALID_USE_FUNCTION = 'Die use-Funktion (%s) fÃ¼r "%s" ist ungÃ¼ltig.';
