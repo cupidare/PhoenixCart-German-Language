@@ -16,7 +16,7 @@ const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_DESCRIPTION = 'Eine Nachricht schic
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_SEPARATOR = '------------------------------------------------------';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_SUBJECT = 'Bestellung aktualisieren';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_ORDER_NUMBER = 'Bestellnummer:  %d';
-const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_INVOICE_URL = 'Ausführliche Rechnug:  %s';
+const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_INVOICE_URL = 'AusfÃ¼hrliche Rechnug:  %s';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_DATE_ORDERED = 'Bestelldatum:  %s';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_STATUS_UPDATE = <<<'EOT'
 Ihre Bestellung wurde aktualisiert.
@@ -27,4 +27,4 @@ Bitte antworten Sie auf diese Mail, wenn Sie Fragen haben.
 
 
 EOT;
-const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_COMMENTS_UPDATE = 'Kommentare für Ihre Bestellung sind ' . "\n\n%s\n\n";
+const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_COMMENTS_UPDATE = 'Kommentare fÃ¼r Ihre Bestellung sind ' . "\n\n%s\n\n";
