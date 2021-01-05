@@ -13,6 +13,6 @@
 const NAVBAR_TITLE = 'Liefer- und Versandkosten';
 
 /*
-Der Titel und der Text dieser Seite können im Info-Seiten-Manager geändert werden.
+Der Titel und der Text dieser Seite kÃ¶nnen im Info-Seiten-Manager geÃ¤ndert werden.
 Admin > Werkzeuge > Info-Seiten
 */

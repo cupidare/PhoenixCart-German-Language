@@ -10,9 +10,9 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Allgemeine Geschäftsbedingungen';
+const NAVBAR_TITLE = 'Allgemeine GeschÃ¤ftsbedingungen';
 
 /*
-Der Titel und der Text dieser Seite können im Info-Seiten-Manager geändert werden.
+Der Titel und der Text dieser Seite kÃ¶nnen im Info-Seiten-Manager geÃ¤ndert werden.
 Admin > Werkzeuge > Info-Seiten
 */
