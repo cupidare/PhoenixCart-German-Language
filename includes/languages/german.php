@@ -149,6 +149,7 @@ const IS_PRODUCT_SHOW_PRICE = '%s';
 const IS_PRODUCT_SHOW_PRICE_SPECIAL = '<del>%s</del> <span class="text-danger">jetzt %s</span>';
 const IS_PRODUCT_BUTTON_BUY = '<i class="fas fa-shopping-cart"></i>';
 const IS_PRODUCT_BUTTON_VIEW = '<i class="fas fa-eye"></i> Anzeigen';
+
 // sitewide product listing
 const LISTING_SORT_DOWN = '<i class="fas fa-level-down-alt text-primary"></i>';
 const LISTING_SORT_UP = '<i class="fas fa-level-up-alt text-primary"></i>';
