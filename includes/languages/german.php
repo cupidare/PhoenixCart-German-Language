@@ -48,7 +48,7 @@ const CHECKOUT_BAR_CONFIRMATION = 'Bestätigung';
 const PULL_DOWN_DEFAULT = 'Bitte wählen';
 
 // javascript messages
-const JS_ERROR = 'Notwendige Angaben fehlen!\nBitte richtig ausfüllen.\n\n’';
+const JS_ERROR = 'Notwendige Angaben fehlen!\nBitte richtig ausfüllen.\n\n';
 
 const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Bitte wählen Sie eine Zahlungsweise für Ihre Bestellung.\n';
 
