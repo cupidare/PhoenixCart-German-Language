@@ -14,9 +14,9 @@ const HEADING_TITLE = 'Kategorien / Artikel';
 const HEADING_TITLE_SEARCH = 'Suche';
 const HEADING_TITLE_GOTO = 'Gehe zu';
 
-const SECTION_HEADING_GENERAL = '<i class="fas fa-language fa-fw mr-1"></i>Sprachbesonderheiten';
-const SECTION_HEADING_DATA = '<i class="fas fa-box-open fa-fw mr-1"></i>Produktbesonderheiten';
-const SECTION_HEADING_IMAGES = '<i class="fas fa-images fa-fw mr-1"></i>Produktbilder';
+const SECTION_HEADING_GENERAL = '<i class="fas fa-language fa-fw mr-1"></i>Beschreibung';
+const SECTION_HEADING_DATA = '<i class="fas fa-box-open fa-fw mr-1"></i>Infos';
+const SECTION_HEADING_IMAGES = '<i class="fas fa-images fa-fw mr-1"></i>Bilder';
 
 const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Kategorien / Artikel';
