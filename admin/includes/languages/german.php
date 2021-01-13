@@ -35,45 +35,46 @@ const CHARSET = 'utf-8';
 const TITLE = 'OSCOM CE Phoenix Administration Tool';
 
 // header text in includes/header.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-bottom border-primary">Front-End</span>';
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i> <span class="border-bottom border-primary">Front-End</span>';
 const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-bottom border-primary">Phoenix Club</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Phoenix WIKI</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">zertifizierte Addons</span>';
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-bottom border-danger"> %s, sicher ausloggen</span>';
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, sicher ausloggen</span>';
 
 // images
-const IMAGE_BACK = 'Zurück';
+const IMAGE_BACK = 'ZurÃ¼ck';
 const IMAGE_BACKUP = 'Datensicherung';
 const IMAGE_CANCEL = 'Abbruch';
 const IMAGE_COPY = 'Kopieren';
 const IMAGE_COPY_TO = 'Kopieren nach';
 const IMAGE_DETAILS = 'Details';
-const IMAGE_DELETE = 'Löschen';
+const IMAGE_DELETE = 'LÃ¶schen';
 const IMAGE_EDIT = 'Bearbeiten';
 const IMAGE_EMAIL = 'eMail versenden';
 const IMAGE_EXPORT = 'Export';
-const IMAGE_INSERT = 'Einfügen';
+const IMAGE_INSERT = 'EinfÃ¼gen';
 const IMAGE_LOCK = 'Sperren';
 const IMAGE_MODULE_INSTALL = 'Module Installieren';
 const IMAGE_MODULE_REMOVE = 'Module Entfernen';
 const IMAGE_MOVE = 'Verschieben';
 const IMAGE_NEW_CATEGORY = 'Neue Kategorie erstellen';
 const IMAGE_NEW_COUNTRY = 'Neues Land aufnehmen';
-const IMAGE_NEW_CURRENCY = 'Neue Währung einfügen';
+const IMAGE_NEW_CURRENCY = 'Neue WÃ¤hrung einfÃ¼gen';
 const IMAGE_NEW_CUSTOMER_DATA_GROUP = 'Neue Nutzerdatengruppe';
 const IMAGE_NEW_LANGUAGE = 'Neue Sprache anlegen';
 const IMAGE_NEW_NEWSLETTER = 'Neues Rundschreiben';
 const IMAGE_NEW_PRODUCT = 'Neuen Artikel aufnehmen';
 const IMAGE_NEW_TAX_CLASS = 'Neue Steuerklasse erstellen';
 const IMAGE_NEW_TAX_RATE = 'Neuen Steuersatz anlegen';
-const IMAGE_NEW_ZONE = 'Neues Bundesland einfügen';
+const IMAGE_NEW_ZONE = 'Neues Bundesland einfÃ¼gen';
 const IMAGE_ORDERS = 'Bestellungen';
 const IMAGE_ORDERS_INVOICE = 'Rechnung';
 const IMAGE_ORDERS_PACKINGSLIP = 'Lieferschein';
 const IMAGE_PREVIEW = 'Vorschau';
-const IMAGE_RESTORE = 'Zurücksichern';
-const IMAGE_RESET = 'Zurücksetzen';
+const IMAGE_RESTORE = 'ZurÃ¼cksichern';
+const IMAGE_RESET = 'ZurÃ¼cksetzen';
 const IMAGE_SAVE = 'Speichern';
-const IMAGE_SELECT = 'Auswählen';
+const IMAGE_SELECT = 'AuswÃ¤hlen';
 const IMAGE_SEND = 'Versenden';
 const IMAGE_SEND_EMAIL = 'eMail versenden';
 const IMAGE_UNLOCK = 'Entsperren';
@@ -87,10 +88,10 @@ const ICON_FILE_DOWNLOAD = 'Herunterladen';
 // constants for use in tep_prev_next_display function
 const TEXT_RESULT_PAGE = 'Seite %s von %d';
 const TEXT_DISPLAY_NUMBER_OF_BANNERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bannern)';
-const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Ländern)';
+const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> LÃ¤ndern)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Kunden)';
-const TEXT_DISPLAY_NUMBER_OF_CURRENCIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Währungen)';
-const TEXT_DISPLAY_NUMBER_OF_ENTRIES = 'Zeige <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> Einträge)';
+const TEXT_DISPLAY_NUMBER_OF_CURRENCIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> WÃ¤hrungen)';
+const TEXT_DISPLAY_NUMBER_OF_ENTRIES = 'Zeige <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> EintrÃ¤ge)';
 const TEXT_DISPLAY_NUMBER_OF_LANGUAGES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Sprachen)';
 const TEXT_DISPLAY_NUMBER_OF_MANUFACTURERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Herstellern)';
 const TEXT_DISPLAY_NUMBER_OF_NEWSLETTERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Rundschreiben)';
@@ -102,10 +103,10 @@ const TEXT_DISPLAY_NUMBER_OF_REVIEWS = 'Angezeigt werden <strong>%d</strong> bis
 const TEXT_DISPLAY_NUMBER_OF_SPECIALS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Sonderangeboten)';
 const TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuerklassen)';
 const TEXT_DISPLAY_NUMBER_OF_TAX_ZONES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuerzonen)';
-const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Steuersätzen)';
-const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bundesländern)';
+const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> SteuersÃ¤tzen)';
+const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> BundeslÃ¤ndern)';
 
-const SPLIT_PAGES = 'Seite auswählen';
+const SPLIT_PAGES = 'Seite auswÃ¤hlen';
 
 const TEXT_DEFAULT = 'Standard';
 const TEXT_SET_DEFAULT = 'als Standard definieren';
@@ -117,7 +118,7 @@ const TEXT_ALL = 'Alle';
 const ERROR_DESTINATION_DOES_NOT_EXIST = '<strong>Error:</strong> Zielverzeichnis existiert nicht.';
 const ERROR_DESTINATION_NOT_WRITEABLE = '<strong>Error:</strong> Zielverzeichnis ist nicht beschreibbar.';
 const ERROR_FILE_NOT_SAVED = '<strong>Error:</strong> Datei nach hochladen nicht gespeichert.';
-const ERROR_FILETYPE_NOT_ALLOWED = '<strong>Error:</strong> Dateien von diesem Typ dürfen nicht hochgeladen werden.';
+const ERROR_FILETYPE_NOT_ALLOWED = '<strong>Error:</strong> Dateien von diesem Typ dÃ¼rfen nicht hochgeladen werden.';
 const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Erfolg:</strong> Datei erfolgreich gespeichert.';
 const WARNING_NO_FILE_UPLOADED = '<strong>Warnung:</strong> keine Datei hochgeladen.';
 
