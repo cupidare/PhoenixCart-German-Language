@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2018 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -17,13 +17,18 @@ define('SUB_TITLE_REVIEW', 'Ihre Bewertung');
 
 define('SUB_TITLE_RATING', 'Bewertung');
 define('SUB_TITLE_REVIEW_TEXT', 'Ihre Bewertung...');
+define('SUB_TITLE_REVIEW_NICKNAME', 'Ihr Name');
+
+define('VERIFIED_BUYER', '%s [verifizierter Käufer]');
 
 define('TEXT_BAD', '%s (schlechteste)');
 define('TEXT_GOOD', '%s (beste)');
 
+define('TEXT_RATED', 'Diesen Artikel bewerten %s');
+
 define('IMAGE_BUTTON_ADD_REVIEW', 'Bewertung abschicken');
 
-define('TEXT_REVIEW_RECEIVED', '%s Danke für Ihre Bewertung. Sie wurde erfolgreich übermittelt und erscheint in Kürze auf unserer Seite.');
+define('TEXT_REVIEW_RECEIVED', 'Danke für die Bewertung, %s. Sie wurde erfolgreich übermittelt und erscheint in Kürze auf unserer Seite.');
 
 define('TEXT_REVIEW_WRITING', '<p class="lead">%s, Bitte hinterlassen Sie Ihre Meinung und Bewertung für %s - Vielen Dank!</p><p>Nach dem Absenden erscheint die Bewertung in Kürze auf unserer Seite.</p>');
 

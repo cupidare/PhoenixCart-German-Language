@@ -1,28 +1,24 @@
 <?php
 /*
-  Copyright (c) 2018, G Burton
-  All rights reserved.
+  $Id$
 
-  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+  osCommerce, Open Source E-Commerce Solutions
+  http://www.oscommerce.com
 
-  1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+  Copyright (c) 2020 osCommerce
 
-  2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-
-  3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-
-  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_TITLE', 'Account Block');
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_DESCRIPTION', 'Adds an Account Block to the Footer Area of your site');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_TITLE', 'Accountlinks');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_DESCRIPTION', 'Fügt Accountlinks in den Footer-Bereich der Seite ein');
 
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_HEADING_TITLE', 'Benutzerdienste');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_HEADING_TITLE', 'Kundenportal');
 
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ACCOUNT', 'Mein Account');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ACCOUNT', 'Mein Profil');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ADDRESS_BOOK', 'Mein Adressbuch');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_ORDER_HISTORY', 'Meine bisherigen Bestellungen');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_LOGOFF', 'Ausloggen');
-  define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_CREATE_ACCOUNT', 'Account erstellen');
+  define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_CREATE_ACCOUNT', 'Profil erstellen');
   define('MODULE_CONTENT_FOOTER_ACCOUNT_BOX_LOGIN', 'Bereits registriert? Hier Einloggen');
 

@@ -5,13 +5,15 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Datenschutzerklärung');
-define('HEADING_TITLE', 'Datenschutzerklärung');
+const NAVBAR_TITLE = 'Datenschutzerklärung';
 
-define('TEXT_INFORMATION', 'Fügen Sie ihre Datenschutzerklärung in includes/languages/german/privacy.php ein.');
+/*
+Der Titel und der Text dieser Seite können im Info-Seiten-Manager geändert werden.
+Admin > Werkzeuge > Info-Seiten
+*/
 

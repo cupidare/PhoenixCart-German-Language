@@ -5,15 +5,16 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('TABLE_HEADING_CONFIGURATION_TITLE', 'Name');
-define('TABLE_HEADING_CONFIGURATION_VALUE', 'Wert');
-define('TABLE_HEADING_ACTION', 'Aktion');
+const TABLE_HEADING_CONFIGURATION_TITLE = 'Name';
+const TABLE_HEADING_CONFIGURATION_VALUE = 'Wert';
+const TABLE_HEADING_ACTION = 'Aktion';
 
-define('TEXT_INFO_EDIT_INTRO', 'Bitte führen Sie alle notwendigen Änderungen durch');
-define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am:');
-define('TEXT_INFO_LAST_MODIFIED', 'letzte Änderung:');
+const TEXT_INFO_EDIT_INTRO = 'Bitte führen Sie alle notwendigen Änderungen durch';
+const TEXT_INFO_DATE_ADDED = 'hinzugefügt am:';
+const TEXT_INFO_LAST_MODIFIED = 'letzte Änderung:';
+const WARNING_INVALID_USE_FUNCTION = 'Die use-function (%s) für "%s" ist ungültig.';

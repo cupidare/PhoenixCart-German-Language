@@ -5,12 +5,14 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Liefer- und Versandkosten');
-define('HEADING_TITLE', 'Liefer- und Versandkosten');
+const NAVBAR_TITLE = 'Liefer- und Versandkosten';
 
-define('TEXT_INFORMATION', 'Fügen Sie ihre Versandkosten in includes/languages/german/shipping.php ein.');
+/*
+Der Titel und der Text dieser Seite können im Info-Seiten-Manager geändert werden.
+Admin > Werkzeuge > Info-Seiten
+*/

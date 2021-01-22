@@ -10,14 +10,14 @@
   Released under the GNU General Public License
 */
 
-define('TABLE_HEADING_COMMENTS', 'Kommentare');
-define('TABLE_HEADING_PRODUCTS_MODEL', 'Modell');
-define('TABLE_HEADING_PRODUCTS', 'Artikel');
-define('TABLE_HEADING_QTY', 'Menge');
+const TABLE_HEADING_COMMENTS = 'Kommentare';
+const TABLE_HEADING_PRODUCTS_MODEL = 'Modell';
+const TABLE_HEADING_PRODUCTS = 'Artikel';
+const TABLE_HEADING_QTY = 'Menge';
 
-define('ENTRY_SOLD_TO', 'Rechnungsanschrift:');
-define('ENTRY_SHIP_TO', 'Lieferanschrift:');
-define('ENTRY_PAYMENT_METHOD', 'Zahlungsweise: %s');
+const ENTRY_SOLD_TO = 'Rechnungsanschrift:';
+const ENTRY_SHIP_TO = 'Lieferanschrift:';
+const ENTRY_PAYMENT_METHOD = 'Zahlungsweise: %s';
 
-define('ENTRY_INVOICE_NUMBER', 'Rechnung: %s');
-define('ENTRY_INVOICE_DATE', 'Datum: %s');
+const ENTRY_INVOICE_NUMBER = 'Rechnung: %s';
+const ENTRY_INVOICE_DATE = 'Datum: %s';
