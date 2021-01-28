@@ -1,8 +1,8 @@
 <p>Deutsche Übersetzung der Sprachdateien für <a href="https://github.com/gburton/CE-Phoenix">OSCOM CE Phoenix</a>
 
-  <ul><li><strong>version: 1.0.7.13</strong></i></li>
+  <ul><li><strong>version: 1.0.7.14</strong></i></li>
   <li>compatibility / kompatibel:  
-      https://github.com/gburton/CE-Phoenix/tree/1.0.7.13</li>
+      https://github.com/gburton/CE-Phoenix/tree/1.0.7.14</li>
   </ul>
 </p>
 <p><strong><i>Andere Versionen sind über das Pull-Down-Menü unter "Branch" auswählbar</i></strong></p>
