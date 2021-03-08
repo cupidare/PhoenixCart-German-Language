@@ -1,4 +1,4 @@
-<p><a href="https://phoenixcart.org/ ">PhoenixCart.org</a> </p>
+<h1><a href="https://phoenixcart.org/ ">PhoenixCart.org</a> </h1>
 
 <p>Deutsche Übersetzung der Sprachdateien für <a href="https://github.com/CE-PhoenixCart/PhoenixCart/">Phoenix Cart</a>
 
