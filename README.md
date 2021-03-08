@@ -1,4 +1,4 @@
-<p>Deutsche Übersetzung der Sprachdateien für <a href="https://github.com/gburton/CE-Phoenix">OSCOM CE Phoenix</a>
+<p>Deutsche Übersetzung der Sprachdateien für <a href="https://github.com/CE-PhoenixCart/PhoenixCart/">Phoenix Cart</a>
 
   <ul><li><strong>version: 1.0.8.0</strong></i></li>
   <li>compatibility / kompatibel:  
