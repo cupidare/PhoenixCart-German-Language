@@ -2,35 +2,31 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2002 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Server Information');
+const HEADING_TITLE = 'Server-Information';
 
-define('TABLE_HEADING_KEY', 'Schlüssel');
-define('TABLE_HEADING_VALUE', 'Wert');
+const TABLE_HEADING_KEY = 'Schlüssel';
+const TABLE_HEADING_VALUE = 'Wert';
 
-define('TITLE_SERVER_HOST', 'Server Host');
-define('TITLE_SERVER_OS', 'Server OS(Betriebssystem)');
-define('TITLE_SERVER_DATE', 'Server Datum');
-define('TITLE_SERVER_UP_TIME', 'Server Up Time(Betriebszeit)');
-define('TITLE_HTTP_SERVER', 'HTTP Server');
-define('TITLE_PHP_VERSION', 'PHP Version');
-define('TITLE_ZEND_VERSION', 'Zend');
-define('TITLE_DATABASE_HOST', 'Datenbank Host');
-define('TITLE_DATABASE', 'Datenbank');
-define('TITLE_DATABASE_DATE', 'Datenbank Datum');
+const TITLE_SERVER_HOST = 'Server Host';
+const TITLE_SERVER_OS = 'Server OS(Betriebssystem)';
+const TITLE_SERVER_DATE = 'Server Datum';
+const TITLE_SERVER_UP_TIME = 'Server Up Time(Betriebszeit)';
+const TITLE_HTTP_SERVER = 'HTTP Server';
+const TITLE_PHP_VERSION = 'PHP Version';
+const TITLE_ZEND_VERSION = 'Zend';
+const TITLE_DATABASE_HOST = 'Datenbank Host';
+const TITLE_DATABASE = 'Datenbank';
+const TITLE_DATABASE_DATE = 'Datenbank Datum';
 
-define('TEXT_EXPORT_INTRO', 'Sie können die Informationen in einer Datei speichern, indem Sie auf Speichern klicken.');
-define('TEXT_EXPORT_INFO', 'Exportieren der Server Informationen');
+const TEXT_EXPORT_INTRO = 'Sie können die Informationen in einer Datei speichern, indem Sie auf Speichern klicken.';
+const TEXT_EXPORT_INFO = 'Exportieren der Server Informationen';
 
-define('SUCCESS_INFO_SUBMIT', 'Ihre Informationen wurden übermittelt.');
-define('ERROR_INFO_SUBMIT', 'Konnte keine Verbindung zu osCommerce Website, um die Konfiguration zu senden. Bitte versuchen Sie es später noch einmal');
-
-define('BUTTON_SAVE_TO_DISK', 'Auf Festplatte speichern');
-define('BUTTON_SEND_TO_OSCOMMERCE', 'An osCommerce senden');
+const BUTTON_SAVE_TO_DISK = 'Auf Festplatte speichern';
