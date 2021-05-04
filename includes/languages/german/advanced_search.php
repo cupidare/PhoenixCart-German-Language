@@ -10,48 +10,59 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Erweiterte Suche');
-define('NAVBAR_TITLE_2', 'Suchergebnisse');
+const NAVBAR_TITLE_1 = 'Erweiterte Suche';
+const NAVBAR_TITLE_2 = 'Suchergebnisse';
 
-define('HEADING_TITLE_1', 'Ihre Suchkriterien');
-define('HEADING_TITLE_2', 'Artikel, welche den Suchkriterien entsprechen');
+const HEADING_TITLE_1 = 'Ihre Suchkriterien';
+const HEADING_TITLE_2 = 'Artikel, welche den Suchkriterien entsprechen';
 
-define('HEADING_SEARCH_CRITERIA', 'Ihre Suchkriterien');
+const HEADING_SEARCH_CRITERIA = 'Ihre Suchkriterien';
 
-define('TEXT_SEARCH_IN_DESCRIPTION', 'Auch in den Beschreibungen suchen');
-define('ENTRY_CATEGORIES', 'Kategorien:');
-define('ENTRY_INCLUDE_SUBCATEGORIES', 'Unterkategorien mit einbeziehen');
-define('ENTRY_MANUFACTURERS', 'Hersteller:');
-define('ENTRY_PRICE_FROM', 'Preis ab:');
-define('ENTRY_PRICE_TO', 'Preis bis:');
-define('ENTRY_DATE_FROM', 'hinzugefügt von:');
-define('ENTRY_DATE_TO', 'hinzugefügt bis:');
+const TEXT_SEARCH_IN_DESCRIPTION = 'Auch in den Beschreibungen suchen';
+const ENTRY_CATEGORIES = 'Kategorien:';
+const ENTRY_INCLUDE_SUBCATEGORIES = 'Unterkategorien mit einbeziehen';
+const ENTRY_MANUFACTURERS = 'Hersteller:';
+const ENTRY_PRICE_FROM = 'Preis ab:';
+const ENTRY_PRICE_TO = 'Preis bis:';
+const ENTRY_DATE_FROM = 'hinzugefügt von:';
+const ENTRY_DATE_TO = 'hinzugefügt bis:';
 
-define('ENTRY_PRICE_FROM_TEXT', '');
-define('ENTRY_PRICE_TO_TEXT', '');
+const ENTRY_PRICE_FROM_TEXT = '';
+const ENTRY_PRICE_TO_TEXT = '';
 
-define('ENTRY_DATE', 'Datum');
-define('ENTRY_PRICE', 'Preis');
+const ENTRY_DATE = 'Datum';
+const ENTRY_PRICE = 'Preis';
 
-define('TEXT_SEARCH_HELP_LINK', '<i class="fas fa-info-circle"></i>Hilfe zur Suche');
+const TEXT_SEARCH_HELP_LINK = '<i class="fas fa-info-circle"></i>Hilfe zur Suche';
 
-define('TEXT_ALL_CATEGORIES', 'Alle Kategorien');
-define('TEXT_ALL_MANUFACTURERS', 'Alle Hersteller');
+const TEXT_ALL_CATEGORIES = 'Alle Kategorien';
+const TEXT_ALL_MANUFACTURERS = 'Alle Hersteller';
 
-define('HEADING_SEARCH_HELP', 'Hilfe zur erweiterten Suche');
-define('TEXT_SEARCH_HELP', 'Die Suchfunktion ermöglicht Ihnen die Suche in den Produktnamen, Produktbeschreibungen, Herstellern und Artikelnummern.<br><br>Sie haben die Möglichkeit logische Operatoren wie "AND" (Und) und "OR" (oder) zu verwenden.<br><br>Als Beispiel könnten Sie also angeben: <u>Microsoft AND Maus</u>.<br><br>Desweiteren können Sie Klammern verwenden um die Suche zu verschachteln, also z.B.:<br><br><u>Microsoft AND (Maus OR Tastatur OR "Visual Basic")</u>.<br><br>Mit Anführungszeichen können Sie mehrere Worte zu einem Suchbegriff zusammenfassen.');
-define('TEXT_CLOSE_WINDOW', '<u>Fenster schliessen</u> [x]');
+const HEADING_SEARCH_HELP = 'Hilfe zur erweiterten Suche';
+const TEXT_SEARCH_HELP = <<<'EOT'
+Suchbegriffe können durch AND und / oder OR verknüpft werden. <br>
+<br>
+Zum Beispiel, <u>frisch AND Pfirsich</u> liefert Ergebnisse, die beide Wörter enthält. <u>Orange OR Zitrone</u>, liefert Ergebnisse, die beide oder nur eines der Wörter enthalten.<br>
+<br>
+Exakte Treffer werden durch Einschließen in Anführungszeichen erzielt.<br>
+<br>
+Zum Beispiel, <u>"grüner Apfel"</u>
+<br>
+Man kann auch Klammern für eine weitere Einstellung der Suchparameter verwenden.<br>
+<br>
+Zum Beispiel <u>Marmelade AND (Erdbeer OR rot OR "grüner Apfel")</u>.
+EOT;
+const TEXT_CLOSE_WINDOW = '<u>Fenster schliessen</u> [x]';
 
-define('TEXT_NO_PRODUCTS', 'Es wurden keine Artikel gefunden, die den Suchkriterien entsprechen.');
+const TEXT_NO_PRODUCTS = 'Es wurden keine Artikel gefunden, die den Suchkriterien entsprechen.';
 
-define('ERROR_AT_LEAST_ONE_INPUT', 'Wenigstens ein Feld des Suchformulars muss ausgefüllt werden.');
-define('ERROR_INVALID_FROM_DATE', 'Unzulässiges <b>von</b> Datum');
-define('ERROR_INVALID_TO_DATE', 'Unzulässiges <b>bis jetzt</b> Datum');
-define('ERROR_TO_DATE_LESS_THAN_FROM_DATE', 'Das Datum <b>von</b> muss größer oder gleich dem <b>bis jetzt</b> Datum sein');
-define('ERROR_PRICE_FROM_MUST_BE_NUM', '<b>Preis ab</b> muss eine Zahl sein');
-define('ERROR_PRICE_TO_MUST_BE_NUM', '<b>Preis bis</b> muss eine Zahl sein');
-define('ERROR_PRICE_TO_LESS_THAN_PRICE_FROM', '<b>Preis bis</b> muss größer oder gleich <b>Preis ab</b> sein.');
-define('ERROR_INVALID_KEYWORDS', 'Suchbegriff unzulässig');
+const ERROR_AT_LEAST_ONE_INPUT = 'Wenigstens ein Feld des Suchformulars muss ausgefüllt werden.';
+const ERROR_INVALID_FROM_DATE = 'Unzulässiges <b>von</b> Datum';
+const ERROR_INVALID_TO_DATE = 'Unzulässiges <b>bis jetzt</b> Datum';
+const ERROR_TO_DATE_LESS_THAN_FROM_DATE = 'Das Datum <b>von</b> muss größer oder gleich dem <b>bis jetzt</b> Datum sein';
+const ERROR_PRICE_FROM_MUST_BE_NUM = '<b>Preis ab</b> muss eine Zahl sein';
+const ERROR_PRICE_TO_MUST_BE_NUM = '<b>Preis bis</b> muss eine Zahl sein';
+const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = '<b>Preis bis</b> muss größer oder gleich <b>Preis ab</b> sein.';
+const ERROR_INVALID_KEYWORDS = 'Suchbegriff unzulässig';
 
-// text for date of birth example
-define('DOB_FORMAT_STRING', 'dd.mm.yyyy');
+const DATE_FORMAT_STRING = 'dd.mm.yyyy';
