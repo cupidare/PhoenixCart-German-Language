@@ -2,9 +2,9 @@
 
 <p>Deutsche Übersetzung der Sprachdateien für <a href="https://github.com/CE-PhoenixCart/PhoenixCart/">Phoenix Cart</a>
 
-  <ul><li><strong>version: 1.0.8.2</strong></i></li>
+  <ul><li><strong>version: 1.0.8.4</strong></i></li>
   <li>compatibility / kompatibel:
-      https://github.com/CE-PhoenixCart/PhoenixCart/tree/1.0.8.2</li>
+      https://github.com/CE-PhoenixCart/PhoenixCart/tree/1.0.8.4</li>
   </ul>
 </p>
 <p><strong><i>Andere Versionen sind über das Pull-Down-Menü unter "Branch" auswählbar</i></strong></p>
