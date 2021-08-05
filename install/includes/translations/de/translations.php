@@ -32,7 +32,7 @@ const TEXT_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> B
 
 const TEXT_NEW_INSTALLATION = 'Neue Installation';
 const TEXT_WEB_INSTALL = <<<'EOT'
-<p>Dies webbasierte Installation wird <strong>CE Phoenix Cart v%s</strong> auf diesem Server installieren.</p>
+<p>Diese webbasierte Installation wird <strong>CE Phoenix Cart v%s</strong> auf diesem Server installieren.</p>
 <p>Bitte befolgen Sie die Anweisungen, die Sie durch die Installation führen werden. Halten Sie dazu lediglich die Daten Ihres Datenbank-Servers und Web-Servers bereit.
 Wenn Sie Hilfe benötigen, lesen Sie bitte die Dokumentaion oder suchen Sie Hilfe im Forum des Phoenix-Clubs.</p>
 EOT;
