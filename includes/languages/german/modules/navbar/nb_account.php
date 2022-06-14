@@ -23,4 +23,3 @@
   define('MODULE_NAVBAR_ACCOUNT_ADDRESS_BOOK', 'Mein Adressbuch');
   define('MODULE_NAVBAR_ACCOUNT_PASSWORD', 'Mein Passwort');
   define('MODULE_NAVBAR_ACCOUNT_REGISTER', '<i class="fas fa-fw fa-pencil-alt"></i> Registrieren');
-  

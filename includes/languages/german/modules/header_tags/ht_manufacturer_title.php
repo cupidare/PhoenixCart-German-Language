@@ -14,4 +14,3 @@
   define('MODULE_HEADER_TAGS_MANUFACTURER_TITLE_DESCRIPTION', 'Den aktuellen Hersteller im Seitentitel anzeigen');
 
   define('MODULE_HEADER_TAGS_MANUFACTURER_SEO_SEPARATOR', ' | ');
-  

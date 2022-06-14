@@ -22,4 +22,3 @@
   const ar_contact_us = 'Kotaktformumlar';
   const ar_reset_password = 'Passwort vergessen';
   // add more as you add more action_recorder modules
-  

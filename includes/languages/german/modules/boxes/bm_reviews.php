@@ -12,5 +12,5 @@
 
   define('MODULE_BOXES_REVIEWS_TITLE', 'Bewertungen');
   define('MODULE_BOXES_REVIEWS_DESCRIPTION', 'Zeige Bewertungen');
+
   define('MODULE_BOXES_REVIEWS_BOX_TITLE', 'Bewertungen');
-  

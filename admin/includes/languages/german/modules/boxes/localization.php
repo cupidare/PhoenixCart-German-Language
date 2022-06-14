@@ -11,4 +11,3 @@
 */
 
   define('BOX_HEADING_LOCALIZATION', '<i data-content="Sprachen/Währungen" data-toggle="popover" data-placement="right" class="fas fa-language fa-fw mr-1"></i><span class="d-inline d-md-none">Sprachen/Währungen</span>');
-  
