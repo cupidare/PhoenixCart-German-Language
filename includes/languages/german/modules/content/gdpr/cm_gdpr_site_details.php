@@ -25,4 +25,3 @@
   const MODULE_CONTENT_GDPR_SITE_DETAILS_RECENT_LOGON = 'Letzter Login';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NUMBER_REVIEWS = 'Anzahl geschriebener Bewertungen';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NUMBER_NOTIFICATIONS = 'Produkterinnerungen';
-  

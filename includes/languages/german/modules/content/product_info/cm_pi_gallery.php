@@ -15,4 +15,3 @@
   
   const MODULE_CONTENT_PI_GALLERY_ALBUM_NAME = 'Album für %s';
   const MODULE_CONTENT_PI_GALLERY_ALBUM_CLOSE = 'Schließen';
-  

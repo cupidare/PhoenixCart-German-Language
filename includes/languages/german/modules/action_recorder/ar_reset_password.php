@@ -2,14 +2,13 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE', 'Kunde Passwort zurücksetzen');
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION', 'Speichern Sie die Verwendung des Kunden-Passwort zurückgesetzt.');
-
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE = 'Kunde Passwort zurücksetzen';
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION = 'Loggen Sie das Passwort zurücksetzen';
