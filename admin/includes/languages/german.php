@@ -39,6 +39,7 @@ const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-pr
 const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-bottom border-primary">Phoenix Club</span>';
 const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Phoenix WIKI</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">zertifizierte Addons</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<span class="border-bottom border-primary">zertifizierte Entwickler</span>';
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, sicher ausloggen</span>';
 
 // images
