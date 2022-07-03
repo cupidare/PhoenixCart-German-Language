@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -32,15 +32,15 @@ const HTML_PARAMS ='dir="ltr" lang="de"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'OSCOM CE Phoenix Administration Tool';
+const TITLE = 'CE Phoenix Cart Administration Tool';
 
-// header text in includes/header.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i> <span class="border-bottom border-primary">Front-End</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-bottom border-primary">Phoenix Club</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Phoenix WIKI</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">zertifizierte Addons</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<span class="border-bottom border-primary">zertifizierte Entwickler</span>';
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, sicher ausloggen</span>';
+// header text in includes/hooks/admin/siteWide/hMenu.php
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Front-End</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Hilfe</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Handbuch</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Zertifizierte Entwickler</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Addons</span>';
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1" aria-hidden="true"></i><span class="border-bottom border-danger">%s, sicher ausloggen</span>';
 
 // images
 const IMAGE_BACK = 'Zurück';
@@ -86,7 +86,7 @@ const IMAGE_UPLOAD = 'Hochladen';
 const ICON_FILE = 'Datei';
 const ICON_FILE_DOWNLOAD = 'Herunterladen';
 
-// constants for use in tep_prev_next_display function
+// constants for use in pagination
 const TEXT_RESULT_PAGE = 'Seite %s von %d';
 const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Ländern)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Nutzerdatengruppen)';
@@ -124,7 +124,11 @@ const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Erfolg:</strong> Datei erfolgre
 const WARNING_NO_FILE_UPLOADED = '<strong>Warnung:</strong> keine Datei hochgeladen.';
 
 // bootstrap helper
-const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p><p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% Breite.</p><p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>';
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = <<<'EOT'
+<p>Die Breite des Inhalts einer Box kann 12 Spalten (oder weniger) betragen.</p>
+<p>12/12 = 100% Breite, 6/12 = 50% Breite, 4/12 = 33% Breite.</p>
+<p>Die Summe aller Spalten aller Boxen muss 12 ergeben (zB.:  3 Boxen je 4 Spalten, 1 Box mit 12 Spalten, usw.).</p>
+EOT;
 
 // seo helper
 const PLACEHOLDER_COMMA_SEPARATION = 'Muss, durch, Komma, getrennt, werden';

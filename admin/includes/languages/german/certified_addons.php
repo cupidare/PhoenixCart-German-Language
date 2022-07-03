@@ -2,26 +2,19 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Zertifizierte Addons & Dienste');
+const HEADING_TITLE = 'Zertifizierte Addons & Dienste';
 
-define('TABLE_CERTIFIED_ADDONS_TITLE', 'Addon/Dienst');
-define('TABLE_CERTIFIED_ADDONS_OWNER', 'von');
-define('TABLE_CERTIFIED_ADDONS_RATING', 'Bewertung');
-define('TABLE_CERTIFIED_ADDONS_REMARKS', 'Bemerkung');
-define('TABLE_CERTIFIED_ADDONS_DATE', 'Datum');
+const TABLE_CERTIFIED_ADDONS_TITLE = 'Addon/Dienst';
+const TABLE_CERTIFIED_ADDONS_OWNER = 'von';
+const TABLE_CERTIFIED_ADDONS_REMARKS = 'Bemerkung';
 
-define('TEXT_CERTIFIED_ADDONS', '<p class="m-0 lead">Alle hier gelisteten Addons & Dienste wurden von einem Phoenix-Entwickler <strong>zertifiziert</strong>.</p>%s');
-define('NUM_CERTIFIED_ADDONS', 'Derzeit gibt es <b>%s</b> Zertifizierte Addons/Dienste.');
-
-define('TEXT_CERTIFIED_SEARCH_LABEL', 'Suchen:');
-define('TEXT_CERTIFIED_SEARCH_PLACEHOLDER', 'Eingabe tätigen...');
-
-define('NUM_FILTERED_ADDONS', '<span class="filtered-result"><br>Gefiltert auf <b>{X}</b> Addon(s).</span>');
+const TEXT_CERTIFIED_ADDONS = '<p class="m-0 lead">Alle hier gelisteten Addons & Dienste wurden von einem Phoenix-Entwickler <strong>geprüft</strong>.</p>%s';
+const NUM_CERTIFIED_ADDONS = 'Derzeit gibt es <b>%d</b> Zertifizierte Addons/Dienste.';

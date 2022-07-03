@@ -12,4 +12,5 @@
 
   define('MODULE_BOXES_SPECIALS_TITLE', 'Angebote');
   define('MODULE_BOXES_SPECIALS_DESCRIPTION', 'Zeige Produkt-Angebote');
+
   define('MODULE_BOXES_SPECIALS_BOX_TITLE', '<a href="%s">Angebote</a>');

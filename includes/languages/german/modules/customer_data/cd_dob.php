@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -21,6 +21,6 @@ const ENTRY_DOB_TEXT = 'z.B. 20.05.1994';
 // Umwandeln des Datumformats
 // $Datum ist im Format dd.mm.yyyy
 // date_raw ist im Format YYYYMMDD oder DDMMYYYY
-function tep_cd_dob_date_raw($date, $reverse = false) {
+function cd_dob_date_raw($date, $reverse = false) {
   return substr($date, 6, 4) . substr($date, 3, 2) . substr($date, 0, 2);
 }

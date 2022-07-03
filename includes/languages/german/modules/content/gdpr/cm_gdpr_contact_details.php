@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -21,4 +21,3 @@
   const MODULE_CONTENT_GDPR_CONTACT_DETAILS_MAIN_ADDRESS = 'Standardadresse';
   
   const MODULE_CONTENT_GDPR_CONTACT_DETAILS_UNKNOWN = 'Unbekannt';
-  

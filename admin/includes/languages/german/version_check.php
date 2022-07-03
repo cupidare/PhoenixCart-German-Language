@@ -2,24 +2,27 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce Made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2010 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Versions Checker');
+const HEADING_TITLE = 'Versions-Checker';
 
-define('TABLE_HEADING_VERSION', 'Version');
-define('TABLE_HEADING_RELEASED', 'Veröffentlich am');
-define('TABLE_HEADING_ACTION', 'Aktion');
+const TABLE_HEADING_VERSION = 'Version';
+const TABLE_HEADING_RELEASED = 'Veröffentlich am';
+const TABLE_HEADING_ACTION = 'Aktion';
 
-define('TEXT_RELEASE_LINK', 'Zeige Releaseinformationen');
+const TITLE_INSTALLED_VERSION = 'Installierte Version: <strong>CE Phoenix v%s</strong>';
 
-define('TITLE_INSTALLED_VERSION', 'Installierte Version:');
-
-define('VERSION_RUNNING_LATEST', 'Sie haben die neueste Version von CE Phoenix installiert.');
-define('VERSION_UPGRADES_AVAILABLE', 'Eine neue Version ist zum Download verfügbar! (CE Phoenix v%s)<hr><a class="alert-link" target="_blank" rel="noreferrer" href="https://forums.oscommerce.com/topic/494774-certified-service-providers-development-hosting-themes-and-more/">Zertifizierte Entwickler</a> und detailierte "<a class="alert-link" target="_blank" href="https://forums.oscommerce.com/tags/phoenix%%20update/"> Anleitungen </a>" sind im Phoenix Club verfügbar.');
-define('ERROR_COULD_NOT_CONNECT', 'Konnte nicht auf die CE Phoenix Webseite zugreifen, um auf neuen Versionen zu überprüfen.');
+const VERSION_SERVER_FAILURE = 'Konnte die verfügbaren Versionen nicht vom Server laden. Bitte Internetverbindung testen oder später nocheinmal zu versuchen.';
+const VERSION_RUNNING_LATEST = 'Sie verwenden die aktuelle Version von CE Phoenix.';
+const VERSION_UPGRADES_AVAILABLE = <<<'EOT'
+<strong>CE Phoenix %s</strong> ist die aktuellste Version für Sie!<hr>
+<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewtopic.php?f=26&t=309">Zertifizierte Entwickler</a>
+ und detaillierte "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Do-It-Yourself-</a>"
+Anweisungen gibt es im Phoenix Club.
+EOT;

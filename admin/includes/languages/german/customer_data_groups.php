@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -25,9 +25,13 @@ const TEXT_INFO_VERTICAL_SORT_ORDER = 'Vertikal Sortierung: %s';
 const TEXT_INFO_HORIZONTAL_SORT_ORDER = 'Horizontale Sortierung: %s';
 const TEXT_INFO_WIDTH = 'Breite (1-12 Zwölftel des Bildschirms): %s';
 const TEXT_INFO_INSERT_INTRO = 'Fügen Sie die neue Nutzerdatengruppe mit den zugehörigen Daten ein';
-const TEXT_INFO_DELETE_INTRO = 'Möchten Sie die Nutzerdatengruppe löschen?';
+const TEXT_INFO_DELETE_INTRO = <<<'EOT'
+<p>Wollen Sie diese Nutzerdatengruppe wirklich löschen?</p>
+
+<p class="alert alert-warning">Warnung: Wenn eine Nutzerdatengruppe diese Gruppe verwendet, wird der Bezug danach fehlen!
+Hinweis: Wenn Sie unsicher sind, bearbeiten sie diese Gruppe, anstatt sie zu löschen und neu anzulegen.
+Um sie zu übersetzen, bearbeiten Sie diese bitte.</p>
+EOT;
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Neue Nutzerdatengruppe';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Bearbeite Nutzerdatengruppe';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER_DATA_GROUP = 'Lösche Nutzerdatengruppe';
-const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Anzahl an Nutzerdatengruppen';
-

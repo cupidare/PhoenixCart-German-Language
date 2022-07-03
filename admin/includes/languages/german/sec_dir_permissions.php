@@ -2,19 +2,18 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Verzeichnis Sicherheit/Lesezugriffsrecht');
+const HEADING_TITLE = 'Verzeichnis Sicherheit/Lesezugriffsrecht';
 
-define('TABLE_HEADING_DIRECTORIES', 'Directories/Verzeichnisse');
-define('TABLE_HEADING_WRITABLE', 'beschreibbar');
-define('TABLE_HEADING_RECOMMENDED', ' vorgeschlagen');
+const TABLE_HEADING_DIRECTORIES = 'Directories/Verzeichnisse';
+const TABLE_HEADING_RECOMMENDED = 'vorgeschlagen';
 
-define('TEXT_DIRECTORY', 'Directory/Verzeichnis:');
+const TEXT_DIRECTORY = 'Directory:  %s<br><a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions">User Guide</a>';
 
