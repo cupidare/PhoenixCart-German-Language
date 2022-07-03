@@ -87,8 +87,8 @@ const ICON_FILE_DOWNLOAD = 'Herunterladen';
 
 // constants for use in tep_prev_next_display function
 const TEXT_RESULT_PAGE = 'Seite %s von %d';
-const TEXT_DISPLAY_NUMBER_OF_BANNERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Bannern)';
 const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Ländern)';
+const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Nutzerdatengruppen)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMERS = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Kunden)';
 const TEXT_DISPLAY_NUMBER_OF_CURRENCIES = 'Angezeigt werden <strong>%d</strong> bis <strong>%d</strong> (von insgesamt <strong>%d</strong> Währungen)';
 const TEXT_DISPLAY_NUMBER_OF_ENTRIES = 'Zeige <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> Einträge)';
