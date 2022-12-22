@@ -28,7 +28,7 @@ const TABLE_HEADING_STATUS = 'Status';
 const TABLE_HEADING_ACTION = 'Aktion';
 const TABLE_HEADING_QUANTITY = 'Anzahl';
 const TABLE_HEADING_PRODUCTS_MODEL = 'Artikel-Nr.';
-const TABLE_HEADING_PRODUCTS = 'Artikel';
+const TABLE_HEADING_PRODUCTS = 'Produkte';
 const TABLE_HEADING_TAX = 'MwSt.';
 const TABLE_HEADING_TOTAL = 'Gesamtsumme';
 const TABLE_HEADING_PRICE_EXCLUDING_TAX = 'Preis (exkl.)';
@@ -37,7 +37,7 @@ const TABLE_HEADING_TOTAL_EXCLUDING_TAX = 'Total (exkl.)';
 const TABLE_HEADING_TOTAL_INCLUDING_TAX = 'Total (inkl.)';
 
 const TABLE_HEADING_CUSTOMER_NOTIFIED = 'Kunde benachrichtigt';
-const TABLE_HEADING_DATE_ADDED = 'hinzugefügt am';
+const TABLE_HEADING_DATE_ADDED = 'Hinzugefügt am';
 
 const ENTRY_CUSTOMER = 'Kunde';
 const ENTRY_SOLD_TO = 'Kunde';
@@ -64,8 +64,8 @@ const ENTRY_PRINTABLE = 'Rechnung drucken';
 const TEXT_INFO_HEADING_DELETE_ORDER = 'Bestellung löschen';
 const TEXT_INFO_DELETE_INTRO = 'Sind Sie sicher, das Sie diese Bestellung löschen möchten?';
 const TEXT_INFO_RESTOCK_PRODUCT_QUANTITY = 'Artikelanzahl dem Lager gutschreiben';
-const TEXT_DATE_ORDER_CREATED = 'erstellt am: %s';
-const TEXT_DATE_ORDER_LAST_MODIFIED = 'letzte Änderung: %s';
+const TEXT_DATE_ORDER_CREATED = 'Erstellt am: %s';
+const TEXT_DATE_ORDER_LAST_MODIFIED = 'Letzte Änderung: %s';
 const TEXT_INFO_PAYMENT_METHOD = 'Zahlungsweise: %s';
 
 const TEXT_ALL_ORDERS = 'Alle Bestellungen';

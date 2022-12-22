@@ -2,17 +2,17 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
 define('MODULE_ADMIN_DASHBOARD_ORDERS_TITLE', 'Bestellungen');
-define('MODULE_ADMIN_DASHBOARD_ORDERS_DESCRIPTION', 'Die letzten Bestellungen');
-define('MODULE_ADMIN_DASHBOARD_ORDERS_TOTAL', 'Total');
+define('MODULE_ADMIN_DASHBOARD_ORDERS_DESCRIPTION', 'Zeigt die letzten Bestellungen');
+define('MODULE_ADMIN_DASHBOARD_ORDERS_TOTAL', 'Gesamtsumme');
 define('MODULE_ADMIN_DASHBOARD_ORDERS_DATE', 'Datum');
 define('MODULE_ADMIN_DASHBOARD_ORDERS_ORDER_STATUS', 'Status');
 

@@ -5,25 +5,37 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Sprache definieren');
+const HEADING_TITLE = 'Sprache definieren';
 
-define('TABLE_HEADING_FILES','Datei');
-define('TABLE_HEADING_WRITABLE','beschreibbar');
-define('TABLE_HEADING_LAST_MODIFIED','letzte Änderung');
+const TABLE_HEADING_FILES = 'Dateien';
+const TABLE_HEADING_WRITABLE = 'Beschreibbar';
+const TABLE_HEADING_LAST_MODIFIED = 'Letzte Änderung';
 
-define('TEXT_EDIT_NOTE', '<p class="lead">Definition editieren</p>
+const TEXT_EDIT_NOTE = <<<'EORT'
+<p class="lead">Definitionen bearbeiten</p>
 
-<p>Jede Definition wird folgendermaßen in php definiert <a href="http://www.php.net/define" target="_blank" rel="noreferrer">define()</a> Funktion nach folgendem Schema:</p>
+<p>Jede Sprachdefinition wird wie folgt als PHP-Konstante festgelegt:</p>
 
-<p><pre>define(\'TEXT_MAIN\', \'<span style="background-color: #FFFF99;">Dieser Text kann editiert werden. Es ist wirklich einfach!</span>\');</pre></p>
+<p><pre>const TEXT_MAIN = '<span style="background-color: #FFFF99;">Dieser Text kann bearbeitet werden. Es ist wirklich einfach!</span>');</pre></p>
 
-<p>Der hervorgehobene Text kann editiert werden. Da diese Definition einfache Anführungszeichen benutzt, müssen alle Anführungszeichne innerhalb der Definition mit einem Backslash auskommentiert werden (z.B., It\\\'s).</p>');
+<p>Der markierte Text kann bearbeitet werden. Da diese Definition einfache Anführungszeichen verwendet, um den Text einzuschliessen, müssen alle einfachen Anführungszeichen innerhalb der Textdefinition mit einem umgekehrten Schrägstrich versehen werden (z. B. It\'s).</p>
 
-define('TEXT_FILE_DOES_NOT_EXIST', 'Datei nicht vorhanden.');
+<p>Mehrzeilige Einträge können gemacht werden</p>
 
-define('ERROR_FILE_NOT_WRITEABLE', '<strong>Error:</strong> Die Datei ist schreibgeschützt. Bitte korrigieren Sie die Zugriffsrechte für: %s');
+<p><pre>const TEXT_MAIN = <<<'EOT'
+<span style="background-color: #FFFF99;">Dieser Text kann bearbeitet werden.
+ Es ist wirklich einfach!</span>
+EOT;</pre></p>
+
+<p>Ausserdem ist es nicht mehr erforderlich, in mehrzeiligen Einträgen wie diesem mit einem Backslash zu maskieren.</p>
+EORT;
+
+const TEXT_FILE_DOES_NOT_EXIST = 'Datei nicht vorhanden.';
+const TEXT_INFO_DOWNLOAD_ONLY = 'Nur Download (nicht serverseitig speichern)';
+
+const ERROR_FILE_NOT_WRITEABLE = '<strong>Error:</strong> Die Datei ist schreibgeschützt. Bitte korrigieren Sie die Zugriffsrechte für: %s';

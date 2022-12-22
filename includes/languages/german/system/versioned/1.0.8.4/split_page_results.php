@@ -10,12 +10,12 @@
   Released under the GNU General Public License
 */
 
-const TEXT_DISPLAY_NUMBER_OF_PRODUCTS = 'angezeigte Produkte: <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> insgesamt)';
+const TEXT_DISPLAY_NUMBER_OF_PRODUCTS = 'Angezeigte Produkte: <strong>%d</strong> bis <strong>%d</strong> (von <strong>%d</strong> insgesamt)';
 
-const PREVNEXT_TITLE_FIRST_PAGE = 'erste Seite';
-const PREVNEXT_TITLE_PREVIOUS_PAGE = 'vorherige Seite';
-const PREVNEXT_TITLE_NEXT_PAGE = 'nächste Seite';
-const PREVNEXT_TITLE_LAST_PAGE = 'letzte Seite';
+const PREVNEXT_TITLE_FIRST_PAGE = 'Erste Seite';
+const PREVNEXT_TITLE_PREVIOUS_PAGE = 'Vorherige Seite';
+const PREVNEXT_TITLE_NEXT_PAGE = 'Nächste Seite';
+const PREVNEXT_TITLE_LAST_PAGE = 'Letzte Seite';
 const PREVNEXT_TITLE_PAGE_NO = 'Seite %d';
 const PREVNEXT_TITLE_PREV_SET_OF_NO_PAGE = 'Vorhergehende %d Seiten';
 const PREVNEXT_TITLE_NEXT_SET_OF_NO_PAGE = 'Nächste %d Seiten';
@@ -24,8 +24,8 @@ const PREVNEXT_BUTTON_PREV = '[&lt;&lt;&nbsp;vorherige]';
 const PREVNEXT_BUTTON_NEXT = '[nächste&nbsp;&gt;&gt;]';
 const PREVNEXT_BUTTON_LAST = 'LETZTE&gt;&gt;';
 
-const TEXT_DESCENDINGLY = 'absteigend';
-const TEXT_ASCENDINGLY = 'aufsteigend';
+const TEXT_DESCENDINGLY = 'Produkte absteigend nach %s sortieren';
+const TEXT_ASCENDINGLY = 'Produkte aufsteigend nach %s sortieren';
 
 
 const TABLE_HEADING_IMAGE = '';
@@ -35,9 +35,9 @@ const TABLE_HEADING_MANUFACTURER = 'Hersteller';
 const TABLE_HEADING_QUANTITY = 'Lager';
 const TABLE_HEADING_PRICE = 'Preis';
 const TABLE_HEADING_WEIGHT = 'Gewicht';
-const TABLE_HEADING_BUY_NOW = 'jetzt kaufen';
-const TABLE_HEADING_LATEST_ADDED = 'hinzugefügt';
-const TABLE_HEADING_ORDERED = 'beliebt';
+const TABLE_HEADING_BUY_NOW = 'Jetzt kaufen';
+const TABLE_HEADING_LATEST_ADDED = 'Hinzugefügt';
+const TABLE_HEADING_ORDERED = 'Beliebt';
 
 // grid/list
 const TEXT_SORT_BY = 'Sortieren nach ';

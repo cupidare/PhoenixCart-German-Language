@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Kategorien / Artikel';
+const HEADING_TITLE = 'Kategorien / Produkte';
 const HEADING_TITLE_SEARCH = 'Suche';
 const HEADING_TITLE_GOTO = 'Gehe zu';
 
@@ -19,7 +19,7 @@ const SECTION_HEADING_DATA = '<i class="fas fa-box-open fa-fw mr-1"></i>Infos';
 const SECTION_HEADING_IMAGES = '<i class="fas fa-images fa-fw mr-1"></i>Bilder';
 
 const TABLE_HEADING_ID = 'ID';
-const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Kategorien / Artikel';
+const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Kategorien / Produkte';
 const TABLE_HEADING_ACTION = 'Aktion';
 const TABLE_HEADING_STATUS = 'Status';
 
@@ -35,26 +35,26 @@ const TEXT_PRODUCTS_QUANTITY_INFO = 'Anzahl';
 const TEXT_DATE_ADDED = 'hinzugefügt am';
 const TEXT_DATE_AVAILABLE = 'Erscheinungsdatum';
 
-const TEXT_LAST_MODIFIED = 'letzte Änderung';
+const TEXT_LAST_MODIFIED = 'Letzte Änderung';
 const TEXT_IMAGE_NONEXISTENT = 'BILD EXISTIERT NICHT';
-const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS = 'Bitte fügen Sie eine neue Kategorie oder einen Artikel ein.';
-const TEXT_PRODUCT_DATE_ADDED = 'hinzugefügt am';
-const TEXT_PRODUCT_DATE_AVAILABLE = 'erhältlich ab';
+const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS = 'Bitte fügen Sie eine neue Kategorie oder ein Produkt ein.';
+const TEXT_PRODUCT_DATE_ADDED = 'Hinzugefügt am';
+const TEXT_PRODUCT_DATE_AVAILABLE = 'Erhältlich ab';
 
 const TEXT_EDIT_INTRO = 'Bitte führen Sie alle notwendigen Änderungen durch.';
 const TEXT_EDIT_CATEGORIES_NAME = 'Kategoriename';
 const TEXT_EDIT_CATEGORIES_IMAGE = 'Kategoriebild';
 const TEXT_EDIT_SORT_ORDER = 'Sortierreihenfolge';
 
-const TEXT_INFO_COPY_TO_INTRO = 'Bitte wählen Sie eine neue Kategorie aus, in die Sie den Artikel kopieren möchten';
+const TEXT_INFO_COPY_TO_INTRO = 'Bitte wählen Sie eine neue Kategorie aus, in die Sie das Produkt kopieren möchten';
 const TEXT_INFO_CURRENT_CATEGORIES = 'Derzeitige Kategorien';
 
 const TEXT_INFO_HEADING_NEW_CATEGORY = 'Neue Kategorie';
 const TEXT_INFO_HEADING_EDIT_CATEGORY = 'Kategorie bearbeiten';
 const TEXT_INFO_HEADING_DELETE_CATEGORY = 'Kategorie löschen';
 const TEXT_INFO_HEADING_MOVE_CATEGORY = 'Kategorie verschieben';
-const TEXT_INFO_HEADING_DELETE_PRODUCT = 'Artikel löschen';
-const TEXT_INFO_HEADING_MOVE_PRODUCT = 'Artikel verschieben';
+const TEXT_INFO_HEADING_DELETE_PRODUCT = 'Produkt löschen';
+const TEXT_INFO_HEADING_MOVE_PRODUCT = 'Produkt verschieben';
 const TEXT_INFO_HEADING_COPY_TO = 'Kopieren nach';
 
 const TEXT_DELETE_CATEGORY_INTRO = 'Sind Sie sicher, dass Sie diese Kategorie löschen möchten?';

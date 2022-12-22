@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-const BOX_LOCALIZATION_CUSTOMER_DATA_GROUPS = 'Nutzerdatengruppen';
+const BOX_LOCALIZATION_CUSTOMER_DATA_GROUPS = 'Kunden-Datengruppe';

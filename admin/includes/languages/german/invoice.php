@@ -14,7 +14,7 @@ const TABLE_HEADING_COMMENTS = 'Kommentar';
 
 const TABLE_HEADING_QTY = 'Menge';
 const TABLE_HEADING_PRODUCTS_MODEL = 'Artikel-Nr.';
-const TABLE_HEADING_PRODUCTS = 'Artikel';
+const TABLE_HEADING_PRODUCTS = 'Produkte';
 const TABLE_HEADING_TAX = 'MwSt.';
 const TABLE_HEADING_TOTAL = 'Summe';
 const TABLE_HEADING_PRICE_EXCLUDING_TAX = 'Preis (Netto)';

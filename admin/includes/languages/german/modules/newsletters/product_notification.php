@@ -11,10 +11,10 @@
 */
 
 define('TEXT_COUNT_CUSTOMERS', 'Kunden, die diese Nachricht empfangen: %s');
-define('TEXT_PRODUCTS', 'Artikel');
-define('TEXT_SELECTED_PRODUCTS', 'Ausgewählte Artikel');
+define('TEXT_PRODUCTS', 'Produkte');
+define('TEXT_SELECTED_PRODUCTS', 'Ausgewählte Produkte');
 
-define('JS_PLEASE_SELECT_PRODUCTS', 'Wählen Sie bitte einige Artikel.');
+define('JS_PLEASE_SELECT_PRODUCTS', 'Wählen Sie bitte einige Produkte.');
 
 define('BUTTON_GLOBAL', 'Global');
 define('BUTTON_SELECT', '>>>');

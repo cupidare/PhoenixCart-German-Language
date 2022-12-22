@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -24,7 +24,7 @@ define('TEXT_NEWSLETTER_MODULE', 'Module:');
 define('TEXT_NEWSLETTER_TITLE', 'Titel des Rundschreibens:');
 define('TEXT_NEWSLETTER_CONTENT', 'Inhalt:');
 
-define('TEXT_NEWSLETTER_DATE_ADDED', 'hinzugefügt am: %s');
+define('TEXT_NEWSLETTER_DATE_ADDED', 'Hinzugefügt am: %s');
 define('TEXT_NEWSLETTER_DATE_SENT', 'Datum gesendet: %s');
 
 define('TEXT_INFO_DELETE_INTRO', 'Sind Sie sicher, dass Sie dieses Rundschreiben löschen möchten?');

@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_REPORTS_ORDERS_TOTAL', 'Benutzer: Bestellstatistik');
+  define('MODULES_ADMIN_MENU_REPORTS_ORDERS_TOTAL', 'Kunden: Bestellstatistik');

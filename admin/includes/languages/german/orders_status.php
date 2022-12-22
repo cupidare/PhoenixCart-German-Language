@@ -13,7 +13,7 @@
 define('HEADING_TITLE', 'Bestellstatus');
 
 define('TABLE_HEADING_ORDERS_STATUS', 'Bestellstatus');
-define('TABLE_HEADING_PUBLIC_STATUS', 'sichtbar für Kunde');
+define('TABLE_HEADING_PUBLIC_STATUS', 'Sichtbar für Kunde');
 define('TABLE_HEADING_DOWNLOADS_STATUS', 'Downloads freigegeben');
 define('TABLE_HEADING_ACTION', 'Aktion');
 

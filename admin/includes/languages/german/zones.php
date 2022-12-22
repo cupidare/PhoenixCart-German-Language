@@ -23,6 +23,6 @@ define('TEXT_INFO_ZONES_CODE', 'Code des Bundeslandes:');
 define('TEXT_INFO_COUNTRY_NAME', 'Land:');
 define('TEXT_INFO_INSERT_INTRO', 'Bitte geben Sie das neue Bundesland mit allen relevanten Daten ein');
 define('TEXT_INFO_DELETE_INTRO', 'Sind Sie sicher, dass Sie dieses Bundesland löschen wollen?');
-define('TEXT_INFO_HEADING_NEW_ZONE', 'neues Bundesland');
+define('TEXT_INFO_HEADING_NEW_ZONE', 'Neues Bundesland');
 define('TEXT_INFO_HEADING_EDIT_ZONE', 'Bundesland bearbeiten');
 define('TEXT_INFO_HEADING_DELETE_ZONE', 'Bundesland löschen');

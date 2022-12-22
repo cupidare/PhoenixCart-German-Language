@@ -13,7 +13,7 @@
 define('TABLE_HEADING_NEW_PRODUCTS', 'Neue Produkte im %s');
 
 define('TEXT_NO_PRODUCTS', 'Es gibt keine Produkte in dieser Kategorie.');
-define('TEXT_NUMBER_OF_PRODUCTS', 'Artikel: ');
+define('TEXT_NUMBER_OF_PRODUCTS', 'Produkte: ');
 define('TEXT_SHOW', '<strong>Zeigen:</strong>');
 define('TEXT_BUY', 'Bestelle \'');
 define('TEXT_NOW', '\' jetzt');

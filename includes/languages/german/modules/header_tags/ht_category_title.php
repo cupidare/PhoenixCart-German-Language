@@ -11,6 +11,6 @@
 */
 
   define('MODULE_HEADER_TAGS_CATEGORY_TITLE_TITLE', 'Kategorie-Titel');
-  define('MODULE_HEADER_TAGS_CATEGORY_TITLE_DESCRIPTION', 'Fügen Sie den Titel der aktuellen Kategorie zum Seitentitel hinzu');
+  define('MODULE_HEADER_TAGS_CATEGORY_TITLE_DESCRIPTION', 'Fügt den Titel der aktuellen Kategorie zum Seitentitel hinzu');
 
   define('MODULE_HEADER_TAGS_CATEGORY_SEO_SEPARATOR', ' | ');

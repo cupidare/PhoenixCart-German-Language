@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -21,7 +21,7 @@ define('TEXT_INFO_HEADING_NEW_ZONE', 'Neue Steuerzone');
 define('TEXT_INFO_NEW_ZONE_INTRO', 'Bitte geben Sie die neue Steuerzone mit allen relevanten Daten ein');
 
 define('TEXT_INFO_HEADING_EDIT_ZONE', 'Steuerzone bearbeiten');
-define('TEXT_INFO_EDIT_ZONE_INTRO', 'Bitte führen Sie alle notwendigen änderungen durch.');
+define('TEXT_INFO_EDIT_ZONE_INTRO', 'Bitte führen Sie alle notwendigen Änderungen durch.');
 
 define('TEXT_INFO_HEADING_DELETE_ZONE', 'Steuerzone löschen');
 define('TEXT_INFO_DELETE_ZONE_INTRO', 'Sind Sie sicher, dass Sie diese Steuerzone löschen wollen?');

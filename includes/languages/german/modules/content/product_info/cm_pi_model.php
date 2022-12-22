@@ -13,4 +13,4 @@
   const MODULE_CONTENT_PI_MODEL_TITLE         = 'Artikelnummer';
   const MODULE_CONTENT_PI_MODEL_DESCRIPTION   = 'Zeige die Artikelnummer auf der Produkt-Info Seite.';
   
-  const MODULE_CONTENT_PI_MODEL_DISPLAY_MODEL = 'Artikel:<span class="badge badge-primary badge-pill">%s</span>';
+  const MODULE_CONTENT_PI_MODEL_DISPLAY_MODEL = 'Produkt:<span class="badge badge-primary badge-pill">%s</span>';

@@ -36,6 +36,6 @@ define('HEADING_COMMENT', 'Kommentar');
 define('TEXT_NO_COMMENTS_AVAILABLE', 'Kein Kommentar vorhanden.');
 
 define('TABLE_HEADING_DOWNLOAD_DATE', 'Herunterladen möglich bis:');
-define('TABLE_HEADING_DOWNLOAD_COUNT', 'max. Anz. Downloads');
-define('HEADING_DOWNLOAD', 'Artikel herunterladen:');
+define('TABLE_HEADING_DOWNLOAD_COUNT', 'Max. Anz. Downloads');
+define('HEADING_DOWNLOAD', 'Produkte herunterladen:');
 

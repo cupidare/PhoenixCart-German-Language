@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Mein Account');
+define('NAVBAR_TITLE_1', 'Mein Kundenkonto');
 define('NAVBAR_TITLE_2', 'Produktbenachrichtungen');
 
 define('HEADING_TITLE', 'Produktbenachrichtigungen');

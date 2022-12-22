@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'meist verkaufte Artikel');
+define('HEADING_TITLE', 'meist verkaufte Produkte');
 
 define('TABLE_HEADING_NUMBER', 'Nr.');
-define('TABLE_HEADING_PRODUCTS', 'Artikel');
-define('TABLE_HEADING_PURCHASED', 'verkaufte Anzahl');
+define('TABLE_HEADING_PRODUCTS', 'Produkte');
+define('TABLE_HEADING_PURCHASED', 'Verkaufte Anzahl');

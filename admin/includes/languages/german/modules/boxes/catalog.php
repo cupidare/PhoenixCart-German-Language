@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_CATALOG', '<i data-content="Artikel" data-toggle="popover" data-placement="right" class="fas fa-cart-plus fa-fw mr-1"></i><span class="d-inline d-md-none">Artikel</span>');
+  define('BOX_HEADING_CATALOG', '<i data-content="Produkte" data-toggle="popover" data-placement="right" class="fas fa-cart-plus fa-fw mr-1"></i><span class="d-inline d-md-none">Produkte</span>');

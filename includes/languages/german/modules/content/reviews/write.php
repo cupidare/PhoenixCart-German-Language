@@ -24,7 +24,7 @@ define('VERIFIED_BUYER', '%s [verifizierter Käufer]');
 define('TEXT_BAD', '%s (schlechteste)');
 define('TEXT_GOOD', '%s (beste)');
 
-define('TEXT_RATED', 'Diesen Artikel bewerten %s');
+define('TEXT_RATED', 'Dieses Produkt bewerten %s');
 
 define('IMAGE_BUTTON_ADD_REVIEW', 'Bewertung abschicken');
 
