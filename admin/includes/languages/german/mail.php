@@ -15,7 +15,7 @@ const HEADING_TITLE = 'E-Mail an Kunden versenden';
 const TEXT_CUSTOMER = 'Kunde';
 const TEXT_SUBJECT = 'Betreff';
 const TEXT_FROM = 'Absender';
-const TEXT_FROM_ADDRESS = 'Von-Adresse';
+const TEXT_FROM_ADDRESS = 'Absender-Adresse';
 const TEXT_MESSAGE = 'Nachricht';
 
 const TEXT_SELECT_CUSTOMER = 'Kunden auswählen';

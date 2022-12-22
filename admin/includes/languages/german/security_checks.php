@@ -16,4 +16,4 @@ define('TABLE_HEADING_TITLE', 'Überschrift');
 define('TABLE_HEADING_MODULE', 'Modul');
 define('TABLE_HEADING_INFO', 'Info');
 
-define('BUTTON_TEXT_RELOAD', 'neu laden');
+define('BUTTON_TEXT_RELOAD', 'Neu laden');

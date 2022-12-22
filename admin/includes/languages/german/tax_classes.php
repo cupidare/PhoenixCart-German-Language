@@ -15,7 +15,7 @@ define('HEADING_TITLE', 'Steuerklassen');
 define('TABLE_HEADING_TAX_CLASSES', 'Steuerklassen');
 define('TABLE_HEADING_ACTION', 'Aktion');
 
-define('TEXT_INFO_EDIT_INTRO', 'Bitte führen Sie alle notwendigen änderungen durch');
+define('TEXT_INFO_EDIT_INTRO', 'Bitte führen Sie alle notwendigen Änderungen durch');
 define('TEXT_INFO_CLASS_TITLE', 'Name der Steuerklasse:');
 define('TEXT_INFO_CLASS_DESCRIPTION', 'Beschreibung:<br>%s');
 define('TEXT_INFO_DATE_ADDED', 'hinzugefügt am: %s');

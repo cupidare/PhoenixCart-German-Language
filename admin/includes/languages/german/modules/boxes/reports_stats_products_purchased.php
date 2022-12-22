@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_REPORTS_PRODUCTS_PURCHASED', 'gekaufte Artikel');
+  define('MODULES_ADMIN_MENU_REPORTS_PRODUCTS_PURCHASED', 'Gekaufte Produkte');

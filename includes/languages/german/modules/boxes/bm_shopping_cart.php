@@ -14,7 +14,7 @@
   const MODULE_BOXES_SHOPPING_CART_DESCRIPTION = 'zeige gekaufte Produkte';
 
   const MODULE_BOXES_SHOPPING_CART_BOX_TITLE = 'Warenkorb';
-  const MODULE_BOXES_SHOPPING_CART_BOX_CART_EMPTY = '0 Artikel';
+  const MODULE_BOXES_SHOPPING_CART_BOX_CART_EMPTY = '0 Produkte';
   const MODULE_BOXES_SHOPPING_CART_BOX_ITEM_QUANTITY = '%d x %s';
 
   const MODULE_BOXES_SHOPPING_CART_BOX_CART_TOTAL = '<span class="cart-value">%s</span>';

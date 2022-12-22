@@ -10,10 +10,9 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Verzeichnis Sicherheit/Lesezugriffsrecht';
+const HEADING_TITLE = 'Sicherheit der Verzeichnisse/Zugriffsrechte';
 
-const TABLE_HEADING_DIRECTORIES = 'Directories/Verzeichnisse';
-const TABLE_HEADING_RECOMMENDED = 'vorgeschlagen';
+const TABLE_HEADING_DIRECTORIES = 'Verzeichnisse';
+const TABLE_HEADING_RECOMMENDED = 'Empfohlen';
 
-const TEXT_DIRECTORY = 'Directory:  %s<br><a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions">User Guide</a>';
-
+const TEXT_DIRECTORY = 'Verzeichnis:  %s<br><a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions">Benutzerhandbuch</a>';

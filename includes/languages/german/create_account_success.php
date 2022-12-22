@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Ein Profil erstellen';
+const NAVBAR_TITLE_1 = 'Ein Kundenkonto erstellen';
 const NAVBAR_TITLE_2 = 'Fertig';

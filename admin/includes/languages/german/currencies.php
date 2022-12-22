@@ -26,7 +26,7 @@ const TEXT_INFO_CURRENCY_SYMBOL_RIGHT = 'Symbol Rechts: %s';
 const TEXT_INFO_CURRENCY_DECIMAL_POINT = 'Dezimalkomma: %s';
 const TEXT_INFO_CURRENCY_THOUSANDS_POINT = 'Tausenderpunkt: %s';
 const TEXT_INFO_CURRENCY_DECIMAL_PLACES = 'Dezimalstellen: %s';
-const TEXT_INFO_CURRENCY_LAST_UPDATED = 'letzte Änderung: %s';
+const TEXT_INFO_CURRENCY_LAST_UPDATED = 'Letzte Änderung: %s';
 const TEXT_INFO_CURRENCY_VALUE = 'Wert: %s';
 const TEXT_INFO_CURRENCY_EXAMPLE = 'Beispiel: %s= %s';
 const TEXT_INFO_INSERT_INTRO = 'Bitte geben Sie die neue Währung mit allen relevanten Daten ein';

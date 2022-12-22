@@ -11,4 +11,4 @@
 */
 
 const MODULE_CUSTOMER_DATA_NAME_2_TEXT_TITLE = 'Vor- und Nachname';
-const MODULE_CUSTOMER_DATA_NAME_2_TEXT_DESCRIPTION = 'Zeigt den Vor- und Nachnamen in den Nutzerdaten';
+const MODULE_CUSTOMER_DATA_NAME_2_TEXT_DESCRIPTION = 'Zeigt den Vor- und Nachnamen in den Kundendaten';

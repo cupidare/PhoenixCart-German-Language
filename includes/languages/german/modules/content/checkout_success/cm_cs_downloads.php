@@ -2,19 +2,17 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_TITLE = 'Produkt Downloads';
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_DESCRIPTION = 'Download-Links für bestellte Produkte auf der Checkout-Erfolgsseite anzeigen';
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_TITLE', 'Produktdownloads');
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_DESCRIPTION', 'Show ordered product download links on the checkout success page');
-
-  define('TABLE_HEADING_DOWNLOAD_DATE', 'Expiry date: ');
-  define('TABLE_HEADING_DOWNLOAD_COUNT', ' downloads remaining');
-  define('HEADING_DOWNLOAD', 'Download your products here:');
-  define('FOOTER_DOWNLOAD', 'You can also download your products at a later time at \'%s\'');
-
+  const TABLE_HEADING_DOWNLOAD_DATE = 'Ablauf-Datum: ';
+  const TABLE_HEADING_DOWNLOAD_COUNT = ' verbleibende Downloads';
+  const HEADING_DOWNLOAD = 'Laden Sie hier Ihre Produkte herunter:';
+  const FOOTER_DOWNLOAD = 'Sie können Ihre Produkte auch zu einem späteren Zeitpunkt herunterladen unter \'%s\'';

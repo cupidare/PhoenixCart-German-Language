@@ -12,7 +12,7 @@
 
 const HEADING_TITLE = 'Sonderangebote';
 
-const TABLE_HEADING_PRODUCTS = 'Artikel';
+const TABLE_HEADING_PRODUCTS = 'Produkte';
 const TABLE_HEADING_PRODUCTS_PRICE = 'Artikelpreis';
 const TABLE_HEADING_SPECIAL_PRICE = 'Sonderpreis';
 const TABLE_HEADING_STATUS = 'Status';
@@ -30,10 +30,10 @@ const TEXT_SPECIALS_PRICE_TIP = <<<'EOT'
 </dl>
 EOT;
 
-const TEXT_INFO_DATE_ADDED = 'hinzugefügt am:';
-const TEXT_INFO_LAST_MODIFIED = 'letzte Änderung:';
-const TEXT_INFO_NEW_PRICE = 'neuer Preis:';
-const TEXT_INFO_ORIGINAL_PRICE = 'alter Preis:';
+const TEXT_INFO_DATE_ADDED = 'Hinzugefügt am:';
+const TEXT_INFO_LAST_MODIFIED = 'Letzte Änderung:';
+const TEXT_INFO_NEW_PRICE = 'Neuer Preis:';
+const TEXT_INFO_ORIGINAL_PRICE = 'Alter Preis:';
 const TEXT_INFO_PERCENTAGE = 'Prozent:';
 const TEXT_INFO_EXPIRES_DATE = 'Gültig bis:';
 const TEXT_INFO_STATUS_CHANGE = 'Status geändert:';
@@ -41,6 +41,6 @@ const TEXT_INFO_STATUS_CHANGE = 'Status geändert:';
 const TEXT_INFO_HEADING_DELETE_SPECIALS = 'Sonderangebot löschen';
 const TEXT_INFO_DELETE_INTRO = 'Sind Sie sicher, dass Sie das Sonderangebot löschen möchten?';
 
-const BUTTON_INSERT_SPECIAL = 'neues Sonderangebot erstellen';
+const BUTTON_INSERT_SPECIAL = 'Neues Sonderangebot erstellen';
 
 const WARNING_NO_PRODUCTS = 'Sie müssen ein Produkt hinzufügen, bevor Sie es als Sonderangebot einstellen können.';

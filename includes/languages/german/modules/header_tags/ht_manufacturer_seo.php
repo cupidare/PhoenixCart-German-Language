@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_HEADER_TAGS_MANUFACTURERS_SEO_TITLE', 'Manufacturer SEO');
-  define('MODULE_HEADER_TAGS_MANUFACTURERS_SEO_DESCRIPTION', 'Add the SEO elements you defined for the manufacturer, to the underlying code of the manufacturer page (aka Meta Description and Meta Keywords).  Good for SEO.');
+  define('MODULE_HEADER_TAGS_MANUFACTURERS_SEO_TITLE', 'Hersteller SEO');
+  define('MODULE_HEADER_TAGS_MANUFACTURERS_SEO_DESCRIPTION', 'Fügt SEO-Elemente, die für den Hersteller definiert sind, zum zugrunde liegenden Code der Herstellerseite (auch bekannt als Meta Description und Meta Keywords) hinzu. Gut fuer SEO.');

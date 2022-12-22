@@ -50,7 +50,7 @@ const TEXT_INSERT_NOTE = '
 
 const TEXT_IMAGE_NONEXISTENT = 'Bild nicht vorhanden!';
 
-const TEXT_ADVERT_DATE_ADDED = 'hinzugefügt am: %s';
+const TEXT_ADVERT_DATE_ADDED = 'Hinzugefügt am: %s';
 const TEXT_ADVERT_STATUS_CHANGE = 'Status Änderung: %s';
 
 const TEXT_INFO_DELETE_INTRO = 'Möchten Sie diese Werbung löschen?';

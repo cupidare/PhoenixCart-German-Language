@@ -12,13 +12,13 @@
 
 define('HEADING_TITLE', 'Produktbewertungen');
 
-define('TABLE_HEADING_PRODUCTS', 'Artikel');
+define('TABLE_HEADING_PRODUCTS', 'Produkte');
 define('TABLE_HEADING_RATING', 'Bewertung');
-define('TABLE_HEADING_DATE_ADDED', 'hinzugefügt am');
+define('TABLE_HEADING_DATE_ADDED', 'Hinzugefügt am');
 define('TABLE_HEADING_ACTION', 'Aktion');
 define('TABLE_HEADING_STATUS', 'Status');
 
-define('ENTRY_PRODUCT', 'Artikel:');
+define('ENTRY_PRODUCT', 'Produkt:');
 define('ENTRY_FROM', 'von:');
 define('ENTRY_DATE', 'Datum:');
 define('ENTRY_REVIEW', 'Bewertung:');

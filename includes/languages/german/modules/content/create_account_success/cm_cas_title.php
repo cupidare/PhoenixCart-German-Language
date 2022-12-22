@@ -13,6 +13,6 @@
   const MODULE_CONTENT_CAS_TITLE_TITLE        = 'Seitenüberschrift';
   const MODULE_CONTENT_CAS_TITLE_DESCRIPTION  = 'Zeigt die Seitenüberschrift';
   
-  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Danke für die Erstellung eines Profiles!';
+  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Danke für die Erstellung eines Kundenkontos!';
 
   

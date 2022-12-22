@@ -11,7 +11,7 @@
 */
 
 const MODULE_CUSTOMER_DATA_LASTNAME_TEXT_TITLE = 'Nachname';
-const MODULE_CUSTOMER_DATA_LASTNAME_TEXT_DESCRIPTION = 'Zeigt einen Eintrag für den Nachname während der Registrierung';
+const MODULE_CUSTOMER_DATA_LASTNAME_TEXT_DESCRIPTION = 'Zeigt einen Eintrag für den Nachnamen während der Registrierung';
 
 const ENTRY_LAST_NAME = 'Nachname';
 const ENTRY_LAST_NAME_ERROR = 'Ihr Nachname muss mindestens %d Zeichen aufweisen';

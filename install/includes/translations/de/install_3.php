@@ -12,13 +12,13 @@
 
 const TEXT_STORE_NAME = 'Name des Shops';
 const TEXT_STORE_NAME_PLACEHOLDER = 'Name des Shops';
-const TEXT_STORE_NAME_EXPLANATION = '<small class="form-text text-muted">Der Name des Shops, der den Nutzern angezeigt wird.</small>';
+const TEXT_STORE_NAME_EXPLANATION = '<small class="form-text text-muted">Der Name des Shops, der den Kunden angezeigt wird.</small>';
 const TEXT_OWNER_NAME = 'Name des Shop-Besitzers';
 const TEXT_OWNER_NAME_PLACEHOLDER = 'Ihr Name';
-const TEXT_OWNER_NAME_EXPLANATION = '<small class="form-text text-muted">Der Name des Shopbesitzers, der den Nutzern angezeigt wird.</small>';
+const TEXT_OWNER_NAME_EXPLANATION = '<small class="form-text text-muted">Der Name des Shopbesitzers, der den Kunden angezeigt wird.</small>';
 const TEXT_OWNER_EMAIL = 'Email-Adresse des Shop-Besitzers';
 const TEXT_OWNER_EMAIL_PLACEHOLDER = 'you@yours.com';
-const TEXT_OWNER_EMAIL_EXPLANATION = '<small class="form-text text-muted">Die Email-Adresse des Shopbesitzers, der den Nutzern angezeigt wird.</small>';
+const TEXT_OWNER_EMAIL_EXPLANATION = '<small class="form-text text-muted">Die Email-Adresse des Shopbesitzers, der den Kunden angezeigt wird.</small>';
 const TEXT_ADMIN_USERNAME = 'Admin Nutzername';
 const TEXT_ADMIN_USERNAME_PLACEHOLDER = 'Nutzername';
 const TEXT_ADMIN_USERNAME_EXPLANATION = '<small class="form-text text-muted">Der Admin-Nutzername für das Admin-Backend.</small>';

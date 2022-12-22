@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = "Who's Online";
+const HEADING_TITLE = 'Wer ist Online';
 
 const TABLE_HEADING_ONLINE = 'Online';
 const TABLE_HEADING_CUSTOMER_ID = 'ID';

@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-const MODULE_CUSTOMER_DATA_SORTABLE_NAME_2_TEXT_TITLE = 'nach Name sortieren (Nachname, Vorname)';
-const MODULE_CUSTOMER_DATA_SORTABLE_NAME_2_TEXT_DESCRIPTION = 'ordnet nach Nachname (Nachname, Vorname)';
+const MODULE_CUSTOMER_DATA_SORTABLE_NAME_2_TEXT_TITLE = 'Nach Name ordnen (Nachname, Vorname)';
+const MODULE_CUSTOMER_DATA_SORTABLE_NAME_2_TEXT_DESCRIPTION = 'Ordnet nach Nachname (Nachname, Vorname)';

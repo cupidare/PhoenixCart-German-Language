@@ -13,7 +13,7 @@
 const HEADING_TITLE = 'Versions-Checker';
 
 const TABLE_HEADING_VERSION = 'Version';
-const TABLE_HEADING_RELEASED = 'Veröffentlich am';
+const TABLE_HEADING_RELEASED = 'Veröffentlicht am';
 const TABLE_HEADING_ACTION = 'Aktion';
 
 const TITLE_INSTALLED_VERSION = 'Installierte Version: <strong>CE Phoenix v%s</strong>';

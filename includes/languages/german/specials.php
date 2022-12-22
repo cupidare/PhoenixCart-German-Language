@@ -2,15 +2,15 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2019 osCommerce CE Phoenix
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Besondere Angebote');
+define('NAVBAR_TITLE', 'Sonderangebote');
 define('HEADING_TITLE', 'Schnell zuschlagen, so lange der Vorrat reicht!');
 
 define('TEXT_NO_PRODUCTS', 'Derzeit gibt es keine Sonderangebote');

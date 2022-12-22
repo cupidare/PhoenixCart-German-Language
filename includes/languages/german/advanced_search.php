@@ -14,7 +14,7 @@ const NAVBAR_TITLE_1 = 'Erweiterte Suche';
 const NAVBAR_TITLE_2 = 'Suchergebnisse';
 
 const HEADING_TITLE_1 = 'Ihre Suchkriterien';
-const HEADING_TITLE_2 = 'Artikel, welche den Suchkriterien entsprechen';
+const HEADING_TITLE_2 = 'Produkte, welche den Suchkriterien entsprechen';
 
 const HEADING_SEARCH_CRITERIA = 'Ihre Suchkriterien';
 
@@ -54,7 +54,7 @@ Zum Beispiel <u>Marmelade AND (Erdbeer OR rot OR "grüner Apfel")</u>.
 EOT;
 const TEXT_CLOSE_WINDOW = '<u>Fenster schliessen</u> [x]';
 
-const TEXT_NO_PRODUCTS = 'Es wurden keine Artikel gefunden, die den Suchkriterien entsprechen.';
+const TEXT_NO_PRODUCTS = 'Es wurden keine Produkte gefunden, die den Suchkriterien entsprechen.';
 
 const ERROR_AT_LEAST_ONE_INPUT = 'Wenigstens ein Feld des Suchformulars muss ausgefüllt werden.';
 const ERROR_INVALID_FROM_DATE = 'Unzulässiges <b>von</b> Datum';

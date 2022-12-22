@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-const MODULE_CFG_MODULE_CONTENT_NAVBAR_TITLE = 'Navbar';
+const MODULE_CFG_MODULE_CONTENT_NAVBAR_TITLE = 'Navigationsleiste';

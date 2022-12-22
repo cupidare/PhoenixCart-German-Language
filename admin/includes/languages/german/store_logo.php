@@ -12,7 +12,7 @@
 
 const HEADING_TITLE = 'Derzeitiges Logo';
 
-const HEADING_NEW_LOGO = 'neues Logo hochladen';
+const HEADING_NEW_LOGO = 'Neues Logo hochladen';
 
 const TEXT_LOGO_IMAGE = 'Neues Logo';
 const TEXT_FORMAT_AND_LOCATION = 'Das Shop-Logo muss im png/gif/jpg/svg/webp-Format vorliegen und ÜBERSCHREIBT das bestehende Logo';

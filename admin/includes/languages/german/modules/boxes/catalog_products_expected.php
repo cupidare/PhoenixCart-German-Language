@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_CATALOG_PRODUCTS_EXPECTED', 'künftige Produkte');
+  define('MODULES_ADMIN_MENU_CATALOG_PRODUCTS_EXPECTED', 'Künftige Produkte');

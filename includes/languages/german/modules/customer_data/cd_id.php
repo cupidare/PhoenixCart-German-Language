@@ -11,4 +11,4 @@
 */
 
 const MODULE_CUSTOMER_DATA_ID_TEXT_TITLE = 'Kennung';
-const MODULE_CUSTOMER_DATA_ID_TEXT_DESCRIPTION = 'Die Benutzerkennung';
+const MODULE_CUSTOMER_DATA_ID_TEXT_DESCRIPTION = 'Die Kundenkennung';

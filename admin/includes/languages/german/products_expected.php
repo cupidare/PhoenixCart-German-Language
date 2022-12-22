@@ -10,10 +10,10 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'erwartete Artikel');
+define('HEADING_TITLE', 'Erwartete Produkte');
 
-define('TABLE_HEADING_PRODUCTS', 'Artikel');
-define('TABLE_HEADING_DATE_EXPECTED', 'verfügbar ab');
+define('TABLE_HEADING_PRODUCTS', 'Produkte');
+define('TABLE_HEADING_DATE_EXPECTED', 'Verfügbar ab');
 define('TABLE_HEADING_ACTION', 'Aktion');
 
-define('TEXT_INFO_DATE_EXPECTED', 'verfügbar ab: %s');
+define('TEXT_INFO_DATE_EXPECTED', 'Verfügbar ab: %s');

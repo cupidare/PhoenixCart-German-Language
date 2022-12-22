@@ -18,8 +18,8 @@ const TABLE_HEADING_ACCOUNT_CREATED = 'Zugang erstellt am';
 const TABLE_HEADING_ACTION = 'Aktion';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Zugang erstellt am: %s';
-const TEXT_DATE_ACCOUNT_LAST_MODIFIED = 'letzte Änderung: %s';
-const TEXT_INFO_DATE_LAST_LOGON = 'letzte Anmeldung: %s';
+const TEXT_DATE_ACCOUNT_LAST_MODIFIED = 'Letzte Änderung: %s';
+const TEXT_INFO_DATE_LAST_LOGON = 'Letzte Anmeldung: %s';
 const TEXT_INFO_NUMBER_OF_LOGONS = 'Anzahl der Anmeldungen: %s';
 const TEXT_INFO_COUNTRY = 'Land: %s';
 const TEXT_INFO_NUMBER_OF_REVIEWS = 'Anzahl der Artikelbewertungen: %s';
@@ -28,6 +28,7 @@ const TEXT_DELETE_REVIEWS = '%s Bewertung(en) löschen';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER = 'Kunden löschen';
 const TYPE_BELOW = 'Bitte unten eingeben';
 const PLEASE_SELECT = 'Auswählen';
+
 const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'

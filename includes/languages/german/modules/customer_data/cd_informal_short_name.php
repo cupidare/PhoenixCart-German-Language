@@ -11,4 +11,4 @@
 */
 
 const MODULE_CUSTOMER_DATA_INFORMAL_SHORT_NAME_TEXT_TITLE = 'Informeller Kurzname';
-const MODULE_CUSTOMER_DATA_INFORMAL_SHORT_NAME_TEXT_DESCRIPTION = 'Nutzen Sie den erseten Vorname als Anrede';
+const MODULE_CUSTOMER_DATA_INFORMAL_SHORT_NAME_TEXT_DESCRIPTION = 'Nutzen Sie den Vornamen als Anrede';

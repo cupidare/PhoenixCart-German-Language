@@ -14,9 +14,9 @@ const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_TITLE = 'Status der Bestellung aktu
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_DESCRIPTION = 'Eine Nachricht schicken, wenn der Status aktualisiert wird.';
 
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_SEPARATOR = '------------------------------------------------------';
-const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_SUBJECT = 'Bestellung aktualisieren';
+const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_SUBJECT = 'Ihre Bestellung wurde aktualisiert';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_ORDER_NUMBER = 'Bestellnummer:  %d';
-const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_INVOICE_URL = 'Ausführliche Rechnung:  %s';
+const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_INVOICE_URL = 'Detaillierte Rechnung:  %s';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_DATE_ORDERED = 'Bestelldatum:  %s';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_STATUS_UPDATE = <<<'EOT'
 Ihre Bestellung wurde aktualisiert.
